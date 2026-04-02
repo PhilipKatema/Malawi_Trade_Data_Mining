@@ -1,4 +1,4 @@
-# 🇲🇼 Malawi International Merchandise Trade Statistics — Data Mining Project
+# 🇲🇼 Malawi International Merchandise Trade Statistics - Data Mining Project
 
 > **A four-module KNIME data mining analysis of Malawi's trade economy (2022–2025)**  
 > *Time Series Forecasting · Commodity Clustering · Anomaly Detection · Association Rule Mining*
@@ -25,7 +25,7 @@ This project applies four complementary data mining techniques to **3,000 record
 
 ## 🔬 Four Mining Modules
 
-### Module 1 — Time Series Forecasting
+### Module 1 - Time Series Forecasting
 Predicts monthly import and export values using lag features (lag-1, lag-3, lag-12) and cyclical seasonal encoding (sin/cos transformations). Compares Linear Regression vs Random Forest Regression.
 
 | Model | Imports R² | Exports R² | Import MAPE | Export MAPE |
@@ -37,21 +37,21 @@ Predicts monthly import and export values using lag features (lag-1, lag-3, lag-
 
 ---
 
-### Module 2 — Commodity Clustering
+### Module 2 - Commodity Clustering
 Clusters 25 export commodities by 48-month trade behaviour using k-Means and Hierarchical Clustering with PCA dimensionality reduction.
 
 | Cluster | Commodities | Interpretation |
 |---|---|---|
-| Dominant Outlier | Tobacco, Other Exports | Behaviourally isolated — algorithmically confirmed |
+| Dominant Outlier | Tobacco, Other Exports | Behaviourally isolated - algorithmically confirmed |
 | Mid-Tier Agricultural | Tea, Pulses, Groundnuts, Macadamia, Soya Beans | Best diversification candidates |
 | Low-Value Mixed | Natural Rubber, Plastics, Scrap Metal, Sugar | Low volume, moderate variability |
-| Marginal Mass | 14 remaining commodities | Undifferentiated — minimal trade impact |
+| Marginal Mass | 14 remaining commodities | Undifferentiated - minimal trade impact |
 
 **Key Finding:** Both algorithms assign all 25 commodities to identical clusters (100% agreement), confirming Tobacco's behavioural uniqueness without being provided its value.
 
 ---
 
-### Module 4 — Anomaly Detection
+### Module 4 - Anomaly Detection
 Applies a rolling Z-Score method (12-month window) to flag statistically abnormal trade periods across imports and exports.
 
 | Flag Type | Count | Primary Driver |
@@ -62,27 +62,27 @@ Applies a rolling Z-Score method (12-month window) to flag statistically abnorma
 | Elevated Low | 13 | Post-devaluation compression; El Niño crop failure; Tanzania dispute |
 
 **Four Macro Shocks Identified:**
-1. 🌀 **Cyclone Freddy** — March 2023 · $680M economic damage
-2. 💱 **44% Kwacha Devaluation** — November 2023
-3. 🌵 **El Niño Drought** — January–September 2024 · 4.2M food insecure
-4. 🚧 **Tanzania Trade Dispute** — March 2025 · transit route closed
+1. 🌀 **Cyclone Freddy** - March 2023 · $680M economic damage
+2. 💱 **44% Kwacha Devaluation** - November 2023
+3. 🌵 **El Niño Drought** - January–September 2024 · 4.2M food insecure
+4. 🚧 **Tanzania Trade Dispute** - March 2025 · transit route closed
 
-**Key Finding:** The January 2026 import Anomaly High (Z=2.03, $390.7M) is not an isolated event — it is the structural capstone of a worsening pattern. World Bank: current account deficit near 20% of GDP, forex reserves below 1 month of imports.
+**Key Finding:** The January 2026 import Anomaly High (Z=2.03, $390.7M) is not an isolated event - it is the structural capstone of a worsening pattern. World Bank: current account deficit near 20% of GDP, forex reserves below 1 month of imports.
 
 ---
 
-### Module 5 — Association Rule Mining
+### Module 5 - Association Rule Mining
 Discovers commodity co-movement patterns using pairwise Apriori logic (Min Support: 0.3, Min Confidence: 0.6, Min Lift: 1.2).
 
-**Import Rules — Top Associations (Lift 1.5):**
+**Import Rules - Top Associations (Lift 1.5):**
 - Nuclear Reactors/Boilers ↔ Glass and Glassware *(construction cluster)*
 - Electrical Machinery ↔ Plastics *(manufacturing cluster)*
 - Animal/Vegetable Fats ↔ Vehicles *(discretionary/forex cluster)*
 
-**Export Rules — Top Association (Lift 1.583):**
-- **Spices ↔ Cotton** — strongest rule in the entire dataset (agro-ecological co-location)
+**Export Rules - Top Association (Lift 1.583):**
+- **Spices ↔ Cotton** - strongest rule in the entire dataset (agro-ecological co-location)
 
-**Key Finding:** Import co-movement is driven by **forex availability** (all categories respond to one binding constraint). Export co-movement is driven by **climate and agricultural geography** (harvest calendar + shared growing regions). This asymmetry — nature governing exports, finance governing imports — is the most succinct summary of Malawi's structural trade challenge.
+**Key Finding:** Import co-movement is driven by **forex availability** (all categories respond to one binding constraint). Export co-movement is driven by **climate and agricultural geography** (harvest calendar + shared growing regions). This asymmetry - nature governing exports, finance governing imports - is the most succinct summary of Malawi's structural trade challenge.
 
 ---
 
