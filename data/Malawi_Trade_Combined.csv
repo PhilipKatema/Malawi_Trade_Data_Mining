@@ -1,0 +1,3001 @@
+Year,Month #,Month,Commodity,Unit,Quantity,Amount_USD,Trade Type
+2022,1,Jan,Paraffin,Litres,0.0,0.0,Import
+2022,1,Jan,Coal,Kgs,94500.0,19211.0,Import
+2022,1,Jan,Lime,Kgs,150000.0,35292.0,Import
+2022,1,Jan,Glass and Glassware,Units,2360758.0,280974.04,Import
+2022,1,Jan,Tobacco and Manufactured Tobacco Substitutes,Kgs,74419.0,314012.0,Import
+2022,1,Jan,Vehicles Other Than Railways,Units,270.0,833280.85,Import
+2022,1,Jan,Ceramic Products,Kgs,2401932.0,1091163.0,Import
+2022,1,Jan,Cereals,Kgs,4007951.0,1795140.0,Import
+2022,1,Jan,Cement,Kgs,19204786.0,2420992.0,Import
+2022,1,Jan,"Optical, Medical or Surgical Instruments",Kgs,220899.0,3987931.0,Import
+2022,1,Jan,Paper and Paperboard,Kgs,2740456.0,4116434.0,Import
+2022,1,Jan,Iron and Steel,Kgs,3710582.0,4425899.0,Import
+2022,1,Jan,Animal or Vegetable Fats and Oils,Kgs,3325075.0,5412524.0,Import
+2022,1,Jan,Miscellaneous Chemical Products,Kgs,1398135.0,5446162.0,Import
+2022,1,Jan,"Printed Books, Newspapers and Pictures",Kgs,201181.0,7347354.0,Import
+2022,1,Jan,Electrical Machinery and Equipment,Kgs,1177891.0,7569850.0,Import
+2022,1,Jan,Other Made-Up Textile Articles,Kgs,5128958.0,8009980.0,Import
+2022,1,Jan,Soaps and Organic Surface-Active Agents,Kgs,6505437.0,8335342.0,Import
+2022,1,Jan,Pharmaceutical Products,Kgs,448692.0,10038160.0,Import
+2022,1,Jan,Plastics,Kgs,6590901.0,12351484.0,Import
+2022,1,Jan,Diesel and Others,Litres,17688396.0,12813496.0,Import
+2022,1,Jan,"Nuclear Reactors, Boilers and Machinery",Units,100708.0,15283220.41,Import
+2022,1,Jan,Petrol,Litres,26665716.0,19951923.0,Import
+2022,1,Jan,Fertilizer,Kgs,37092965.0,24022046.0,Import
+2022,1,Jan,Other Imports,,0.0,47318132.63,Import
+2022,2,Feb,Paraffin,Litres,67456.0,47639.0,Import
+2022,2,Feb,Coal,Kgs,311550.0,54040.0,Import
+2022,2,Feb,Lime,Kgs,284075.0,70518.0,Import
+2022,2,Feb,Glass and Glassware,Units,779409.0,258252.28,Import
+2022,2,Feb,Tobacco and Manufactured Tobacco Substitutes,Kgs,97219.0,343808.0,Import
+2022,2,Feb,Vehicles Other Than Railways,Units,24.0,763328.44,Import
+2022,2,Feb,"Printed Books, Newspapers and Pictures",Kgs,108733.0,774090.0,Import
+2022,2,Feb,Ceramic Products,Kgs,2831051.0,1109142.0,Import
+2022,2,Feb,Cereals,Kgs,5842812.0,2663619.0,Import
+2022,2,Feb,Cement,Kgs,26710735.0,3296952.0,Import
+2022,2,Feb,Miscellaneous Chemical Products,Kgs,1362211.0,3571575.0,Import
+2022,2,Feb,Fertilizer,Kgs,7935912.0,4546941.0,Import
+2022,2,Feb,Animal or Vegetable Fats and Oils,Kgs,2701519.0,4608819.0,Import
+2022,2,Feb,Paper and Paperboard,Kgs,3201027.0,4999424.0,Import
+2022,2,Feb,Iron and Steel,Kgs,4056506.0,5365755.0,Import
+2022,2,Feb,"Optical, Medical or Surgical Instruments",Kgs,219680.0,6127590.0,Import
+2022,2,Feb,Other Made-Up Textile Articles,Kgs,5281760.0,8278506.0,Import
+2022,2,Feb,Electrical Machinery and Equipment,Kgs,1181141.0,8886433.0,Import
+2022,2,Feb,Soaps and Organic Surface-Active Agents,Kgs,7334025.0,9980691.0,Import
+2022,2,Feb,Diesel and Others,Litres,17626264.0,12754720.0,Import
+2022,2,Feb,Plastics,Kgs,6791023.0,12846631.0,Import
+2022,2,Feb,"Nuclear Reactors, Boilers and Machinery",Units,70502.0,14975990.8,Import
+2022,2,Feb,Pharmaceutical Products,Kgs,520051.0,17557205.0,Import
+2022,2,Feb,Petrol,Litres,29345468.0,23050240.0,Import
+2022,2,Feb,Other Imports,,0.0,46996428.78,Import
+2022,3,Mar,Coal,Kgs,404800.0,73107.0,Import
+2022,3,Mar,Paraffin,Litres,134842.0,88118.0,Import
+2022,3,Mar,Lime,Kgs,621950.0,157749.0,Import
+2022,3,Mar,Glass and Glassware,Units,56308.0,196800.22,Import
+2022,3,Mar,Vehicles Other Than Railways,Units,23.0,202873.2,Import
+2022,3,Mar,Tobacco and Manufactured Tobacco Substitutes,Kgs,145431.0,460469.0,Import
+2022,3,Mar,Ceramic Products,Kgs,2538682.0,920830.0,Import
+2022,3,Mar,Animal or Vegetable Fats and Oils,Kgs,1494801.0,2964090.0,Import
+2022,3,Mar,Paper and Paperboard,Kgs,2487652.0,3961827.0,Import
+2022,3,Mar,Fertilizer,Kgs,5743236.0,4397870.0,Import
+2022,3,Mar,Cement,Kgs,37126712.0,4629259.0,Import
+2022,3,Mar,"Printed Books, Newspapers and Pictures",Kgs,209613.0,5544510.0,Import
+2022,3,Mar,Iron and Steel,Kgs,5229183.0,5890910.0,Import
+2022,3,Mar,"Optical, Medical or Surgical Instruments",Kgs,314049.0,6342111.0,Import
+2022,3,Mar,Miscellaneous Chemical Products,Kgs,1240236.0,6519067.0,Import
+2022,3,Mar,Soaps and Organic Surface-Active Agents,Kgs,5290628.0,6970286.0,Import
+2022,3,Mar,Other Made-Up Textile Articles,Kgs,4561391.0,7781616.0,Import
+2022,3,Mar,Diesel and Others,Litres,12658836.0,9152622.0,Import
+2022,3,Mar,Cereals,Kgs,21060423.0,10422899.0,Import
+2022,3,Mar,Pharmaceutical Products,Kgs,395823.0,15399509.0,Import
+2022,3,Mar,Electrical Machinery and Equipment,Kgs,1732072.0,15445869.0,Import
+2022,3,Mar,Plastics,Kgs,7975357.0,15927624.0,Import
+2022,3,Mar,"Nuclear Reactors, Boilers and Machinery",Units,182146.0,16360247.36,Import
+2022,3,Mar,Petrol,Litres,31015076.0,23397537.0,Import
+2022,3,Mar,Other Imports,,0.0,66286133.03,Import
+2022,4,Apr,Paraffin,Litres,0.0,0.0,Import
+2022,4,Apr,Lime,Kgs,220000.0,51025.0,Import
+2022,4,Apr,Coal,Kgs,878000.0,126471.0,Import
+2022,4,Apr,Glass and Glassware,Units,918897.0,304069.2,Import
+2022,4,Apr,Tobacco and Manufactured Tobacco Substitutes,Kgs,92856.0,740690.0,Import
+2022,4,Apr,Vehicles Other Than Railways,Units,48.0,995643.02,Import
+2022,4,Apr,Ceramic Products,Kgs,3268664.0,1233279.0,Import
+2022,4,Apr,Cereals,Kgs,5099798.0,2237780.0,Import
+2022,4,Apr,Cement,Kgs,19394040.0,2574432.0,Import
+2022,4,Apr,"Printed Books, Newspapers and Pictures",Kgs,104066.0,2885981.0,Import
+2022,4,Apr,Paper and Paperboard,Kgs,2493616.0,4493010.0,Import
+2022,4,Apr,Fertilizer,Kgs,4652869.0,4626530.0,Import
+2022,4,Apr,Miscellaneous Chemical Products,Kgs,1387217.0,6253498.0,Import
+2022,4,Apr,"Optical, Medical or Surgical Instruments",Kgs,142758.0,6448541.0,Import
+2022,4,Apr,Soaps and Organic Surface-Active Agents,Kgs,5641799.0,7171450.0,Import
+2022,4,Apr,Animal or Vegetable Fats and Oils,Kgs,4198355.0,8222874.0,Import
+2022,4,Apr,Plastics,Kgs,5474674.0,10267592.0,Import
+2022,4,Apr,Other Made-Up Textile Articles,Kgs,4035703.0,11926905.0,Import
+2022,4,Apr,Iron and Steel,Kgs,9299771.0,12334888.0,Import
+2022,4,Apr,Electrical Machinery and Equipment,Kgs,1657759.0,12443828.0,Import
+2022,4,Apr,Pharmaceutical Products,Kgs,416127.0,14036135.0,Import
+2022,4,Apr,"Nuclear Reactors, Boilers and Machinery",Units,171439.0,18949910.42,Import
+2022,4,Apr,Diesel and Others,Litres,21232338.0,21498241.0,Import
+2022,4,Apr,Petrol,Litres,23160842.0,22307547.0,Import
+2022,4,Apr,Other Imports,,0.0,68189526.58,Import
+2022,5,May,Paraffin,Litres,67579.0,53868.0,Import
+2022,5,May,Coal,Kgs,1373000.0,165245.0,Import
+2022,5,May,Lime,Kgs,842500.0,236103.0,Import
+2022,5,May,Glass and Glassware,Units,3354774.0,655829.86,Import
+2022,5,May,Ceramic Products,Kgs,3672552.0,1647182.0,Import
+2022,5,May,Vehicles Other Than Railways,Units,107.0,2034967.12,Import
+2022,5,May,"Printed Books, Newspapers and Pictures",Kgs,111702.0,3030915.0,Import
+2022,5,May,"Optical, Medical or Surgical Instruments",Kgs,142515.0,3224210.0,Import
+2022,5,May,Cement,Kgs,26766035.0,3441335.0,Import
+2022,5,May,Cereals,Kgs,9735781.0,4292546.0,Import
+2022,5,May,Paper and Paperboard,Kgs,3261079.0,5980665.0,Import
+2022,5,May,Soaps and Organic Surface-Active Agents,Kgs,4445076.0,6129119.0,Import
+2022,5,May,Tobacco and Manufactured Tobacco Substitutes,Kgs,1393468.0,6482790.0,Import
+2022,5,May,Fertilizer,Kgs,8048835.0,6815902.0,Import
+2022,5,May,Miscellaneous Chemical Products,Kgs,1184744.0,6841129.0,Import
+2022,5,May,Animal or Vegetable Fats and Oils,Kgs,3838534.0,7885393.0,Import
+2022,5,May,Other Made-Up Textile Articles,Kgs,6023116.0,9128119.0,Import
+2022,5,May,Iron and Steel,Kgs,6977203.0,9179467.0,Import
+2022,5,May,Plastics,Kgs,6276145.0,12688885.0,Import
+2022,5,May,"Nuclear Reactors, Boilers and Machinery",Units,788711.0,14670076.92,Import
+2022,5,May,Electrical Machinery and Equipment,Kgs,2149489.0,18959411.0,Import
+2022,5,May,Petrol,Litres,23668256.0,23375476.0,Import
+2022,5,May,Diesel and Others,Litres,25488538.0,27290826.0,Import
+2022,5,May,Pharmaceutical Products,Kgs,779724.0,33811905.0,Import
+2022,5,May,Other Imports,,0.0,61271270.06,Import
+2022,6,Jun,Paraffin,Litres,33928.0,21081.0,Import
+2022,6,Jun,Coal,Kgs,248000.0,53867.0,Import
+2022,6,Jun,Lime,Kgs,1676750.0,369088.0,Import
+2022,6,Jun,Glass and Glassware,Units,2943682.0,404358.26,Import
+2022,6,Jun,Ceramic Products,Kgs,3248925.0,1192768.0,Import
+2022,6,Jun,Cement,Kgs,19248262.0,2535471.0,Import
+2022,6,Jun,Vehicles Other Than Railways,Units,92.0,3179999.37,Import
+2022,6,Jun,"Optical, Medical or Surgical Instruments",Kgs,219320.0,3413025.0,Import
+2022,6,Jun,Cereals,Kgs,8848549.0,4205882.0,Import
+2022,6,Jun,Paper and Paperboard,Kgs,2907201.0,4969116.0,Import
+2022,6,Jun,Soaps and Organic Surface-Active Agents,Kgs,4205227.0,5237572.0,Import
+2022,6,Jun,Iron and Steel,Kgs,4217677.0,5448848.0,Import
+2022,6,Jun,Other Made-Up Textile Articles,Kgs,4225930.0,6617022.0,Import
+2022,6,Jun,Miscellaneous Chemical Products,Kgs,893709.0,6840864.0,Import
+2022,6,Jun,Animal or Vegetable Fats and Oils,Kgs,3852838.0,7302179.0,Import
+2022,6,Jun,Tobacco and Manufactured Tobacco Substitutes,Kgs,2465076.0,10059143.0,Import
+2022,6,Jun,Electrical Machinery and Equipment,Kgs,1536486.0,10226149.0,Import
+2022,6,Jun,Plastics,Kgs,6578532.0,11838462.0,Import
+2022,6,Jun,"Nuclear Reactors, Boilers and Machinery",Units,1601912.0,12392859.5,Import
+2022,6,Jun,Pharmaceutical Products,Kgs,47421168.0,15798126.0,Import
+2022,6,Jun,"Printed Books, Newspapers and Pictures",Kgs,202847.0,21101112.0,Import
+2022,6,Jun,Petrol,Litres,27232864.0,22805867.0,Import
+2022,6,Jun,Diesel and Others,Litres,26844576.0,23164962.0,Import
+2022,6,Jun,Fertilizer,Kgs,35128915.0,27060333.0,Import
+2022,6,Jun,Other Imports,,0.0,54146193.16,Import
+2022,7,Jul,Paraffin,Litres,0.0,0.0,Import
+2022,7,Jul,Coal,Kgs,691365.0,94672.0,Import
+2022,7,Jul,Cereals,Kgs,245862.0,172018.0,Import
+2022,7,Jul,Glass and Glassware,Units,165257.0,175839.03,Import
+2022,7,Jul,Lime,Kgs,985000.0,234945.0,Import
+2022,7,Jul,Ceramic Products,Kgs,3513453.0,1398022.0,Import
+2022,7,Jul,Vehicles Other Than Railways,Units,111.0,2749915.39,Import
+2022,7,Jul,Cement,Kgs,33678718.0,3873982.0,Import
+2022,7,Jul,"Optical, Medical or Surgical Instruments",Kgs,318073.0,4693445.0,Import
+2022,7,Jul,Soaps and Organic Surface-Active Agents,Kgs,4364885.0,5391338.0,Import
+2022,7,Jul,Paper and Paperboard,Kgs,3329550.0,6223149.0,Import
+2022,7,Jul,Iron and Steel,Kgs,5972989.0,7963000.0,Import
+2022,7,Jul,"Printed Books, Newspapers and Pictures",Kgs,141659.0,8107863.0,Import
+2022,7,Jul,Tobacco and Manufactured Tobacco Substitutes,Kgs,68630381.0,8943292.0,Import
+2022,7,Jul,Animal or Vegetable Fats and Oils,Kgs,4934512.0,8980310.0,Import
+2022,7,Jul,Miscellaneous Chemical Products,Kgs,1150127.0,9499972.0,Import
+2022,7,Jul,Other Made-Up Textile Articles,Kgs,6293698.0,11155320.0,Import
+2022,7,Jul,Fertilizer,Kgs,8438057.0,13350553.0,Import
+2022,7,Jul,Electrical Machinery and Equipment,Kgs,1722711.0,13793260.0,Import
+2022,7,Jul,Plastics,Kgs,7060570.0,14164110.0,Import
+2022,7,Jul,"Nuclear Reactors, Boilers and Machinery",Units,819672.0,14285546.51,Import
+2022,7,Jul,Pharmaceutical Products,Kgs,622209.0,20670360.0,Import
+2022,7,Jul,Diesel and Others,Litres,20881782.0,22659424.0,Import
+2022,7,Jul,Petrol,Litres,29765160.0,34055305.0,Import
+2022,7,Jul,Other Imports,,0.0,54324391.31,Import
+2022,8,Aug,Paraffin,Litres,0.0,0.0,Import
+2022,8,Aug,Cereals,Kgs,30922.0,37450.0,Import
+2022,8,Aug,Coal,Kgs,400000.0,85964.0,Import
+2022,8,Aug,Lime,Kgs,1387530.0,357177.0,Import
+2022,8,Aug,Glass and Glassware,Units,5945238.0,795527.1,Import
+2022,8,Aug,Ceramic Products,Kgs,3073932.0,1527108.0,Import
+2022,8,Aug,Vehicles Other Than Railways,Units,98.0,3239799.09,Import
+2022,8,Aug,Cement,Kgs,38081900.0,4032271.0,Import
+2022,8,Aug,Animal or Vegetable Fats and Oils,Kgs,2744516.0,4657219.0,Import
+2022,8,Aug,Tobacco and Manufactured Tobacco Substitutes,Kgs,1271457.0,5294268.0,Import
+2022,8,Aug,"Optical, Medical or Surgical Instruments",Kgs,355788.0,5511489.0,Import
+2022,8,Aug,Paper and Paperboard,Kgs,3216647.0,6606605.0,Import
+2022,8,Aug,Miscellaneous Chemical Products,Kgs,1056575.0,6650250.0,Import
+2022,8,Aug,Iron and Steel,Kgs,5797653.0,6781670.0,Import
+2022,8,Aug,Soaps and Organic Surface-Active Agents,Kgs,5599896.0,7844737.0,Import
+2022,8,Aug,Other Made-Up Textile Articles,Kgs,5264087.0,10528216.0,Import
+2022,8,Aug,Electrical Machinery and Equipment,Kgs,1811648.0,11901176.0,Import
+2022,8,Aug,"Printed Books, Newspapers and Pictures",Kgs,486247.0,16134967.0,Import
+2022,8,Aug,Plastics,Kgs,8215723.0,16170331.0,Import
+2022,8,Aug,Diesel and Others,Litres,15059405.0,16334312.0,Import
+2022,8,Aug,"Nuclear Reactors, Boilers and Machinery",Units,315481.0,18701408.4,Import
+2022,8,Aug,Fertilizer,Kgs,27384787.0,21524350.0,Import
+2022,8,Aug,Petrol,Litres,19984593.0,21954525.0,Import
+2022,8,Aug,Pharmaceutical Products,Kgs,1151848.0,24947032.0,Import
+2022,8,Aug,Other Imports,,0.0,59323186.7699999,Import
+2022,9,Sep,Paraffin,Litres,0.0,0.0,Import
+2022,9,Sep,Coal,Kgs,371000.0,82834.0,Import
+2022,9,Sep,Cereals,Kgs,286338.0,150715.0,Import
+2022,9,Sep,Lime,Kgs,1223955.0,289910.0,Import
+2022,9,Sep,Glass and Glassware,Units,6334251.0,1038286.52,Import
+2022,9,Sep,Ceramic Products,Kgs,2765891.0,1195475.0,Import
+2022,9,Sep,Tobacco and Manufactured Tobacco Substitutes,Kgs,834637.0,2567499.0,Import
+2022,9,Sep,Cement,Kgs,26531950.0,2930390.0,Import
+2022,9,Sep,Vehicles Other Than Railways,Units,118.0,3026637.42,Import
+2022,9,Sep,Animal or Vegetable Fats and Oils,Kgs,2653746.0,4234128.0,Import
+2022,9,Sep,Soaps and Organic Surface-Active Agents,Kgs,3258518.0,4279564.0,Import
+2022,9,Sep,Miscellaneous Chemical Products,Kgs,1386265.0,5611260.0,Import
+2022,9,Sep,"Optical, Medical or Surgical Instruments",Kgs,195030.0,5821449.0,Import
+2022,9,Sep,Paper and Paperboard,Kgs,3505075.0,6270100.0,Import
+2022,9,Sep,Other Made-Up Textile Articles,Kgs,4149087.0,6479224.0,Import
+2022,9,Sep,"Printed Books, Newspapers and Pictures",Kgs,279150.0,6480100.0,Import
+2022,9,Sep,Iron and Steel,Kgs,5324531.0,8253248.0,Import
+2022,9,Sep,Electrical Machinery and Equipment,Kgs,1724598.0,14524566.0,Import
+2022,9,Sep,Fertilizer,Kgs,5378196.0,14875741.0,Import
+2022,9,Sep,Plastics,Kgs,14490553.0,15170847.0,Import
+2022,9,Sep,Pharmaceutical Products,Kgs,372360.0,18131999.0,Import
+2022,9,Sep,Petrol,Litres,20709237.0,20673189.0,Import
+2022,9,Sep,"Nuclear Reactors, Boilers and Machinery",Units,207301.0,22722893.41,Import
+2022,9,Sep,Diesel and Others,Litres,24222365.0,26238439.0,Import
+2022,9,Sep,Other Imports,,0.0,55920773.83,Import
+2022,10,Oct,Paraffin,Litres,0.0,0.0,Import
+2022,10,Oct,Coal,Kgs,150000.0,12769.0,Import
+2022,10,Oct,Tobacco and Manufactured Tobacco Substitutes,Kgs,35984.0,55171.0,Import
+2022,10,Oct,Lime,Kgs,1391740.0,365740.0,Import
+2022,10,Oct,Cereals,Kgs,292123.0,626571.0,Import
+2022,10,Oct,Glass and Glassware,Units,6750390.0,911190.44,Import
+2022,10,Oct,Vehicles Other Than Railways,Units,107.0,1318655.99,Import
+2022,10,Oct,Ceramic Products,Kgs,2962049.0,1426424.0,Import
+2022,10,Oct,"Optical, Medical or Surgical Instruments",Kgs,95641.0,1871875.0,Import
+2022,10,Oct,Cement,Kgs,18458993.0,2477378.0,Import
+2022,10,Oct,Animal or Vegetable Fats and Oils,Kgs,2695426.0,3473021.0,Import
+2022,10,Oct,Paper and Paperboard,Kgs,2471079.0,4184295.0,Import
+2022,10,Oct,Iron and Steel,Kgs,3932339.0,5208939.0,Import
+2022,10,Oct,Other Made-Up Textile Articles,Kgs,4087962.0,6554848.0,Import
+2022,10,Oct,Soaps and Organic Surface-Active Agents,Kgs,5317466.0,7128899.0,Import
+2022,10,Oct,"Printed Books, Newspapers and Pictures",Kgs,269610.0,9352828.0,Import
+2022,10,Oct,Miscellaneous Chemical Products,Kgs,2109954.0,11236545.0,Import
+2022,10,Oct,Electrical Machinery and Equipment,Kgs,1695536.0,11475827.0,Import
+2022,10,Oct,Pharmaceutical Products,Kgs,483278.0,11755652.0,Import
+2022,10,Oct,Plastics,Kgs,9708541.0,18327266.0,Import
+2022,10,Oct,Petrol,Litres,21331484.0,19759074.0,Import
+2022,10,Oct,Diesel and Others,Litres,19102097.0,20536109.0,Import
+2022,10,Oct,"Nuclear Reactors, Boilers and Machinery",Units,151318.0,21610634.27,Import
+2022,10,Oct,Fertilizer,Kgs,27948443.0,24168254.0,Import
+2022,10,Oct,Other Imports,,0.0,60473292.7,Import
+2022,11,Nov,Paraffin,Litres,0.0,0.0,Import
+2022,11,Nov,Coal,Kgs,93000.0,21313.0,Import
+2022,11,Nov,Lime,Kgs,848002.0,193737.0,Import
+2022,11,Nov,Tobacco and Manufactured Tobacco Substitutes,Kgs,127125.0,363568.0,Import
+2022,11,Nov,Glass and Glassware,Units,2841223.0,668386.33,Import
+2022,11,Nov,Ceramic Products,Kgs,2553301.0,1170429.0,Import
+2022,11,Nov,Cement,Kgs,16969902.0,2276294.0,Import
+2022,11,Nov,Cereals,Kgs,3830164.0,2303168.0,Import
+2022,11,Nov,Vehicles Other Than Railways,Units,107.0,2477350.44,Import
+2022,11,Nov,"Optical, Medical or Surgical Instruments",Kgs,116615.0,3232487.0,Import
+2022,11,Nov,Animal or Vegetable Fats and Oils,Kgs,2862434.0,4224630.0,Import
+2022,11,Nov,Paper and Paperboard,Kgs,3159450.0,5474921.0,Import
+2022,11,Nov,Other Made-Up Textile Articles,Kgs,3847317.0,5942541.0,Import
+2022,11,Nov,Soaps and Organic Surface-Active Agents,Kgs,5628151.0,7360241.0,Import
+2022,11,Nov,Iron and Steel,Kgs,7364055.0,8362717.0,Import
+2022,11,Nov,Electrical Machinery and Equipment,Kgs,1585740.0,11231821.0,Import
+2022,11,Nov,Plastics,Kgs,6794227.0,12123264.0,Import
+2022,11,Nov,Miscellaneous Chemical Products,Kgs,2658264.0,12491823.0,Import
+2022,11,Nov,Pharmaceutical Products,Kgs,27070567.0,14562877.0,Import
+2022,11,Nov,"Printed Books, Newspapers and Pictures",Kgs,367867.0,15038466.0,Import
+2022,11,Nov,"Nuclear Reactors, Boilers and Machinery",Units,92446.0,16418639.96,Import
+2022,11,Nov,Petrol,Litres,24819247.0,23258534.0,Import
+2022,11,Nov,Diesel and Others,Litres,32342104.0,35068733.0,Import
+2022,11,Nov,Other Imports,,0.0,53770300.13,Import
+2022,11,Nov,Fertilizer,Kgs,56576540.0,54954685.0,Import
+2022,12,Dec,Paraffin,Litres,0.0,0.0,Import
+2022,12,Dec,Coal,Kgs,492500.0,107684.0,Import
+2022,12,Dec,Lime,Kgs,899343.0,196269.0,Import
+2022,12,Dec,Tobacco and Manufactured Tobacco Substitutes,Kgs,165020.0,481885.0,Import
+2022,12,Dec,Glass and Glassware,Units,1168384.0,585617.18,Import
+2022,12,Dec,Cereals,Kgs,1493577.0,642887.0,Import
+2022,12,Dec,Ceramic Products,Kgs,2584425.0,1288332.0,Import
+2022,12,Dec,Cement,Kgs,15790323.0,2228648.0,Import
+2022,12,Dec,"Optical, Medical or Surgical Instruments",Kgs,157341.0,2523433.0,Import
+2022,12,Dec,Vehicles Other Than Railways,Units,154.0,2894198.56,Import
+2022,12,Dec,Animal or Vegetable Fats and Oils,Kgs,2573454.0,3598497.0,Import
+2022,12,Dec,Soaps and Organic Surface-Active Agents,Kgs,4992824.0,5896084.0,Import
+2022,12,Dec,Miscellaneous Chemical Products,Kgs,1897006.0,6089199.0,Import
+2022,12,Dec,Iron and Steel,Kgs,6000767.0,6816752.0,Import
+2022,12,Dec,Other Made-Up Textile Articles,Kgs,5194908.0,8348555.0,Import
+2022,12,Dec,"Printed Books, Newspapers and Pictures",Kgs,292829.0,9062058.0,Import
+2022,12,Dec,Electrical Machinery and Equipment,Kgs,1459169.0,9993062.0,Import
+2022,12,Dec,Plastics,Kgs,7558766.0,12975222.0,Import
+2022,12,Dec,"Nuclear Reactors, Boilers and Machinery",Units,82306.0,13180999.43,Import
+2022,12,Dec,Pharmaceutical Products,Kgs,471232.0,13696648.0,Import
+2022,12,Dec,Paper and Paperboard,Kgs,2639243.0,14457082.0,Import
+2022,12,Dec,Petrol,Litres,29208430.0,27405309.0,Import
+2022,12,Dec,Diesel and Others,Litres,26819551.0,29064871.0,Import
+2022,12,Dec,Fertilizer,Kgs,37340499.0,32263314.0,Import
+2022,12,Dec,Other Imports,,0.0,70357094.26,Import
+2023,1,Jan,Tobacco and Manufactured Tobacco Substitutes,Kgs,69950.0,58995.0,Import
+2023,1,Jan,Coal,Kgs,368000.0,78624.0,Import
+2023,1,Jan,Paraffin,Litres,135879.0,118875.0,Import
+2023,1,Jan,Lime,Kgs,571954.0,122917.0,Import
+2023,1,Jan,Glass and Glassware,Units,1031815.0,546449.41,Import
+2023,1,Jan,Ceramic Products,Kgs,3490655.0,1361625.0,Import
+2023,1,Jan,Cement,Kgs,14081900.0,1949453.0,Import
+2023,1,Jan,Paper and Paperboard,Kgs,1753958.0,3353952.0,Import
+2023,1,Jan,Cereals,Kgs,5459667.0,3580676.0,Import
+2023,1,Jan,Animal or Vegetable Fats and Oils,Kgs,2464570.0,3665999.0,Import
+2023,1,Jan,"Optical, Medical or Surgical Instruments",Kgs,190367.0,4251287.0,Import
+2023,1,Jan,Iron and Steel,Kgs,4069281.0,4254062.0,Import
+2023,1,Jan,Soaps and Organic Surface-Active Agents,Kgs,4728047.0,5779546.0,Import
+2023,1,Jan,Other Made-Up Textile Articles,Kgs,4049486.0,6249682.0,Import
+2023,1,Jan,Electrical Machinery and Equipment,Kgs,1531758.0,8782640.0,Import
+2023,1,Jan,Miscellaneous Chemical Products,Kgs,2001375.0,9437163.0,Import
+2023,1,Jan,"Nuclear Reactors, Boilers and Machinery",Units,93176.0,10696943.3,Import
+2023,1,Jan,Vehicles Other Than Railways,Units,112.0,11655445.39,Import
+2023,1,Jan,Plastics,Kgs,7846962.0,13021113.0,Import
+2023,1,Jan,"Printed Books, Newspapers and Pictures",Kgs,107382.0,13497155.0,Import
+2023,1,Jan,Petrol,Litres,21552049.0,20014879.0,Import
+2023,1,Jan,Fertilizer,Kgs,22047484.0,21668485.0,Import
+2023,1,Jan,Diesel and Others,Litres,20745850.0,22258672.0,Import
+2023,1,Jan,Pharmaceutical Products,Kgs,1182472.0,26532574.0,Import
+2023,1,Jan,Other Imports,,0.0,50571330.1,Import
+2023,2,Feb,Lime,Kgs,125000.0,25414.0,Import
+2023,2,Feb,Paraffin,Litres,69392.0,60295.0,Import
+2023,2,Feb,Coal,Kgs,280000.0,110665.0,Import
+2023,2,Feb,Glass and Glassware,Units,2254771.0,417193.34,Import
+2023,2,Feb,Ceramic Products,Kgs,2566040.0,1123835.0,Import
+2023,2,Feb,Cereals,Kgs,2645549.0,1376196.0,Import
+2023,2,Feb,Cement,Kgs,18587235.0,2500873.0,Import
+2023,2,Feb,Vehicles Other Than Railways,Units,124.0,3138840.09,Import
+2023,2,Feb,Tobacco and Manufactured Tobacco Substitutes,Kgs,1041185.0,3608577.0,Import
+2023,2,Feb,Animal or Vegetable Fats and Oils,Kgs,2749227.0,3832309.0,Import
+2023,2,Feb,Paper and Paperboard,Kgs,2297416.0,3990082.0,Import
+2023,2,Feb,Soaps and Organic Surface-Active Agents,Kgs,3845254.0,4584003.0,Import
+2023,2,Feb,Other Made-Up Textile Articles,Kgs,2800187.0,4708601.0,Import
+2023,2,Feb,"Optical, Medical or Surgical Instruments",Kgs,197078.0,5214589.0,Import
+2023,2,Feb,Iron and Steel,Kgs,5878557.0,6244086.0,Import
+2023,2,Feb,Miscellaneous Chemical Products,Kgs,1424168.0,6711628.0,Import
+2023,2,Feb,"Printed Books, Newspapers and Pictures",Kgs,212653.0,10436750.0,Import
+2023,2,Feb,Electrical Machinery and Equipment,Kgs,1772730.0,10944665.0,Import
+2023,2,Feb,Plastics,Kgs,7504309.0,11669953.0,Import
+2023,2,Feb,"Nuclear Reactors, Boilers and Machinery",Units,83323.0,14588978.2,Import
+2023,2,Feb,Petrol,Litres,17013552.0,15813532.0,Import
+2023,2,Feb,Pharmaceutical Products,Kgs,448389.0,16001188.0,Import
+2023,2,Feb,Diesel and Others,Litres,21187341.0,22748619.0,Import
+2023,2,Feb,Fertilizer,Kgs,58112454.0,58409787.0,Import
+2023,2,Feb,Other Imports,,0.0,61992814.23,Import
+2023,3,Mar,Paraffin,Litres,33820.0,32856.0,Import
+2023,3,Mar,Lime,Kgs,514000.0,101419.0,Import
+2023,3,Mar,Coal,Kgs,592557.0,138035.0,Import
+2023,3,Mar,Tobacco and Manufactured Tobacco Substitutes,Kgs,123305.0,387117.0,Import
+2023,3,Mar,Glass and Glassware,Units,2269249.0,431334.52,Import
+2023,3,Mar,Cereals,Kgs,2068646.0,1009057.0,Import
+2023,3,Mar,Ceramic Products,Kgs,5221741.0,1471190.0,Import
+2023,3,Mar,"Optical, Medical or Surgical Instruments",Kgs,189530.0,3021519.0,Import
+2023,3,Mar,Vehicles Other Than Railways,Units,189.0,3567319.44,Import
+2023,3,Mar,Cement,Kgs,34106880.0,3787111.0,Import
+2023,3,Mar,Other Made-Up Textile Articles,Kgs,2507888.0,3966650.0,Import
+2023,3,Mar,Animal or Vegetable Fats and Oils,Kgs,2754612.0,4002764.0,Import
+2023,3,Mar,Soaps and Organic Surface-Active Agents,Kgs,4646865.0,5224103.0,Import
+2023,3,Mar,Paper and Paperboard,Kgs,3146849.0,5382420.0,Import
+2023,3,Mar,Iron and Steel,Kgs,6597907.0,6918141.0,Import
+2023,3,Mar,Miscellaneous Chemical Products,Kgs,1588738.0,7147168.0,Import
+2023,3,Mar,Electrical Machinery and Equipment,Kgs,1868344.0,11175357.0,Import
+2023,3,Mar,Plastics,Kgs,7820310.0,12917005.0,Import
+2023,3,Mar,Diesel and Others,Litres,12336752.0,13179655.0,Import
+2023,3,Mar,"Nuclear Reactors, Boilers and Machinery",Units,103705.0,14945351.74,Import
+2023,3,Mar,"Printed Books, Newspapers and Pictures",Kgs,320790.0,15995270.0,Import
+2023,3,Mar,Pharmaceutical Products,Kgs,724531.0,17315916.0,Import
+2023,3,Mar,Fertilizer,Kgs,19912936.0,19188152.0,Import
+2023,3,Mar,Petrol,Litres,26554132.0,25094414.0,Import
+2023,3,Mar,Other Imports,,0.0,57658270.52,Import
+2023,4,Apr,Paraffin,Litres,0.0,0.0,Import
+2023,4,Apr,Lime,Kgs,329500.0,77804.0,Import
+2023,4,Apr,Coal,Kgs,441000.0,100035.0,Import
+2023,4,Apr,Tobacco and Manufactured Tobacco Substitutes,Kgs,31842.0,140071.0,Import
+2023,4,Apr,Glass and Glassware,Units,934043.0,384713.4,Import
+2023,4,Apr,Ceramic Products,Kgs,2768917.0,1214774.0,Import
+2023,4,Apr,Vehicles Other Than Railways,Units,105.0,2216884.93,Import
+2023,4,Apr,"Optical, Medical or Surgical Instruments",Kgs,223948.0,2378563.0,Import
+2023,4,Apr,Soaps and Organic Surface-Active Agents,Kgs,3292569.0,3337279.0,Import
+2023,4,Apr,Cement,Kgs,32263800.0,4254340.0,Import
+2023,4,Apr,Iron and Steel,Kgs,3539678.0,4281951.0,Import
+2023,4,Apr,Animal or Vegetable Fats and Oils,Kgs,3087367.0,4325847.0,Import
+2023,4,Apr,Cereals,Kgs,6102198.0,4691827.0,Import
+2023,4,Apr,Miscellaneous Chemical Products,Kgs,1048577.0,5223233.0,Import
+2023,4,Apr,Paper and Paperboard,Kgs,2955021.0,5265857.0,Import
+2023,4,Apr,Fertilizer,Kgs,9245020.0,6208137.0,Import
+2023,4,Apr,Electrical Machinery and Equipment,Kgs,1402637.0,8078289.0,Import
+2023,4,Apr,"Printed Books, Newspapers and Pictures",Kgs,217095.0,8423049.0,Import
+2023,4,Apr,Other Made-Up Textile Articles,Kgs,6327754.0,10289890.0,Import
+2023,4,Apr,"Nuclear Reactors, Boilers and Machinery",Units,75843.0,11002705.55,Import
+2023,4,Apr,Plastics,Kgs,8042727.0,13565697.0,Import
+2023,4,Apr,Petrol,Litres,16478128.0,15303170.0,Import
+2023,4,Apr,Pharmaceutical Products,Kgs,461957.0,15410129.0,Import
+2023,4,Apr,Diesel and Others,Litres,16938238.0,18206551.0,Import
+2023,4,Apr,Other Imports,,0.0,51333522.07,Import
+2023,5,May,Paraffin,Litres,0.0,0.0,Import
+2023,5,May,Coal,Kgs,409000.0,92923.0,Import
+2023,5,May,Lime,Kgs,473000.0,108479.0,Import
+2023,5,May,Glass and Glassware,Units,3950305.0,806659.41,Import
+2023,5,May,Ceramic Products,Kgs,4335191.0,1699590.0,Import
+2023,5,May,Vehicles Other Than Railways,Units,188.0,2756126.77,Import
+2023,5,May,"Optical, Medical or Surgical Instruments",Kgs,186518.0,2941629.0,Import
+2023,5,May,Fertilizer,Kgs,4643397.0,3919388.0,Import
+2023,5,May,Cereals,Kgs,12970768.0,3924326.0,Import
+2023,5,May,Cement,Kgs,30312955.0,4111345.0,Import
+2023,5,May,Animal or Vegetable Fats and Oils,Kgs,3546465.0,4777044.0,Import
+2023,5,May,Iron and Steel,Kgs,6067350.0,5901455.0,Import
+2023,5,May,Soaps and Organic Surface-Active Agents,Kgs,6532179.0,6268612.0,Import
+2023,5,May,Paper and Paperboard,Kgs,3759343.0,6576800.0,Import
+2023,5,May,Miscellaneous Chemical Products,Kgs,923012.0,8034543.0,Import
+2023,5,May,Tobacco and Manufactured Tobacco Substitutes,Kgs,2522922.0,11261053.0,Import
+2023,5,May,Other Made-Up Textile Articles,Kgs,7132122.0,14021477.0,Import
+2023,5,May,"Nuclear Reactors, Boilers and Machinery",Units,2522908.0,14110904.6,Import
+2023,5,May,Electrical Machinery and Equipment,Kgs,1994043.0,14169555.0,Import
+2023,5,May,Pharmaceutical Products,Kgs,605947.0,14801650.0,Import
+2023,5,May,Plastics,Kgs,8661298.0,15552415.0,Import
+2023,5,May,"Printed Books, Newspapers and Pictures",Kgs,266241.0,15574125.0,Import
+2023,5,May,Diesel and Others,Litres,23138334.0,24847703.0,Import
+2023,5,May,Petrol,Litres,30378346.0,28230908.0,Import
+2023,5,May,Other Imports,,0.0,65844183.17,Import
+2023,6,Jun,Paraffin,Litres,34163.0,30429.0,Import
+2023,6,Jun,Coal,Kgs,278500.0,55523.0,Import
+2023,6,Jun,Lime,Kgs,919000.0,192851.0,Import
+2023,6,Jun,Glass and Glassware,Units,1513579.0,459423.77,Import
+2023,6,Jun,Ceramic Products,Kgs,2896094.0,1207540.0,Import
+2023,6,Jun,Cement,Kgs,24314300.0,3341722.0,Import
+2023,6,Jun,Animal or Vegetable Fats and Oils,Kgs,2848997.0,3663250.0,Import
+2023,6,Jun,Soaps and Organic Surface-Active Agents,Kgs,3244578.0,3764376.0,Import
+2023,6,Jun,Vehicles Other Than Railways,Units,343.0,3904105.24,Import
+2023,6,Jun,"Optical, Medical or Surgical Instruments",Kgs,220916.0,4546842.0,Import
+2023,6,Jun,Cereals,Kgs,10717531.0,4764525.0,Import
+2023,6,Jun,Paper and Paperboard,Kgs,3377870.0,6178489.0,Import
+2023,6,Jun,Iron and Steel,Kgs,9018797.0,7876130.0,Import
+2023,6,Jun,Miscellaneous Chemical Products,Kgs,1241795.0,8544404.0,Import
+2023,6,Jun,Pharmaceutical Products,Kgs,513659.0,9646018.0,Import
+2023,6,Jun,"Printed Books, Newspapers and Pictures",Kgs,284898.0,11339331.0,Import
+2023,6,Jun,Other Made-Up Textile Articles,Kgs,6642865.0,12744062.0,Import
+2023,6,Jun,Fertilizer,Kgs,24047297.0,13285574.0,Import
+2023,6,Jun,Tobacco and Manufactured Tobacco Substitutes,Kgs,3121799.0,13965137.0,Import
+2023,6,Jun,Plastics,Kgs,9185357.0,14010535.0,Import
+2023,6,Jun,"Nuclear Reactors, Boilers and Machinery",Units,90208.0,17163246.99,Import
+2023,6,Jun,Diesel and Others,Litres,16639047.0,17711211.0,Import
+2023,6,Jun,Electrical Machinery and Equipment,Kgs,2122715.0,20774289.0,Import
+2023,6,Jun,Petrol,Litres,26075843.0,23988312.0,Import
+2023,6,Jun,Other Imports,,0.0,59384030.67,Import
+2023,7,Jul,Paraffin,Litres,0.0,0.0,Import
+2023,7,Jul,Coal,Kgs,245000.0,45115.0,Import
+2023,7,Jul,Lime,Kgs,1116000.0,247813.0,Import
+2023,7,Jul,Glass and Glassware,Units,3281485.0,324960.33,Import
+2023,7,Jul,Ceramic Products,Kgs,4428907.0,1706963.0,Import
+2023,7,Jul,"Optical, Medical or Surgical Instruments",Kgs,161122.0,1988004.0,Import
+2023,7,Jul,Tobacco and Manufactured Tobacco Substitutes,Kgs,834804.0,2819144.0,Import
+2023,7,Jul,Cement,Kgs,18332900.0,3181725.0,Import
+2023,7,Jul,Animal or Vegetable Fats and Oils,Kgs,3733941.0,4897140.0,Import
+2023,7,Jul,Cereals,Kgs,13033172.0,5112792.0,Import
+2023,7,Jul,Vehicles Other Than Railways,Units,354.0,5528017.49,Import
+2023,7,Jul,Miscellaneous Chemical Products,Kgs,1125130.0,5661403.0,Import
+2023,7,Jul,Iron and Steel,Kgs,6326664.0,6143022.0,Import
+2023,7,Jul,Pharmaceutical Products,Kgs,447865.0,6761685.0,Import
+2023,7,Jul,Paper and Paperboard,Kgs,3937101.0,7217626.0,Import
+2023,7,Jul,Soaps and Organic Surface-Active Agents,Kgs,7844447.0,8170739.0,Import
+2023,7,Jul,Other Made-Up Textile Articles,Kgs,5788366.0,11096194.0,Import
+2023,7,Jul,"Nuclear Reactors, Boilers and Machinery",Units,237566.0,13190443.78,Import
+2023,7,Jul,Electrical Machinery and Equipment,Kgs,2287802.0,15436289.0,Import
+2023,7,Jul,Fertilizer,Kgs,20615431.0,16086912.0,Import
+2023,7,Jul,Plastics,Kgs,11257418.0,16708850.0,Import
+2023,7,Jul,"Printed Books, Newspapers and Pictures",Kgs,209419.0,17679677.0,Import
+2023,7,Jul,Diesel and Others,Litres,23264314.0,24247156.0,Import
+2023,7,Jul,Petrol,Litres,28061454.0,25386267.0,Import
+2023,7,Jul,Other Imports,,0.0,65487404.11,Import
+2023,8,Aug,Paraffin,Litres,33888.0,27857.0,Import
+2023,8,Aug,Lime,Kgs,864000.0,200055.0,Import
+2023,8,Aug,Coal,Kgs,1507000.0,224323.0,Import
+2023,8,Aug,Glass and Glassware,Units,2296745.0,544343.73,Import
+2023,8,Aug,Ceramic Products,Kgs,4019387.0,1642831.0,Import
+2023,8,Aug,"Optical, Medical or Surgical Instruments",Kgs,118953.0,1803319.0,Import
+2023,8,Aug,Cement,Kgs,37497021.0,5123549.0,Import
+2023,8,Aug,Animal or Vegetable Fats and Oils,Kgs,4479456.0,5514002.0,Import
+2023,8,Aug,Vehicles Other Than Railways,Units,12358.0,5774416.96,Import
+2023,8,Aug,Iron and Steel,Kgs,6465821.0,6566392.0,Import
+2023,8,Aug,Paper and Paperboard,Kgs,3702396.0,6601508.0,Import
+2023,8,Aug,Tobacco and Manufactured Tobacco Substitutes,Kgs,2267680.0,7264650.0,Import
+2023,8,Aug,Soaps and Organic Surface-Active Agents,Kgs,8148969.0,8484598.0,Import
+2023,8,Aug,Cereals,Kgs,20683377.0,10030715.0,Import
+2023,8,Aug,Other Made-Up Textile Articles,Kgs,5168016.0,10094318.0,Import
+2023,8,Aug,"Printed Books, Newspapers and Pictures",Kgs,214639.0,10451679.0,Import
+2023,8,Aug,Electrical Machinery and Equipment,Kgs,1910711.0,11838668.0,Import
+2023,8,Aug,Miscellaneous Chemical Products,Kgs,2031311.0,13325983.0,Import
+2023,8,Aug,Plastics,Kgs,10239068.0,14895452.0,Import
+2023,8,Aug,"Nuclear Reactors, Boilers and Machinery",Units,126335.0,14950181.73,Import
+2023,8,Aug,Petrol,Litres,30041232.0,26392601.0,Import
+2023,8,Aug,Pharmaceutical Products,Kgs,825069.0,27008333.0,Import
+2023,8,Aug,Diesel and Others,Litres,32960033.0,33541489.0,Import
+2023,8,Aug,Fertilizer,Kgs,48033582.0,33621822.0,Import
+2023,8,Aug,Other Imports,,0.0,58213102.2,Import
+2023,9,Sep,Paraffin,Litres,0.0,0.0,Import
+2023,9,Sep,Lime,Kgs,1048004.0,237114.0,Import
+2023,9,Sep,Coal,Kgs,3515013.0,444249.0,Import
+2023,9,Sep,Glass and Glassware,Units,7168100.0,1312086.21,Import
+2023,9,Sep,Ceramic Products,Kgs,4050701.0,1441691.0,Import
+2023,9,Sep,"Optical, Medical or Surgical Instruments",Kgs,123400.0,2655109.0,Import
+2023,9,Sep,Tobacco and Manufactured Tobacco Substitutes,Kgs,1139771.0,4046676.0,Import
+2023,9,Sep,Paper and Paperboard,Kgs,2391250.0,4339368.0,Import
+2023,9,Sep,Animal or Vegetable Fats and Oils,Kgs,4292296.0,5350018.0,Import
+2023,9,Sep,Cement,Kgs,40988380.0,5574188.0,Import
+2023,9,Sep,Iron and Steel,Kgs,6571537.0,6580789.0,Import
+2023,9,Sep,Soaps and Organic Surface-Active Agents,Kgs,6154149.0,6673029.0,Import
+2023,9,Sep,Vehicles Other Than Railways,Units,451.0,7244002.34,Import
+2023,9,Sep,Miscellaneous Chemical Products,Kgs,1845008.0,7343338.0,Import
+2023,9,Sep,Pharmaceutical Products,Kgs,328500.0,9213938.0,Import
+2023,9,Sep,Other Made-Up Textile Articles,Kgs,5191795.0,10124130.0,Import
+2023,9,Sep,"Printed Books, Newspapers and Pictures",Kgs,132827.0,12035303.0,Import
+2023,9,Sep,"Nuclear Reactors, Boilers and Machinery",Units,79322.0,12406635.84,Import
+2023,9,Sep,Plastics,Kgs,10015233.0,14601327.0,Import
+2023,9,Sep,Cereals,Kgs,19358319.0,14882453.0,Import
+2023,9,Sep,Electrical Machinery and Equipment,Kgs,2777155.0,17516131.0,Import
+2023,9,Sep,Petrol,Litres,23354842.0,19956249.0,Import
+2023,9,Sep,Diesel and Others,Litres,25057127.0,24804573.0,Import
+2023,9,Sep,Fertilizer,Kgs,73001509.0,50586668.0,Import
+2023,9,Sep,Other Imports,,0.0,52700714.61,Import
+2023,10,Oct,Paraffin,Litres,33785.0,25773.0,Import
+2023,10,Oct,Lime,Kgs,1006263.0,213284.0,Import
+2023,10,Oct,Coal,Kgs,2315000.0,314852.0,Import
+2023,10,Oct,Tobacco and Manufactured Tobacco Substitutes,Kgs,152647.0,394365.0,Import
+2023,10,Oct,Glass and Glassware,Units,7792746.0,1283276.12,Import
+2023,10,Oct,Ceramic Products,Kgs,3430839.0,1497923.0,Import
+2023,10,Oct,"Printed Books, Newspapers and Pictures",Kgs,179916.0,2150506.0,Import
+2023,10,Oct,Cement,Kgs,24144078.0,3310049.0,Import
+2023,10,Oct,Animal or Vegetable Fats and Oils,Kgs,2996702.0,3638652.0,Import
+2023,10,Oct,"Optical, Medical or Surgical Instruments",Kgs,275546.0,4033641.0,Import
+2023,10,Oct,Paper and Paperboard,Kgs,3476080.0,5040182.0,Import
+2023,10,Oct,Pharmaceutical Products,Kgs,521488.0,5737263.0,Import
+2023,10,Oct,Iron and Steel,Kgs,6629992.0,6454313.0,Import
+2023,10,Oct,Miscellaneous Chemical Products,Kgs,1456380.0,6571392.0,Import
+2023,10,Oct,Soaps and Organic Surface-Active Agents,Kgs,6344988.0,7003606.0,Import
+2023,10,Oct,Other Made-Up Textile Articles,Kgs,4204417.0,7804020.0,Import
+2023,10,Oct,Vehicles Other Than Railways,Units,508.0,8626304.28,Import
+2023,10,Oct,Cereals,Kgs,23070846.0,10156421.0,Import
+2023,10,Oct,Electrical Machinery and Equipment,Kgs,2288127.0,14432747.0,Import
+2023,10,Oct,Plastics,Kgs,9469451.0,14654220.0,Import
+2023,10,Oct,"Nuclear Reactors, Boilers and Machinery",Units,173035.0,20119555.39,Import
+2023,10,Oct,Diesel and Others,Litres,24783220.0,23406459.0,Import
+2023,10,Oct,Fertilizer,Kgs,37465058.0,23913251.0,Import
+2023,10,Oct,Petrol,Litres,41047173.0,33505750.0,Import
+2023,10,Oct,Other Imports,,0.0,60144487.33,Import
+2023,11,Nov,Paraffin,Litres,0.0,0.0,Import
+2023,11,Nov,Tobacco and Manufactured Tobacco Substitutes,Kgs,16277.0,66687.0,Import
+2023,11,Nov,Lime,Kgs,943504.0,203183.0,Import
+2023,11,Nov,Glass and Glassware,Units,3826043.0,815394.34,Import
+2023,11,Nov,"Printed Books, Newspapers and Pictures",Kgs,154485.0,1455475.0,Import
+2023,11,Nov,Ceramic Products,Kgs,4204941.0,1669704.0,Import
+2023,11,Nov,Coal,Kgs,12192000.0,1821976.0,Import
+2023,11,Nov,Animal or Vegetable Fats and Oils,Kgs,2659316.0,3416389.0,Import
+2023,11,Nov,"Optical, Medical or Surgical Instruments",Kgs,114574.0,3498096.0,Import
+2023,11,Nov,Cereals,Kgs,4286253.0,3629325.0,Import
+2023,11,Nov,Cement,Kgs,31046310.0,4233473.0,Import
+2023,11,Nov,Paper and Paperboard,Kgs,2885163.0,5034053.0,Import
+2023,11,Nov,Soaps and Organic Surface-Active Agents,Kgs,4315742.0,5105177.0,Import
+2023,11,Nov,Vehicles Other Than Railways,Units,539.0,7221268.02,Import
+2023,11,Nov,Iron and Steel,Kgs,9257610.0,7979766.0,Import
+2023,11,Nov,Other Made-Up Textile Articles,Kgs,5204168.0,10014034.0,Import
+2023,11,Nov,Miscellaneous Chemical Products,Kgs,3163961.0,10071344.0,Import
+2023,11,Nov,Electrical Machinery and Equipment,Kgs,2049376.0,13430135.0,Import
+2023,11,Nov,"Nuclear Reactors, Boilers and Machinery",Units,332892.0,13849870.32,Import
+2023,11,Nov,Plastics,Kgs,9265700.0,13938286.0,Import
+2023,11,Nov,Pharmaceutical Products,Kgs,1308000.0,14398138.0,Import
+2023,11,Nov,Petrol,Litres,19069248.0,16008058.0,Import
+2023,11,Nov,Diesel and Others,Litres,32612150.0,32436173.0,Import
+2023,11,Nov,Fertilizer,Kgs,53374408.0,40162438.0,Import
+2023,11,Nov,Other Imports,,0.0,60455967.94,Import
+2023,12,Dec,Paraffin,Litres,1.0,397.0,Import
+2023,12,Dec,Tobacco and Manufactured Tobacco Substitutes,Kgs,74127.0,72591.0,Import
+2023,12,Dec,Coal,Kgs,403102.0,91241.0,Import
+2023,12,Dec,Lime,Kgs,685000.0,156864.0,Import
+2023,12,Dec,Glass and Glassware,Units,12745691.0,719203.55,Import
+2023,12,Dec,Ceramic Products,Kgs,3915714.0,1520735.0,Import
+2023,12,Dec,Cement,Kgs,19351893.0,3699191.0,Import
+2023,12,Dec,"Printed Books, Newspapers and Pictures",Kgs,259675.0,4053408.0,Import
+2023,12,Dec,Soaps and Organic Surface-Active Agents,Kgs,4042763.0,4619741.0,Import
+2023,12,Dec,Animal or Vegetable Fats and Oils,Kgs,3956703.0,4770198.0,Import
+2023,12,Dec,Paper and Paperboard,Kgs,2745465.0,4976825.0,Import
+2023,12,Dec,Miscellaneous Chemical Products,Kgs,1457536.0,5272637.0,Import
+2023,12,Dec,Pharmaceutical Products,Kgs,310999.0,6168917.0,Import
+2023,12,Dec,Vehicles Other Than Railways,Units,593.0,6424390.51,Import
+2023,12,Dec,Other Made-Up Textile Articles,Kgs,4125542.0,7458206.0,Import
+2023,12,Dec,"Optical, Medical or Surgical Instruments",Kgs,233012.0,7747620.0,Import
+2023,12,Dec,Iron and Steel,Kgs,8442459.0,8015883.0,Import
+2023,12,Dec,"Nuclear Reactors, Boilers and Machinery",Units,346356.0,9637705.99,Import
+2023,12,Dec,Electrical Machinery and Equipment,Kgs,1412485.0,10756898.0,Import
+2023,12,Dec,Cereals,Kgs,23812394.0,11315755.0,Import
+2023,12,Dec,Plastics,Kgs,8035648.0,12468980.0,Import
+2023,12,Dec,Diesel and Others,Litres,25096286.0,24645882.0,Import
+2023,12,Dec,Petrol,Litres,27706016.0,24741431.0,Import
+2023,12,Dec,Fertilizer,Kgs,65578653.0,50270348.0,Import
+2023,12,Dec,Other Imports,,0.0,52797495.4,Import
+2024,1,Jan,Paraffin,Litres,0.0,0.0,Import
+2024,1,Jan,Tobacco and Manufactured Tobacco Substitutes,Kgs,40427.0,14382.0,Import
+2024,1,Jan,Coal,Kgs,581706.0,128900.0,Import
+2024,1,Jan,Lime,Kgs,380000.0,304005.0,Import
+2024,1,Jan,Glass and Glassware,Units,3192158.0,869975.55,Import
+2024,1,Jan,Ceramic Products,Kgs,3618517.0,1364579.0,Import
+2024,1,Jan,Cereals,Kgs,3529578.0,1653220.0,Import
+2024,1,Jan,"Optical, Medical or Surgical Instruments",Kgs,98651.0,2136476.0,Import
+2024,1,Jan,Animal or Vegetable Fats and Oils,Kgs,2827511.0,3510375.0,Import
+2024,1,Jan,Miscellaneous Chemical Products,Kgs,2032203.0,3863098.0,Import
+2024,1,Jan,Paper and Paperboard,Kgs,2278725.0,4090533.0,Import
+2024,1,Jan,Cement,Kgs,22956772.0,4265518.0,Import
+2024,1,Jan,Pharmaceutical Products,Kgs,460606.0,5051594.0,Import
+2024,1,Jan,Iron and Steel,Kgs,7267411.0,6129831.0,Import
+2024,1,Jan,Soaps and Organic Surface-Active Agents,Kgs,5867621.0,6218851.0,Import
+2024,1,Jan,Other Made-Up Textile Articles,Kgs,3415575.0,6585980.0,Import
+2024,1,Jan,Vehicles Other Than Railways,Units,49724.0,7720729.34,Import
+2024,1,Jan,Electrical Machinery and Equipment,Kgs,1175501.0,10057594.0,Import
+2024,1,Jan,"Nuclear Reactors, Boilers and Machinery",Units,138748.0,11991340.71,Import
+2024,1,Jan,Plastics,Kgs,8001672.0,12873210.0,Import
+2024,1,Jan,"Printed Books, Newspapers and Pictures",Kgs,273493.0,14873806.0,Import
+2024,1,Jan,Diesel and Others,Litres,22592621.0,19729278.0,Import
+2024,1,Jan,Petrol,Litres,32559806.0,27625543.0,Import
+2024,1,Jan,Fertilizer,Kgs,43807638.0,29658251.0,Import
+2024,1,Jan,Other Imports,,0.0,43469644.4,Import
+2024,2,Feb,Paraffin,Litres,0.0,0.0,Import
+2024,2,Feb,Coal,Kgs,553000.0,121016.0,Import
+2024,2,Feb,Lime,Kgs,845000.0,198310.0,Import
+2024,2,Feb,"Printed Books, Newspapers and Pictures",Kgs,115407.0,541999.0,Import
+2024,2,Feb,Glass and Glassware,Units,2588584.0,587993.13,Import
+2024,2,Feb,Tobacco and Manufactured Tobacco Substitutes,Kgs,122037.0,973087.0,Import
+2024,2,Feb,Ceramic Products,Kgs,3784709.0,1445039.0,Import
+2024,2,Feb,"Optical, Medical or Surgical Instruments",Kgs,116047.0,2529965.0,Import
+2024,2,Feb,Paper and Paperboard,Kgs,1706969.0,2917427.0,Import
+2024,2,Feb,Cereals,Kgs,10049314.0,3989769.0,Import
+2024,2,Feb,Iron and Steel,Kgs,4628614.0,4415406.0,Import
+2024,2,Feb,Animal or Vegetable Fats and Oils,Kgs,3691638.0,4441749.0,Import
+2024,2,Feb,Cement,Kgs,28528466.0,4466668.0,Import
+2024,2,Feb,Soaps and Organic Surface-Active Agents,Kgs,4421620.0,4663819.0,Import
+2024,2,Feb,Other Made-Up Textile Articles,Kgs,2635218.0,5177354.0,Import
+2024,2,Feb,Miscellaneous Chemical Products,Kgs,1064993.0,5271842.0,Import
+2024,2,Feb,Diesel and Others,Litres,9473846.0,8043253.0,Import
+2024,2,Feb,Pharmaceutical Products,Kgs,542141.0,9263671.0,Import
+2024,2,Feb,Vehicles Other Than Railways,Units,45990.0,9790111.7,Import
+2024,2,Feb,Electrical Machinery and Equipment,Kgs,1098329.0,10617279.0,Import
+2024,2,Feb,"Nuclear Reactors, Boilers and Machinery",Units,174132.0,11249149.02,Import
+2024,2,Feb,Plastics,Kgs,7787283.0,12671592.0,Import
+2024,2,Feb,Fertilizer,Kgs,22451073.0,13437134.0,Import
+2024,2,Feb,Petrol,Litres,21202161.0,17686883.0,Import
+2024,2,Feb,Other Imports,,0.0,47089798.15,Import
+2024,3,Mar,Paraffin,Litres,134597.0,96241.0,Import
+2024,3,Mar,Coal,Kgs,465000.0,105820.0,Import
+2024,3,Mar,Tobacco and Manufactured Tobacco Substitutes,Kgs,62146.0,116114.0,Import
+2024,3,Mar,Lime,Kgs,688565.0,162883.0,Import
+2024,3,Mar,Glass and Glassware,Units,2666934.0,718231.57,Import
+2024,3,Mar,Ceramic Products,Kgs,3837881.0,1660093.0,Import
+2024,3,Mar,Cement,Kgs,14991746.0,3045996.0,Import
+2024,3,Mar,"Optical, Medical or Surgical Instruments",Kgs,115009.0,3471557.0,Import
+2024,3,Mar,Cereals,Kgs,12719208.0,4066964.0,Import
+2024,3,Mar,Soaps and Organic Surface-Active Agents,Kgs,4133232.0,4121165.0,Import
+2024,3,Mar,Animal or Vegetable Fats and Oils,Kgs,3422048.0,4248239.0,Import
+2024,3,Mar,Iron and Steel,Kgs,6660714.0,6205210.0,Import
+2024,3,Mar,Fertilizer,Kgs,10800227.0,6730921.0,Import
+2024,3,Mar,Paper and Paperboard,Kgs,4396613.0,6880493.0,Import
+2024,3,Mar,Miscellaneous Chemical Products,Kgs,2037558.0,7152779.0,Import
+2024,3,Mar,Other Made-Up Textile Articles,Kgs,4786686.0,9124627.0,Import
+2024,3,Mar,"Nuclear Reactors, Boilers and Machinery",Units,302127.0,10725225.78,Import
+2024,3,Mar,Pharmaceutical Products,Kgs,372051.0,11430717.0,Import
+2024,3,Mar,Plastics,Kgs,7764153.0,11781738.0,Import
+2024,3,Mar,"Printed Books, Newspapers and Pictures",Kgs,246903.0,11835215.0,Import
+2024,3,Mar,Vehicles Other Than Railways,Units,6393.0,13416210.4,Import
+2024,3,Mar,Electrical Machinery and Equipment,Kgs,1574189.0,13675041.0,Import
+2024,3,Mar,Diesel and Others,Litres,20565702.0,17325423.0,Import
+2024,3,Mar,Petrol,Litres,30739781.0,25395742.0,Import
+2024,3,Mar,Other Imports,,0.0,60838999.25,Import
+2024,4,Apr,Paraffin,Litres,0.0,0.0,Import
+2024,4,Apr,Lime,Kgs,653273.0,171138.0,Import
+2024,4,Apr,Glass and Glassware,Units,1639364.0,184239.41,Import
+2024,4,Apr,Ceramic Products,Kgs,3551588.0,1412344.0,Import
+2024,4,Apr,Coal,Kgs,15496000.0,1987592.0,Import
+2024,4,Apr,Tobacco and Manufactured Tobacco Substitutes,Kgs,472230.0,2438385.0,Import
+2024,4,Apr,Cement,Kgs,17077090.0,2643741.0,Import
+2024,4,Apr,Paper and Paperboard,Kgs,2833115.0,4217724.0,Import
+2024,4,Apr,Animal or Vegetable Fats and Oils,Kgs,3424960.0,4429856.0,Import
+2024,4,Apr,"Optical, Medical or Surgical Instruments",Kgs,184587.0,4959662.0,Import
+2024,4,Apr,Other Made-Up Textile Articles,Kgs,2743657.0,5225399.0,Import
+2024,4,Apr,Iron and Steel,Kgs,5433388.0,5244992.0,Import
+2024,4,Apr,Soaps and Organic Surface-Active Agents,Kgs,5120342.0,5289077.0,Import
+2024,4,Apr,Fertilizer,Kgs,8923375.0,5333030.0,Import
+2024,4,Apr,Cereals,Kgs,16665977.0,7873692.0,Import
+2024,4,Apr,Vehicles Other Than Railways,Units,870.0,9668212.19,Import
+2024,4,Apr,Miscellaneous Chemical Products,Kgs,1329351.0,9755591.0,Import
+2024,4,Apr,Plastics,Kgs,6812236.0,10260182.0,Import
+2024,4,Apr,"Nuclear Reactors, Boilers and Machinery",Units,146202.0,11222148.32,Import
+2024,4,Apr,"Printed Books, Newspapers and Pictures",Kgs,259259.0,11884788.0,Import
+2024,4,Apr,Petrol,Litres,17750636.0,14373238.0,Import
+2024,4,Apr,Electrical Machinery and Equipment,Kgs,8175132.0,15118490.0,Import
+2024,4,Apr,Pharmaceutical Products,Kgs,672771.0,16293868.0,Import
+2024,4,Apr,Diesel and Others,Litres,26582668.0,21963865.0,Import
+2024,4,Apr,Other Imports,,0.0,40840269.08,Import
+2024,5,May,Paraffin,Litres,0.0,0.0,Import
+2024,5,May,Coal,Kgs,523007.0,116304.03,Import
+2024,5,May,Lime,Kgs,882750.0,209224.98,Import
+2024,5,May,Glass and Glassware,Units,1478807.0,212394.72,Import
+2024,5,May,Ceramic Products,Kgs,3852009.09,1441634.59,Import
+2024,5,May,Cereals,Kgs,10024925.16,3485591.6,Import
+2024,5,May,Cement,Kgs,24129860.0,3912782.86,Import
+2024,5,May,Paper and Paperboard,Kgs,4274099.16,5920726.5,Import
+2024,5,May,Iron and Steel,Kgs,6172561.35,5943618.42,Import
+2024,5,May,"Optical, Medical or Surgical Instruments",Kgs,179516.79,6050459.21,Import
+2024,5,May,Animal or Vegetable Fats and Oils,Kgs,5876467.21,7126482.3,Import
+2024,5,May,Soaps and Organic Surface-Active Agents,Kgs,8487909.65,8552851.46,Import
+2024,5,May,Other Made-Up Textile Articles,Kgs,5106896.83,9728526.22,Import
+2024,5,May,Fertilizer,Kgs,14228407.0,9917772.37,Import
+2024,5,May,Miscellaneous Chemical Products,Kgs,1356977.06,10588353.92,Import
+2024,5,May,"Printed Books, Newspapers and Pictures",Kgs,380401.0,11393072.59,Import
+2024,5,May,Vehicles Other Than Railways,Units,7674.0,11639020.17,Import
+2024,5,May,Plastics,Kgs,8227219.92,12014181.06,Import
+2024,5,May,"Nuclear Reactors, Boilers and Machinery",Units,174268.0,13417925.09,Import
+2024,5,May,Tobacco and Manufactured Tobacco Substitutes,Kgs,2951153.51,14347819.78,Import
+2024,5,May,Electrical Machinery and Equipment,Kgs,2185787.46,15992919.38,Import
+2024,5,May,Diesel and Others,Litres,22429393.0,18566953.0,Import
+2024,5,May,Petrol,Litres,28201396.0,22831442.0,Import
+2024,5,May,Pharmaceutical Products,Kgs,1003593.23,27877136.65,Import
+2024,5,May,Other Imports,,0.0,53585187.35,Import
+2024,6,Jun,Paraffin,Litres,0.0,0.0,Import
+2024,6,Jun,Coal,Kgs,2224000.0,250748.0,Import
+2024,6,Jun,Lime,Kgs,1156253.0,268339.32,Import
+2024,6,Jun,Glass and Glassware,Units,5163124.0,1093716.63,Import
+2024,6,Jun,Cement,Kgs,6884800.0,1344286.49,Import
+2024,6,Jun,Ceramic Products,Kgs,4118345.8,1454637.99,Import
+2024,6,Jun,Iron and Steel,Kgs,5509139.81,4876794.87,Import
+2024,6,Jun,Soaps and Organic Surface-Active Agents,Kgs,4578833.56,4949878.45,Import
+2024,6,Jun,Tobacco and Manufactured Tobacco Substitutes,Kgs,1274523.0,5321472.8,Import
+2024,6,Jun,"Optical, Medical or Surgical Instruments",Kgs,141562.82,5326795.62,Import
+2024,6,Jun,Paper and Paperboard,Kgs,3066788.1,5328293.17,Import
+2024,6,Jun,Cereals,Kgs,21005798.92,6996885.34,Import
+2024,6,Jun,Animal or Vegetable Fats and Oils,Kgs,5974402.06,7151324.83,Import
+2024,6,Jun,Miscellaneous Chemical Products,Kgs,3004237.05,9001803.11,Import
+2024,6,Jun,"Printed Books, Newspapers and Pictures",Kgs,277461.37,9323146.43,Import
+2024,6,Jun,Other Made-Up Textile Articles,Kgs,4179008.83,9683674.72,Import
+2024,6,Jun,Electrical Machinery and Equipment,Kgs,1370057.76,9791022.3,Import
+2024,6,Jun,Vehicles Other Than Railways,Units,4863.0,12276104.25,Import
+2024,6,Jun,Plastics,Kgs,8716563.2,13006733.71,Import
+2024,6,Jun,Diesel and Others,Litres,19851671.0,16458614.78,Import
+2024,6,Jun,Pharmaceutical Products,Kgs,951862.4,18287906.82,Import
+2024,6,Jun,Fertilizer,Kgs,30618416.85,20091541.61,Import
+2024,6,Jun,Petrol,Litres,30032116.0,24312429.27,Import
+2024,6,Jun,"Nuclear Reactors, Boilers and Machinery",Units,151442.0,41249793.1,Import
+2024,6,Jun,Other Imports,,0.0,61418427.11,Import
+2024,7,Jul,Paraffin,Litres,135756.0,95134.74,Import
+2024,7,Jul,Lime,Kgs,1038000.0,243024.48,Import
+2024,7,Jul,Glass and Glassware,Units,3655527.0,382796.56,Import
+2024,7,Jul,Coal,Kgs,5062000.0,639076.44,Import
+2024,7,Jul,"Printed Books, Newspapers and Pictures",Kgs,292447.22,1425677.56,Import
+2024,7,Jul,Cement,Kgs,10163219.0,1609028.15,Import
+2024,7,Jul,Ceramic Products,Kgs,4868052.64,1859946.86,Import
+2024,7,Jul,"Optical, Medical or Surgical Instruments",Kgs,143509.63,2229540.07,Import
+2024,7,Jul,Iron and Steel,Kgs,4876014.88,4774049.51,Import
+2024,7,Jul,Paper and Paperboard,Kgs,3220914.01,5410646.28,Import
+2024,7,Jul,Soaps and Organic Surface-Active Agents,Kgs,6594703.0,6885376.01,Import
+2024,7,Jul,Miscellaneous Chemical Products,Kgs,1169031.76,7218345.61,Import
+2024,7,Jul,Animal or Vegetable Fats and Oils,Kgs,6389051.41,7762958.96,Import
+2024,7,Jul,Cereals,Kgs,36239662.94,9783247.25,Import
+2024,7,Jul,Tobacco and Manufactured Tobacco Substitutes,Kgs,3425704.0,11060408.88,Import
+2024,7,Jul,Vehicles Other Than Railways,Units,1365.0,12016509.08,Import
+2024,7,Jul,Plastics,Kgs,9146268.78,14718467.33,Import
+2024,7,Jul,"Nuclear Reactors, Boilers and Machinery",Units,174377.0,14934244.98,Import
+2024,7,Jul,Pharmaceutical Products,Kgs,702814.8,15552641.84,Import
+2024,7,Jul,Electrical Machinery and Equipment,Kgs,2021656.62,15808876.01,Import
+2024,7,Jul,Fertilizer,Kgs,33700637.5,20990312.77,Import
+2024,7,Jul,Diesel and Others,Litres,27031007.0,22327826.93,Import
+2024,7,Jul,Petrol,Litres,30979530.341,25087622.93,Import
+2024,7,Jul,Other Made-Up Textile Articles,Kgs,9257853.12,33024152.12,Import
+2024,7,Jul,Other Imports,,0.0,65654292.06,Import
+2024,8,Aug,Paraffin,Litres,0.0,0.0,Import
+2024,8,Aug,Glass and Glassware,Units,696649.0,73220.8,Import
+2024,8,Aug,Lime,Kgs,1253499.0,294871.17,Import
+2024,8,Aug,Coal,Kgs,2563010.0,339077.05,Import
+2024,8,Aug,Ceramic Products,Kgs,4352152.75,1764439.67,Import
+2024,8,Aug,Cement,Kgs,20840611.0,3044463.02,Import
+2024,8,Aug,"Optical, Medical or Surgical Instruments",Kgs,232292.03,4398780.15,Import
+2024,8,Aug,"Printed Books, Newspapers and Pictures",Kgs,318511.86,5531787.37,Import
+2024,8,Aug,Paper and Paperboard,Kgs,4322994.62,6830321.18,Import
+2024,8,Aug,Iron and Steel,Kgs,7220598.0,6994308.14,Import
+2024,8,Aug,Tobacco and Manufactured Tobacco Substitutes,Kgs,1671646.0,7316671.27,Import
+2024,8,Aug,Soaps and Organic Surface-Active Agents,Kgs,8634554.63,9363125.06,Import
+2024,8,Aug,Other Made-Up Textile Articles,Kgs,3932781.8,9603401.55,Import
+2024,8,Aug,Animal or Vegetable Fats and Oils,Kgs,8751479.09,11037027.14,Import
+2024,8,Aug,Miscellaneous Chemical Products,Kgs,1563414.83,11138745.19,Import
+2024,8,Aug,Electrical Machinery and Equipment,Kgs,1776738.13,14021858.17,Import
+2024,8,Aug,Pharmaceutical Products,Kgs,596648.68,14834543.77,Import
+2024,8,Aug,Diesel and Others,Litres,69063063.0,16808758.87,Import
+2024,8,Aug,Plastics,Kgs,10718010.71,16889129.68,Import
+2024,8,Aug,Cereals,Kgs,53089653.86,18241500.2,Import
+2024,8,Aug,"Nuclear Reactors, Boilers and Machinery",Units,317509.0,19579329.35,Import
+2024,8,Aug,Vehicles Other Than Railways,Units,1621.0,22773159.79,Import
+2024,8,Aug,Petrol,Litres,31933720.0,25972910.23,Import
+2024,8,Aug,Fertilizer,Kgs,47712857.75,27528845.08,Import
+2024,8,Aug,Other Imports,,0.0,59530083.71,Import
+2024,9,Sep,Paraffin,Litres,103.0,1510.43,Import
+2024,9,Sep,Lime,Kgs,634000.0,147188.51,Import
+2024,9,Sep,Glass and Glassware,Units,4510959.0,1067130.41,Import
+2024,9,Sep,Coal,Kgs,11129000.0,1257125.0,Import
+2024,9,Sep,Tobacco and Manufactured Tobacco Substitutes,Kgs,595384.8,1557042.26,Import
+2024,9,Sep,Ceramic Products,Kgs,38990605.3,1931294.99,Import
+2024,9,Sep,Cement,Kgs,24333100.0,3675420.73,Import
+2024,9,Sep,Iron and Steel,Kgs,6238329.18,5834132.85,Import
+2024,9,Sep,"Optical, Medical or Surgical Instruments",Kgs,200171.07,5977157.38,Import
+2024,9,Sep,Paper and Paperboard,Kgs,4276333.42,6154071.89,Import
+2024,9,Sep,Other Made-Up Textile Articles,Kgs,3225719.25,6367797.76,Import
+2024,9,Sep,Soaps and Organic Surface-Active Agents,Kgs,7080902.0,8242464.86,Import
+2024,9,Sep,Animal or Vegetable Fats and Oils,Kgs,6749510.94,8769195.79,Import
+2024,9,Sep,Pharmaceutical Products,Kgs,391481.79,8840725.59,Import
+2024,9,Sep,Cereals,Kgs,27551515.8,9221912.44,Import
+2024,9,Sep,Miscellaneous Chemical Products,Kgs,1431263.07,10415489.63,Import
+2024,9,Sep,"Printed Books, Newspapers and Pictures",Kgs,196447.02,14230280.41,Import
+2024,9,Sep,Electrical Machinery and Equipment,Kgs,1865302.94,15979225.08,Import
+2024,9,Sep,Plastics,Kgs,9610884.94,16010610.45,Import
+2024,9,Sep,Vehicles Other Than Railways,Units,1971.0,16666019.15,Import
+2024,9,Sep,Diesel and Others,Litres,27352655.0,22598060.88,Import
+2024,9,Sep,"Nuclear Reactors, Boilers and Machinery",Units,178082.0,24569839.45,Import
+2024,9,Sep,Petrol,Litres,30388468.0,24628796.4,Import
+2024,9,Sep,Fertilizer,Kgs,50926035.0,32703297.53,Import
+2024,9,Sep,Other Imports,,0.0,69542156.28,Import
+2024,10,Oct,Paraffin,Litres,0.0,0.0,Import
+2024,10,Oct,Tobacco and Manufactured Tobacco Substitutes,Kgs,64152.0,138624.19,Import
+2024,10,Oct,Lime,Kgs,652000.0,146343.67,Import
+2024,10,Oct,Coal,Kgs,2767000.0,384862.53,Import
+2024,10,Oct,Glass and Glassware,Units,2917915.0,473209.41,Import
+2024,10,Oct,Ceramic Products,Kgs,4437113.84,1594450.8,Import
+2024,10,Oct,"Optical, Medical or Surgical Instruments",Kgs,92488.26,2460384.21,Import
+2024,10,Oct,Cement,Kgs,21096725.0,3484289.71,Import
+2024,10,Oct,Pharmaceutical Products,Kgs,363522.53,4895993.95,Import
+2024,10,Oct,Miscellaneous Chemical Products,Kgs,1795822.02,6840152.07,Import
+2024,10,Oct,Diesel and Others,Litres,9702263.0,7232244.62,Import
+2024,10,Oct,Paper and Paperboard,Kgs,5270611.53,7500430.96,Import
+2024,10,Oct,Iron and Steel,Kgs,8124833.1,7911360.7,Import
+2024,10,Oct,Other Made-Up Textile Articles,Kgs,3400492.06,8847879.31,Import
+2024,10,Oct,Soaps and Organic Surface-Active Agents,Kgs,8310739.57,9432422.47,Import
+2024,10,Oct,Cereals,Kgs,32563760.78,10067780.63,Import
+2024,10,Oct,Animal or Vegetable Fats and Oils,Kgs,7324477.1,10228795.28,Import
+2024,10,Oct,Plastics,Kgs,8225193.85,13956742.6,Import
+2024,10,Oct,"Nuclear Reactors, Boilers and Machinery",Units,320800.0,15032409.92,Import
+2024,10,Oct,Petrol,Litres,23044924.0,18687018.52,Import
+2024,10,Oct,Fertilizer,Kgs,30504808.0,19483105.38,Import
+2024,10,Oct,"Printed Books, Newspapers and Pictures",Kgs,113143.51,23342810.05,Import
+2024,10,Oct,Vehicles Other Than Railways,Units,1632.0,25881059.14,Import
+2024,10,Oct,Electrical Machinery and Equipment,Kgs,1961113.35,27631321.95,Import
+2024,10,Oct,Other Imports,,0.0,60997346.64,Import
+2024,11,Nov,Paraffin,Litres,0.0,0.0,Import
+2024,11,Nov,Lime,Kgs,985000.0,235538.48,Import
+2024,11,Nov,Tobacco and Manufactured Tobacco Substitutes,Kgs,238179.23,327631.86,Import
+2024,11,Nov,Glass and Glassware,Units,608152.0,397859.09,Import
+2024,11,Nov,Coal,Kgs,440400.0,978100.37,Import
+2024,11,Nov,"Printed Books, Newspapers and Pictures",Kgs,187350.94,994875.32,Import
+2024,11,Nov,Ceramic Products,Kgs,4319319.24,1772235.94,Import
+2024,11,Nov,Cement,Kgs,22204885.5,3144781.96,Import
+2024,11,Nov,"Optical, Medical or Surgical Instruments",Kgs,237223.57,5215656.87,Import
+2024,11,Nov,Paper and Paperboard,Kgs,3370805.69,5543405.24,Import
+2024,11,Nov,Miscellaneous Chemical Products,Kgs,1754167.04,7640057.46,Import
+2024,11,Nov,Iron and Steel,Kgs,10762424.95,9440624.14,Import
+2024,11,Nov,Animal or Vegetable Fats and Oils,Kgs,6603288.59,9749943.98,Import
+2024,11,Nov,Other Made-Up Textile Articles,Kgs,7281029.63,10392962.04,Import
+2024,11,Nov,Soaps and Organic Surface-Active Agents,Kgs,8453762.33,10518834.29,Import
+2024,11,Nov,Vehicles Other Than Railways,Units,1489.0,13606732.94,Import
+2024,11,Nov,Pharmaceutical Products,Kgs,464583.96,13665468.01,Import
+2024,11,Nov,Plastics,Kgs,9134169.24,15021103.3,Import
+2024,11,Nov,Cereals,Kgs,32939283.16,17233864.8,Import
+2024,11,Nov,Electrical Machinery and Equipment,Kgs,2050085.45,18918544.9,Import
+2024,11,Nov,"Nuclear Reactors, Boilers and Machinery",Units,216517.0,21452705.72,Import
+2024,11,Nov,Petrol,Litres,27057626.0,21920098.17,Import
+2024,11,Nov,Diesel and Others,Litres,29055254.0,23784648.48,Import
+2024,11,Nov,Fertilizer,Kgs,31702686.0,25702072.83,Import
+2024,11,Nov,Other Imports,,0.0,63504905.84,Import
+2024,12,Dec,Paraffin,Litres,0.0,0.0,Import
+2024,12,Dec,Lime,Kgs,684050.0,159756.35,Import
+2024,12,Dec,Tobacco and Manufactured Tobacco Substitutes,Kgs,73510.7,220384.09,Import
+2024,12,Dec,Coal,Kgs,2964500.0,429252.64,Import
+2024,12,Dec,Glass and Glassware,Units,3913600.0,521660.95,Import
+2024,12,Dec,Ceramic Products,Kgs,3947552.44,1784761.94,Import
+2024,12,Dec,Cement,Kgs,12016644.0,2010070.8,Import
+2024,12,Dec,Cereals,Kgs,3683108.38,2461902.82,Import
+2024,12,Dec,"Printed Books, Newspapers and Pictures",Kgs,343507.54,4516024.33,Import
+2024,12,Dec,"Optical, Medical or Surgical Instruments",Kgs,187818.87,5084549.45,Import
+2024,12,Dec,Miscellaneous Chemical Products,Kgs,1805378.22,6395598.77,Import
+2024,12,Dec,Paper and Paperboard,Kgs,5894705.81,7341317.62,Import
+2024,12,Dec,Soaps and Organic Surface-Active Agents,Kgs,7159215.01,8184824.47,Import
+2024,12,Dec,Animal or Vegetable Fats and Oils,Kgs,5758902.98,8450804.39,Import
+2024,12,Dec,Other Made-Up Textile Articles,Kgs,4121666.92,9338752.28,Import
+2024,12,Dec,Iron and Steel,Kgs,10827331.7,9651394.9,Import
+2024,12,Dec,Plastics,Kgs,6567122.07,10647427.42,Import
+2024,12,Dec,Pharmaceutical Products,Kgs,557666.8,10706301.63,Import
+2024,12,Dec,Electrical Machinery and Equipment,Kgs,1432941.79,12041337.79,Import
+2024,12,Dec,"Nuclear Reactors, Boilers and Machinery",Units,162232.0,12146869.63,Import
+2024,12,Dec,Vehicles Other Than Railways,Units,13848.0,13873801.91,Import
+2024,12,Dec,Petrol,Litres,23280763.0,18856447.84,Import
+2024,12,Dec,Fertilizer,Kgs,43609565.0,38086420.64,Import
+2024,12,Dec,Other Imports,,0.0,58125900.94,Import
+2024,12,Dec,Diesel and Others,Litres,24264024.0,86054907.97,Import
+2025,1,Jan,Paraffin,Litres,0.0,0.0,Import
+2025,1,Jan,Lime,Kgs,337000.0,79346.76,Import
+2025,1,Jan,Coal,Kgs,527000.0,118575.0,Import
+2025,1,Jan,"Printed Books, Newspapers and Pictures",Kgs,158985.89,780892.52,Import
+2025,1,Jan,Glass and Glassware,Units,1469928.93,1021928.94,Import
+2025,1,Jan,Tobacco and Manufactured Tobacco Substitutes,Kgs,196883.0,1269591.59,Import
+2025,1,Jan,Ceramic Products,Kgs,4379290.76,1536475.82,Import
+2025,1,Jan,Cereals,Kgs,5591385.63,1958777.06,Import
+2025,1,Jan,Cement,Kgs,18315400.0,3042975.1,Import
+2025,1,Jan,"Optical, Medical or Surgical Instruments",Kgs,141242.35,3533394.39,Import
+2025,1,Jan,Paper and Paperboard,Kgs,4219251.84,4872704.54,Import
+2025,1,Jan,Animal or Vegetable Fats and Oils,Kgs,4670669.59,6743530.21,Import
+2025,1,Jan,Iron and Steel,Kgs,8804623.42,7426742.28,Import
+2025,1,Jan,Other Made-Up Textile Articles,Kgs,4134953.55,8180736.76,Import
+2025,1,Jan,Vehicles Other Than Railways,Units,983.0,8974104.3,Import
+2025,1,Jan,Soaps and Organic Surface-Active Agents,Kgs,7741755.85,9559052.4,Import
+2025,1,Jan,Miscellaneous Chemical Products,Kgs,2052714.28,11864805.83,Import
+2025,1,Jan,Electrical Machinery and Equipment,Kgs,1822722.1,13010146.62,Import
+2025,1,Jan,Plastics,Kgs,9549378.37,16521703.39,Import
+2025,1,Jan,"Nuclear Reactors, Boilers and Machinery",Units,270185.0,19572897.03,Import
+2025,1,Jan,Pharmaceutical Products,Kgs,939239.35,20817131.95,Import
+2025,1,Jan,Petrol,Litres,27890479.0,22585729.46,Import
+2025,1,Jan,Diesel and Others,Litres,29590163.0,24445521.29,Import
+2025,1,Jan,Other Imports,,0.0,41973925.3599999,Import
+2025,1,Jan,Fertilizer,Kgs,53593916.0,43645642.68,Import
+2025,2,Feb,Paraffin,Litres,0.0,0.0,Import
+2025,2,Feb,Lime,Kgs,205909.0,48566.96,Import
+2025,2,Feb,Coal,Kgs,341000.0,76725.0,Import
+2025,2,Feb,Cement,Kgs,7820850.0,1242904.63,Import
+2025,2,Feb,Ceramic Products,Kgs,3339158.73,1247395.03,Import
+2025,2,Feb,Tobacco and Manufactured Tobacco Substitutes,Kgs,342464.0,1372837.18,Import
+2025,2,Feb,Glass and Glassware,Units,1630153.44,1587458.55,Import
+2025,2,Feb,Animal or Vegetable Fats and Oils,Kgs,2828918.96,4057142.67,Import
+2025,2,Feb,Miscellaneous Chemical Products,Kgs,1787209.3,4885684.37,Import
+2025,2,Feb,Paper and Paperboard,Kgs,3842259.46,5090624.14,Import
+2025,2,Feb,Soaps and Organic Surface-Active Agents,Kgs,6136579.08,7876439.02,Import
+2025,2,Feb,Other Made-Up Textile Articles,Kgs,4191299.64,8101554.57,Import
+2025,2,Feb,Iron and Steel,Kgs,9218240.57,8453761.38,Import
+2025,2,Feb,Cereals,Kgs,36845996.2,8502139.45,Import
+2025,2,Feb,Pharmaceutical Products,Kgs,153166.26,9468398.69,Import
+2025,2,Feb,"Optical, Medical or Surgical Instruments",Kgs,451646.06,9987264.27,Import
+2025,2,Feb,Electrical Machinery and Equipment,Kgs,1465666.4,10490430.39,Import
+2025,2,Feb,Plastics,Kgs,7326935.6,11331942.2,Import
+2025,2,Feb,Vehicles Other Than Railways,Units,3761.0,13928592.09,Import
+2025,2,Feb,Fertilizer,Kgs,30213058.0,20784135.62,Import
+2025,2,Feb,"Printed Books, Newspapers and Pictures",Kgs,311757.47,21380243.27,Import
+2025,2,Feb,Diesel and Others,Litres,34074120.22,28128542.03,Import
+2025,2,Feb,Petrol,Litres,37846406.998,30644731.43,Import
+2025,2,Feb,"Nuclear Reactors, Boilers and Machinery",Units,336918.0,35542164.05,Import
+2025,2,Feb,Other Imports,,0.0,49425075.12,Import
+2025,3,Mar,Paraffin,Litres,0.0,0.0,Import
+2025,3,Mar,Coal,Kgs,434000.0,97654.9,Import
+2025,3,Mar,Lime,Kgs,760175.0,195251.92,Import
+2025,3,Mar,Tobacco and Manufactured Tobacco Substitutes,Kgs,81467.2,338572.88,Import
+2025,3,Mar,Glass and Glassware,Units,1095493.59,881494.93,Import
+2025,3,Mar,Ceramic Products,Kgs,5550330.55,2659448.79,Import
+2025,3,Mar,Cement,Kgs,19125134.0,3279276.5,Import
+2025,3,Mar,"Printed Books, Newspapers and Pictures",Kgs,239053.84,3409133.1,Import
+2025,3,Mar,Soaps and Organic Surface-Active Agents,Kgs,3716633.82,3444391.22,Import
+2025,3,Mar,Fertilizer,Kgs,5448651.0,3814719.58,Import
+2025,3,Mar,"Optical, Medical or Surgical Instruments",Kgs,406604.24,4487479.81,Import
+2025,3,Mar,Paper and Paperboard,Kgs,2929922.93,4937004.77,Import
+2025,3,Mar,Cereals,Kgs,3201806.0,5436447.93,Import
+2025,3,Mar,Other Made-Up Textile Articles,Kgs,2859673.46,5630139.72,Import
+2025,3,Mar,Animal or Vegetable Fats and Oils,Kgs,4709695.93,6413473.85,Import
+2025,3,Mar,Miscellaneous Chemical Products,Kgs,1143843.46,7125460.66,Import
+2025,3,Mar,Iron and Steel,Kgs,9558332.57,10207443.28,Import
+2025,3,Mar,Pharmaceutical Products,Kgs,397289.3,15026316.76,Import
+2025,3,Mar,Electrical Machinery and Equipment,Kgs,1696141.64,15247806.12,Import
+2025,3,Mar,Plastics,Kgs,10465136.78,16102394.65,Import
+2025,3,Mar,Diesel and Others,Litres,24338500.0,20087590.52,Import
+2025,3,Mar,Petrol,Litres,29823000.0,23614094.05,Import
+2025,3,Mar,"Nuclear Reactors, Boilers and Machinery",Units,433277.0,24327474.47,Import
+2025,3,Mar,Vehicles Other Than Railways,Units,1352.0,38498363.65,Import
+2025,3,Mar,Other Imports,,0.0,49574273.18,Import
+2025,4,Apr,Paraffin,Litres,0.0,0.0,Import
+2025,4,Apr,Coal,Kgs,433000.0,92178.17,Import
+2025,4,Apr,Tobacco and Manufactured Tobacco Substitutes,Kgs,13365.87,115380.07,Import
+2025,4,Apr,Lime,Kgs,912500.0,213817.69,Import
+2025,4,Apr,Glass and Glassware,Units,1068238.82,912547.23,Import
+2025,4,Apr,Ceramic Products,Kgs,3140418.7,1197239.59,Import
+2025,4,Apr,Cement,Kgs,10474682.0,1851230.14,Import
+2025,4,Apr,Fertilizer,Kgs,3727971.0,3106068.69,Import
+2025,4,Apr,"Printed Books, Newspapers and Pictures",Kgs,409602.26,3721682.1,Import
+2025,4,Apr,Paper and Paperboard,Kgs,2499124.86,4146985.88,Import
+2025,4,Apr,"Optical, Medical or Surgical Instruments",Kgs,176733.96,6106051.65,Import
+2025,4,Apr,Animal or Vegetable Fats and Oils,Kgs,4903687.8,6794758.46,Import
+2025,4,Apr,Cereals,Kgs,16693705.0,6963497.96,Import
+2025,4,Apr,Miscellaneous Chemical Products,Kgs,1425691.39,7365747.53,Import
+2025,4,Apr,Iron and Steel,Kgs,8614314.91,7931104.39,Import
+2025,4,Apr,Soaps and Organic Surface-Active Agents,Kgs,7815525.57,8154531.05,Import
+2025,4,Apr,Other Made-Up Textile Articles,Kgs,5203700.49,10004785.52,Import
+2025,4,Apr,Plastics,Kgs,6028439.4,11009796.45,Import
+2025,4,Apr,Pharmaceutical Products,Kgs,426856.51,13640159.46,Import
+2025,4,Apr,Electrical Machinery and Equipment,Kgs,1482916.04,14973677.68,Import
+2025,4,Apr,Diesel and Others,Litres,23467057.0,19353578.2,Import
+2025,4,Apr,Vehicles Other Than Railways,Units,11856.0,20995633.95,Import
+2025,4,Apr,Petrol,Litres,27215036.0,22049516.35,Import
+2025,4,Apr,"Nuclear Reactors, Boilers and Machinery",Units,249978.0,36377210.97,Import
+2025,4,Apr,Other Imports,,0.0,44888710.07,Import
+2025,5,May,Paraffin,Litres,0.0,0.0,Import
+2025,5,May,Coal,Kgs,1250000.0,165069.67,Import
+2025,5,May,Lime,Kgs,876700.0,209986.11,Import
+2025,5,May,Glass and Glassware,Units,4999270.0,1569716.05,Import
+2025,5,May,"Printed Books, Newspapers and Pictures",Kgs,369577.38,1937904.72,Import
+2025,5,May,Ceramic Products,Kgs,4050712.07,2194737.18,Import
+2025,5,May,Cement,Kgs,19023706.2,3046315.91,Import
+2025,5,May,"Optical, Medical or Surgical Instruments",Kgs,108460.21,3749127.36,Import
+2025,5,May,Soaps and Organic Surface-Active Agents,Kgs,4618587.32,4580835.31,Import
+2025,5,May,Paper and Paperboard,Kgs,2982129.37,4724244.92,Import
+2025,5,May,Miscellaneous Chemical Products,Kgs,1507804.62,5220373.24,Import
+2025,5,May,Fertilizer,Kgs,6447708.24,5879744.37,Import
+2025,5,May,Animal or Vegetable Fats and Oils,Kgs,6775720.53,9060391.2,Import
+2025,5,May,Other Made-Up Textile Articles,Kgs,5074362.6,9895566.79,Import
+2025,5,May,Cereals,Kgs,22657898.54,11132746.02,Import
+2025,5,May,Plastics,Kgs,8316384.75,13330545.48,Import
+2025,5,May,Vehicles Other Than Railways,Units,1183.0,14879363.17,Import
+2025,5,May,Iron and Steel,Kgs,11966021.42,15000521.96,Import
+2025,5,May,Electrical Machinery and Equipment,Kgs,2105021.66,16444040.55,Import
+2025,5,May,Tobacco and Manufactured Tobacco Substitutes,Kgs,4115335.6,19620674.98,Import
+2025,5,May,Pharmaceutical Products,Kgs,914982.2,21850266.89,Import
+2025,5,May,Diesel and Others,Litres,27498349.0,22680144.54,Import
+2025,5,May,"Nuclear Reactors, Boilers and Machinery",Units,153271.0,25649784.07,Import
+2025,5,May,Petrol,Litres,40527143.0,32882869.42,Import
+2025,5,May,Other Imports,,0.0,69050844.58,Import
+2025,6,Jun,Paraffin,Litres,0.0,0.0,Import
+2025,6,Jun,Lime,Kgs,817005.0,203399.64,Import
+2025,6,Jun,Coal,Kgs,2102000.0,334458.2,Import
+2025,6,Jun,Glass and Glassware,Units,4593827.0,1197289.94,Import
+2025,6,Jun,Ceramic Products,Kgs,3699877.85,1653611.38,Import
+2025,6,Jun,Cement,Kgs,33936053.0,2620701.85,Import
+2025,6,Jun,Soaps and Organic Surface-Active Agents,Kgs,3125677.41,4250961.54,Import
+2025,6,Jun,Paper and Paperboard,Kgs,3150260.06,5554491.33,Import
+2025,6,Jun,"Printed Books, Newspapers and Pictures",Kgs,349554.78,6120216.81,Import
+2025,6,Jun,"Optical, Medical or Surgical Instruments",Kgs,279851.97,6685131.59,Import
+2025,6,Jun,Miscellaneous Chemical Products,Kgs,1253582.15,6950717.07,Import
+2025,6,Jun,Cereals,Kgs,19284174.0,7556847.02,Import
+2025,6,Jun,Animal or Vegetable Fats and Oils,Kgs,7309314.0,9777736.56,Import
+2025,6,Jun,Other Made-Up Textile Articles,Kgs,5929661.2,11321490.61,Import
+2025,6,Jun,Pharmaceutical Products,Kgs,962231.72,13350182.55,Import
+2025,6,Jun,Plastics,Kgs,9563549.23,14935612.26,Import
+2025,6,Jun,Fertilizer,Kgs,15864435.25,15265476.74,Import
+2025,6,Jun,Iron and Steel,Kgs,11743863.15,15356735.97,Import
+2025,6,Jun,Electrical Machinery and Equipment,Kgs,2000187.87,18500154.3,Import
+2025,6,Jun,Tobacco and Manufactured Tobacco Substitutes,Kgs,4938576.0,19897332.71,Import
+2025,6,Jun,Vehicles Other Than Railways,Units,1254.0,19943782.79,Import
+2025,6,Jun,"Nuclear Reactors, Boilers and Machinery",Units,336570.0,21585427.08,Import
+2025,6,Jun,Diesel and Others,Litres,33857707.0,28021516.12,Import
+2025,6,Jun,Petrol,Litres,39718237.0,32156041.3,Import
+2025,6,Jun,Other Imports,,0.0,48254281.9,Import
+2025,7,Jul,Paraffin,Litres,0.0,0.0,Import
+2025,7,Jul,Lime,Kgs,1564400.0,392545.08,Import
+2025,7,Jul,Glass and Glassware,Units,3566603.0,800098.43,Import
+2025,7,Jul,"Printed Books, Newspapers and Pictures",Kgs,203782.64,1384065.58,Import
+2025,7,Jul,Coal,Kgs,9970000.0,1589561.16,Import
+2025,7,Jul,Cereals,Kgs,5076104.63,2050700.24,Import
+2025,7,Jul,Ceramic Products,Kgs,5418397.74,2112250.01,Import
+2025,7,Jul,Cement,Kgs,22049870.0,2616928.06,Import
+2025,7,Jul,"Optical, Medical or Surgical Instruments",Kgs,159134.67,4212003.2,Import
+2025,7,Jul,Paper and Paperboard,Kgs,3825038.01,6268161.99,Import
+2025,7,Jul,Tobacco and Manufactured Tobacco Substitutes,Kgs,1957606.8,7151649.99,Import
+2025,7,Jul,Soaps and Organic Surface-Active Agents,Kgs,7715177.08,8100102.85,Import
+2025,7,Jul,Miscellaneous Chemical Products,Kgs,1554083.06,8622728.16,Import
+2025,7,Jul,Other Made-Up Textile Articles,Kgs,5340907.8,10290787.43,Import
+2025,7,Jul,Animal or Vegetable Fats and Oils,Kgs,8459927.35,11097497.09,Import
+2025,7,Jul,Iron and Steel,Kgs,11216066.01,13246055.63,Import
+2025,7,Jul,Electrical Machinery and Equipment,Kgs,2321374.37,16388329.23,Import
+2025,7,Jul,Plastics,Kgs,10607789.53,16392607.36,Import
+2025,7,Jul,Vehicles Other Than Railways,Units,1526.0,16439888.55,Import
+2025,7,Jul,Pharmaceutical Products,Kgs,949656.76,17381889.37,Import
+2025,7,Jul,"Nuclear Reactors, Boilers and Machinery",Units,250156.0,20007222.45,Import
+2025,7,Jul,Fertilizer,Kgs,25950038.0,20872330.0,Import
+2025,7,Jul,Diesel and Others,Litres,34241494.0,23629187.91,Import
+2025,7,Jul,Petrol,Litres,31523692.0,25521072.02,Import
+2025,7,Jul,Other Imports,,0.0,53511798.88,Import
+2025,8,Aug,Paraffin,Litres,0.0,0.0,Import
+2025,8,Aug,Coal,Kgs,90000.0,17558.35,Import
+2025,8,Aug,Lime,Kgs,550000.0,126277.61,Import
+2025,8,Aug,Glass and Glassware,Units,3532554.0,887959.8,Import
+2025,8,Aug,Ceramic Products,Kgs,4332222.64,1825425.19,Import
+2025,8,Aug,Cement,Kgs,28140325.0,4586339.39,Import
+2025,8,Aug,"Optical, Medical or Surgical Instruments",Kgs,208631.17,5325307.19,Import
+2025,8,Aug,Pharmaceutical Products,Kgs,267501.74,5597802.55,Import
+2025,8,Aug,Tobacco and Manufactured Tobacco Substitutes,Kgs,1811841.0,6541827.8,Import
+2025,8,Aug,Paper and Paperboard,Kgs,4754203.17,7357733.57,Import
+2025,8,Aug,Other Made-Up Textile Articles,Kgs,4336933.48,8354401.95,Import
+2025,8,Aug,Animal or Vegetable Fats and Oils,Kgs,6158369.52,8411109.01,Import
+2025,8,Aug,Miscellaneous Chemical Products,Kgs,2197167.39,8758120.76,Import
+2025,8,Aug,Soaps and Organic Surface-Active Agents,Kgs,8194995.07,9182468.81,Import
+2025,8,Aug,Iron and Steel,Kgs,9883625.31,9204840.64,Import
+2025,8,Aug,"Printed Books, Newspapers and Pictures",Kgs,533359.01,11183255.66,Import
+2025,8,Aug,Cereals,Kgs,18870655.55,12407851.92,Import
+2025,8,Aug,Plastics,Kgs,9929157.48,15675139.5,Import
+2025,8,Aug,Vehicles Other Than Railways,Units,1712.0,16168655.23,Import
+2025,8,Aug,Electrical Machinery and Equipment,Kgs,2134925.81,16310104.23,Import
+2025,8,Aug,"Nuclear Reactors, Boilers and Machinery",Units,248788.0,23191278.35,Import
+2025,8,Aug,Diesel and Others,Litres,34944907.0,29115023.77,Import
+2025,8,Aug,Fertilizer,Kgs,60177262.0,38974077.53,Import
+2025,8,Aug,Petrol,Litres,48498235.0,39432652.04,Import
+2025,8,Aug,Other Imports,,0.0,59402707.92,Import
+2025,9,Sep,Paraffin,Litres,0.0,0.0,Import
+2025,9,Sep,Lime,Kgs,458800.0,106998.28,Import
+2025,9,Sep,Coal,Kgs,6123000.0,765795.0,Import
+2025,9,Sep,Glass and Glassware,Units,3199310.0,797498.59,Import
+2025,9,Sep,Ceramic Products,Kgs,4753106.26,1725406.25,Import
+2025,9,Sep,Cement,Kgs,11979630.0,1783524.91,Import
+2025,9,Sep,Tobacco and Manufactured Tobacco Substitutes,Kgs,1971798.8,3035755.2,Import
+2025,9,Sep,Animal or Vegetable Fats and Oils,Kgs,2179525.82,3061343.31,Import
+2025,9,Sep,Cereals,Kgs,5557416.64,3502642.54,Import
+2025,9,Sep,"Optical, Medical or Surgical Instruments",Kgs,166473.36,6202002.52,Import
+2025,9,Sep,Paper and Paperboard,Kgs,4130592.43,6482291.32,Import
+2025,9,Sep,Iron and Steel,Kgs,7121817.61,6775095.54,Import
+2025,9,Sep,Soaps and Organic Surface-Active Agents,Kgs,6818068.08,7264009.7,Import
+2025,9,Sep,Pharmaceutical Products,Kgs,336311.61,7926736.06,Import
+2025,9,Sep,Miscellaneous Chemical Products,Kgs,1268638.85,8321915.18,Import
+2025,9,Sep,Other Made-Up Textile Articles,Kgs,5840655.63,12975005.95,Import
+2025,9,Sep,Electrical Machinery and Equipment,Kgs,1723573.66,14533692.1,Import
+2025,9,Sep,Plastics,Kgs,9896426.33,14957483.55,Import
+2025,9,Sep,"Printed Books, Newspapers and Pictures",Kgs,579126.08,19787035.24,Import
+2025,9,Sep,Vehicles Other Than Railways,Units,2402.0,26093672.71,Import
+2025,9,Sep,Diesel and Others,Litres,32313843.0,26779545.76,Import
+2025,9,Sep,Fertilizer,Kgs,27169662.0,26845430.08,Import
+2025,9,Sep,"Nuclear Reactors, Boilers and Machinery",Units,673229.0,30984131.08,Import
+2025,9,Sep,Petrol,Litres,38867561.0,31543452.53,Import
+2025,9,Sep,Other Imports,,0.0,63646869.75,Import
+2025,10,Oct,Paraffin,Litres,0.0,0.0,Import
+2025,10,Oct,Tobacco and Manufactured Tobacco Substitutes,Kgs,139109.33,350449.41,Import
+2025,10,Oct,Lime,Kgs,2847000.0,802457.82,Import
+2025,10,Oct,Glass and Glassware,Units,7991737.0,1252269.14,Import
+2025,10,Oct,"Printed Books, Newspapers and Pictures",Kgs,167756.5,1542964.13,Import
+2025,10,Oct,Coal,Kgs,16430000.0,2089100.0,Import
+2025,10,Oct,Ceramic Products,Kgs,7789148.23,2753526.69,Import
+2025,10,Oct,Cereals,Kgs,7725392.1,3546681.3,Import
+2025,10,Oct,Cement,Kgs,26127070.0,4005568.11,Import
+2025,10,Oct,Paper and Paperboard,Kgs,3294674.82,5174944.99,Import
+2025,10,Oct,Pharmaceutical Products,Kgs,355626.42,5566409.49,Import
+2025,10,Oct,Miscellaneous Chemical Products,Kgs,2111189.02,7273485.69,Import
+2025,10,Oct,Animal or Vegetable Fats and Oils,Kgs,5614437.06,7566068.69,Import
+2025,10,Oct,Iron and Steel,Kgs,9130911.81,7767481.19,Import
+2025,10,Oct,"Optical, Medical or Surgical Instruments",Kgs,185090.4,8689232.4,Import
+2025,10,Oct,Other Made-Up Textile Articles,Kgs,5282083.89,10155520.6,Import
+2025,10,Oct,Electrical Machinery and Equipment,Kgs,1927803.79,13396603.23,Import
+2025,10,Oct,Soaps and Organic Surface-Active Agents,Kgs,12119940.57,13948772.27,Import
+2025,10,Oct,Plastics,Kgs,10609883.46,17351856.78,Import
+2025,10,Oct,"Nuclear Reactors, Boilers and Machinery",Units,409104.0,19104380.49,Import
+2025,10,Oct,Fertilizer,Kgs,28654476.0,22181843.96,Import
+2025,10,Oct,Vehicles Other Than Railways,Units,2296.0,22856114.5,Import
+2025,10,Oct,Diesel and Others,Litres,22483373.0,27598744.19,Import
+2025,10,Oct,Petrol,Litres,29691730.0,36669387.36,Import
+2025,10,Oct,Other Imports,,0.0,74287960.39,Import
+2025,11,Nov,Paraffin,Litres,0.0,0.0,Import
+2025,11,Nov,Glass and Glassware,Units,0.0,0.0,Import
+2025,11,Nov,Lime,Kgs,1281025.0,292859.47,Import
+2025,11,Nov,Tobacco and Manufactured Tobacco Substitutes,Kgs,203688.0,841260.16,Import
+2025,11,Nov,Plastics,Kgs,3399296.49,1458257.42,Import
+2025,11,Nov,Ceramic Products,Kgs,4366323.0,1601139.33,Import
+2025,11,Nov,Coal,Kgs,21279000.0,2446764.12,Import
+2025,11,Nov,Cement,Kgs,18361140.0,2716361.74,Import
+2025,11,Nov,"Printed Books, Newspapers and Pictures",Kgs,146425.72,2865621.81,Import
+2025,11,Nov,"Optical, Medical or Surgical Instruments",Kgs,181513.68,3533906.2,Import
+2025,11,Nov,Iron and Steel,Kgs,8070576.2,3714223.87,Import
+2025,11,Nov,Miscellaneous Chemical Products,Kgs,1710701.12,4619245.27,Import
+2025,11,Nov,Paper and Paperboard,Kgs,3393599.41,5302739.12,Import
+2025,11,Nov,Animal or Vegetable Fats and Oils,Kgs,4705839.1,6600144.6,Import
+2025,11,Nov,Other Made-Up Textile Articles,Kgs,3509097.95,6960600.07,Import
+2025,11,Nov,Pharmaceutical Products,Kgs,403784.92,7071684.5,Import
+2025,11,Nov,Soaps and Organic Surface-Active Agents,Kgs,8086395.96,8385566.82,Import
+2025,11,Nov,Electrical Machinery and Equipment,Kgs,1905846.39,13583708.94,Import
+2025,11,Nov,Cereals,Kgs,22663891.93,14543084.75,Import
+2025,11,Nov,Vehicles Other Than Railways,Units,2393.0,17213888.83,Import
+2025,11,Nov,"Nuclear Reactors, Boilers and Machinery",Units,243247.0,26808326.87,Import
+2025,11,Nov,Diesel and Others,Litres,33057396.0,40831242.43,Import
+2025,11,Nov,Fertilizer,Kgs,60813437.3,46344069.27,Import
+2025,11,Nov,Petrol,Litres,46336051.0,57194833.38,Import
+2025,11,Nov,Other Imports,,0.0,73337170.51,Import
+2025,12,Dec,Paraffin,Litres,0.0,0.0,Import
+2025,12,Dec,Electrical Machinery and Equipment,Kgs,0.0,0.0,Import
+2025,12,Dec,Ceramic Products,Kgs,16665.98,47512.26,Import
+2025,12,Dec,Lime,Kgs,1112000.0,255236.7,Import
+2025,12,Dec,Tobacco and Manufactured Tobacco Substitutes,Kgs,258106.6,835347.1,Import
+2025,12,Dec,Coal,Kgs,10310000.0,1281665.0,Import
+2025,12,Dec,Cement,Kgs,8739700.0,1399967.53,Import
+2025,12,Dec,Glass and Glassware,Units,10483172.0,1588131.43,Import
+2025,12,Dec,"Printed Books, Newspapers and Pictures",Kgs,455307.78,1967450.21,Import
+2025,12,Dec,Cereals,Kgs,1131853.0,2800046.0,Import
+2025,12,Dec,"Optical, Medical or Surgical Instruments",Kgs,137033.4,3571559.89,Import
+2025,12,Dec,Miscellaneous Chemical Products,Kgs,2041277.51,4879858.54,Import
+2025,12,Dec,Paper and Paperboard,Kgs,3095121.0,5532233.0,Import
+2025,12,Dec,Pharmaceutical Products,Kgs,342757.76,7409058.84,Import
+2025,12,Dec,Other Made-Up Textile Articles,Kgs,3982385.23,7621541.55,Import
+2025,12,Dec,Iron and Steel,Kgs,8886776.0,7808957.0,Import
+2025,12,Dec,Animal or Vegetable Fats and Oils,Kgs,7481566.0,10140065.0,Import
+2025,12,Dec,Soaps and Organic Surface-Active Agents,Kgs,10184922.69,11238359.13,Import
+2025,12,Dec,Plastics,Kgs,10784713.85,17498020.87,Import
+2025,12,Dec,"Nuclear Reactors, Boilers and Machinery",Units,286279.0,20597583.03,Import
+2025,12,Dec,Vehicles Other Than Railways,Units,15278.0,21158032.86,Import
+2025,12,Dec,Petrol,Litres,28625653.0,35296736.11,Import
+2025,12,Dec,Diesel and Others,Litres,121275988.0,43975378.14,Import
+2025,12,Dec,Fertilizer,Kgs,55884379.5,44279740.84,Import
+2025,12,Dec,Other Imports,,0.0,80908183.38,Import
+2026,1,Jan,Paraffin,Litres,0.0,0.0,Import
+2026,1,Jan,Coal,Kgs,1751680.0,227229.02,Import
+2026,1,Jan,Tobacco and Manufactured Tobacco Substitutes,Kgs,120029.7,233331.28,Import
+2026,1,Jan,Lime,Kgs,1052187.0,299812.39,Import
+2026,1,Jan,Cement,Kgs,2601484.0,476960.69,Import
+2026,1,Jan,Ceramic Products,Kgs,3760497.23,1395552.89,Import
+2026,1,Jan,"Optical, Medical or Surgical Instruments",Kgs,103032.14,2001114.43,Import
+2026,1,Jan,Glass and Glassware,Units,12372267.0,2033229.52,Import
+2026,1,Jan,Paper and Paperboard,Kgs,2491570.34,3606126.58,Import
+2026,1,Jan,"Printed Books, Newspapers and Pictures",Kgs,829999.14,4117629.98,Import
+2026,1,Jan,Animal or Vegetable Fats and Oils,Kgs,4354468.54,6070518.86,Import
+2026,1,Jan,Miscellaneous Chemical Products,Kgs,1996662.08,6543482.71,Import
+2026,1,Jan,Iron and Steel,Kgs,8634093.43,7159973.13,Import
+2026,1,Jan,Pharmaceutical Products,Kgs,325966.48,7552117.44,Import
+2026,1,Jan,Other Made-Up Textile Articles,Kgs,4207238.82,8081976.08,Import
+2026,1,Jan,Soaps and Organic Surface-Active Agents,Kgs,11782109.29,13373684.43,Import
+2026,1,Jan,Plastics,Kgs,9683806.79,15344137.84,Import
+2026,1,Jan,Vehicles Other Than Railways,Units,1549.0,17181663.65,Import
+2026,1,Jan,Electrical Machinery and Equipment,Kgs,2590891.52,23064726.79,Import
+2026,1,Jan,"Nuclear Reactors, Boilers and Machinery",Units,302992.0,24204848.86,Import
+2026,1,Jan,Fertilizer,Kgs,36757689.0,29057076.02,Import
+2026,1,Jan,Diesel and Others,Litres,18623294.0,29859334.04,Import
+2026,1,Jan,Petrol,Litres,29496589.0,48665744.72,Import
+2026,1,Jan,Other Imports,,0.0,57526406.44,Import
+2026,1,Jan,Cereals,Kgs,22643472.56,82615370.49,Import
+2026,2,Feb,Petrol,Litres,0.0,0.0,Import
+2026,2,Feb,Paraffin,Litres,0.0,0.0,Import
+2026,2,Feb,Diesel and Others,Litres,0.0,0.0,Import
+2026,2,Feb,Fertilizer,Kgs,0.0,0.0,Import
+2026,2,Feb,Coal,Kgs,0.0,0.0,Import
+2026,2,Feb,"Nuclear Reactors, Boilers and Machinery",Units,0.0,0.0,Import
+2026,2,Feb,Pharmaceutical Products,Kgs,0.0,0.0,Import
+2026,2,Feb,"Printed Books, Newspapers and Pictures",Kgs,0.0,0.0,Import
+2026,2,Feb,Vehicles Other Than Railways,Units,0.0,0.0,Import
+2026,2,Feb,Electrical Machinery and Equipment,Kgs,0.0,0.0,Import
+2026,2,Feb,Plastics,Kgs,0.0,0.0,Import
+2026,2,Feb,Other Made-Up Textile Articles,Kgs,0.0,0.0,Import
+2026,2,Feb,Miscellaneous Chemical Products,Kgs,0.0,0.0,Import
+2026,2,Feb,Iron and Steel,Kgs,0.0,0.0,Import
+2026,2,Feb,Animal or Vegetable Fats and Oils,Kgs,0.0,0.0,Import
+2026,2,Feb,Soaps and Organic Surface-Active Agents,Kgs,0.0,0.0,Import
+2026,2,Feb,Lime,Kgs,0.0,0.0,Import
+2026,2,Feb,Cement,Kgs,0.0,0.0,Import
+2026,2,Feb,Cereals,Kgs,0.0,0.0,Import
+2026,2,Feb,Ceramic Products,Kgs,0.0,0.0,Import
+2026,2,Feb,Tobacco and Manufactured Tobacco Substitutes,Kgs,0.0,0.0,Import
+2026,2,Feb,"Optical, Medical or Surgical Instruments",Kgs,0.0,0.0,Import
+2026,2,Feb,Paper and Paperboard,Kgs,0.0,0.0,Import
+2026,2,Feb,Glass and Glassware,Units,0.0,0.0,Import
+2026,2,Feb,Other Imports,,0.0,0.0,Import
+2026,3,Mar,Petrol,Litres,0.0,0.0,Import
+2026,3,Mar,Paraffin,Litres,0.0,0.0,Import
+2026,3,Mar,Diesel and Others,Litres,0.0,0.0,Import
+2026,3,Mar,Fertilizer,Kgs,0.0,0.0,Import
+2026,3,Mar,Coal,Kgs,0.0,0.0,Import
+2026,3,Mar,"Nuclear Reactors, Boilers and Machinery",Units,0.0,0.0,Import
+2026,3,Mar,Pharmaceutical Products,Kgs,0.0,0.0,Import
+2026,3,Mar,"Printed Books, Newspapers and Pictures",Kgs,0.0,0.0,Import
+2026,3,Mar,Vehicles Other Than Railways,Units,0.0,0.0,Import
+2026,3,Mar,Electrical Machinery and Equipment,Kgs,0.0,0.0,Import
+2026,3,Mar,Plastics,Kgs,0.0,0.0,Import
+2026,3,Mar,Other Made-Up Textile Articles,Kgs,0.0,0.0,Import
+2026,3,Mar,Miscellaneous Chemical Products,Kgs,0.0,0.0,Import
+2026,3,Mar,Iron and Steel,Kgs,0.0,0.0,Import
+2026,3,Mar,Animal or Vegetable Fats and Oils,Kgs,0.0,0.0,Import
+2026,3,Mar,Soaps and Organic Surface-Active Agents,Kgs,0.0,0.0,Import
+2026,3,Mar,Lime,Kgs,0.0,0.0,Import
+2026,3,Mar,Cement,Kgs,0.0,0.0,Import
+2026,3,Mar,Cereals,Kgs,0.0,0.0,Import
+2026,3,Mar,Ceramic Products,Kgs,0.0,0.0,Import
+2026,3,Mar,Tobacco and Manufactured Tobacco Substitutes,Kgs,0.0,0.0,Import
+2026,3,Mar,"Optical, Medical or Surgical Instruments",Kgs,0.0,0.0,Import
+2026,3,Mar,Paper and Paperboard,Kgs,0.0,0.0,Import
+2026,3,Mar,Glass and Glassware,Units,0.0,0.0,Import
+2026,3,Mar,Other Imports,,0.0,0.0,Import
+2026,4,Apr,Petrol,Litres,0.0,0.0,Import
+2026,4,Apr,Paraffin,Litres,0.0,0.0,Import
+2026,4,Apr,Diesel and Others,Litres,0.0,0.0,Import
+2026,4,Apr,Fertilizer,Kgs,0.0,0.0,Import
+2026,4,Apr,Coal,Kgs,0.0,0.0,Import
+2026,4,Apr,"Nuclear Reactors, Boilers and Machinery",Units,0.0,0.0,Import
+2026,4,Apr,Pharmaceutical Products,Kgs,0.0,0.0,Import
+2026,4,Apr,"Printed Books, Newspapers and Pictures",Kgs,0.0,0.0,Import
+2026,4,Apr,Vehicles Other Than Railways,Units,0.0,0.0,Import
+2026,4,Apr,Electrical Machinery and Equipment,Kgs,0.0,0.0,Import
+2026,4,Apr,Plastics,Kgs,0.0,0.0,Import
+2026,4,Apr,Other Made-Up Textile Articles,Kgs,0.0,0.0,Import
+2026,4,Apr,Miscellaneous Chemical Products,Kgs,0.0,0.0,Import
+2026,4,Apr,Iron and Steel,Kgs,0.0,0.0,Import
+2026,4,Apr,Animal or Vegetable Fats and Oils,Kgs,0.0,0.0,Import
+2026,4,Apr,Soaps and Organic Surface-Active Agents,Kgs,0.0,0.0,Import
+2026,4,Apr,Lime,Kgs,0.0,0.0,Import
+2026,4,Apr,Cement,Kgs,0.0,0.0,Import
+2026,4,Apr,Cereals,Kgs,0.0,0.0,Import
+2026,4,Apr,Ceramic Products,Kgs,0.0,0.0,Import
+2026,4,Apr,Tobacco and Manufactured Tobacco Substitutes,Kgs,0.0,0.0,Import
+2026,4,Apr,"Optical, Medical or Surgical Instruments",Kgs,0.0,0.0,Import
+2026,4,Apr,Paper and Paperboard,Kgs,0.0,0.0,Import
+2026,4,Apr,Glass and Glassware,Units,0.0,0.0,Import
+2026,4,Apr,Other Imports,,0.0,0.0,Import
+2026,5,May,Petrol,Litres,0.0,0.0,Import
+2026,5,May,Paraffin,Litres,0.0,0.0,Import
+2026,5,May,Diesel and Others,Litres,0.0,0.0,Import
+2026,5,May,Fertilizer,Kgs,0.0,0.0,Import
+2026,5,May,Coal,Kgs,0.0,0.0,Import
+2026,5,May,"Nuclear Reactors, Boilers and Machinery",Units,0.0,0.0,Import
+2026,5,May,Pharmaceutical Products,Kgs,0.0,0.0,Import
+2026,5,May,"Printed Books, Newspapers and Pictures",Kgs,0.0,0.0,Import
+2026,5,May,Vehicles Other Than Railways,Units,0.0,0.0,Import
+2026,5,May,Electrical Machinery and Equipment,Kgs,0.0,0.0,Import
+2026,5,May,Plastics,Kgs,0.0,0.0,Import
+2026,5,May,Other Made-Up Textile Articles,Kgs,0.0,0.0,Import
+2026,5,May,Miscellaneous Chemical Products,Kgs,0.0,0.0,Import
+2026,5,May,Iron and Steel,Kgs,0.0,0.0,Import
+2026,5,May,Animal or Vegetable Fats and Oils,Kgs,0.0,0.0,Import
+2026,5,May,Soaps and Organic Surface-Active Agents,Kgs,0.0,0.0,Import
+2026,5,May,Lime,Kgs,0.0,0.0,Import
+2026,5,May,Cement,Kgs,0.0,0.0,Import
+2026,5,May,Cereals,Kgs,0.0,0.0,Import
+2026,5,May,Ceramic Products,Kgs,0.0,0.0,Import
+2026,5,May,Tobacco and Manufactured Tobacco Substitutes,Kgs,0.0,0.0,Import
+2026,5,May,"Optical, Medical or Surgical Instruments",Kgs,0.0,0.0,Import
+2026,5,May,Paper and Paperboard,Kgs,0.0,0.0,Import
+2026,5,May,Glass and Glassware,Units,0.0,0.0,Import
+2026,5,May,Other Imports,,0.0,0.0,Import
+2026,6,Jun,Petrol,Litres,0.0,0.0,Import
+2026,6,Jun,Paraffin,Litres,0.0,0.0,Import
+2026,6,Jun,Diesel and Others,Litres,0.0,0.0,Import
+2026,6,Jun,Fertilizer,Kgs,0.0,0.0,Import
+2026,6,Jun,Coal,Kgs,0.0,0.0,Import
+2026,6,Jun,"Nuclear Reactors, Boilers and Machinery",Units,0.0,0.0,Import
+2026,6,Jun,Pharmaceutical Products,Kgs,0.0,0.0,Import
+2026,6,Jun,"Printed Books, Newspapers and Pictures",Kgs,0.0,0.0,Import
+2026,6,Jun,Vehicles Other Than Railways,Units,0.0,0.0,Import
+2026,6,Jun,Electrical Machinery and Equipment,Kgs,0.0,0.0,Import
+2026,6,Jun,Plastics,Kgs,0.0,0.0,Import
+2026,6,Jun,Other Made-Up Textile Articles,Kgs,0.0,0.0,Import
+2026,6,Jun,Miscellaneous Chemical Products,Kgs,0.0,0.0,Import
+2026,6,Jun,Iron and Steel,Kgs,0.0,0.0,Import
+2026,6,Jun,Animal or Vegetable Fats and Oils,Kgs,0.0,0.0,Import
+2026,6,Jun,Soaps and Organic Surface-Active Agents,Kgs,0.0,0.0,Import
+2026,6,Jun,Lime,Kgs,0.0,0.0,Import
+2026,6,Jun,Cement,Kgs,0.0,0.0,Import
+2026,6,Jun,Cereals,Kgs,0.0,0.0,Import
+2026,6,Jun,Ceramic Products,Kgs,0.0,0.0,Import
+2026,6,Jun,Tobacco and Manufactured Tobacco Substitutes,Kgs,0.0,0.0,Import
+2026,6,Jun,"Optical, Medical or Surgical Instruments",Kgs,0.0,0.0,Import
+2026,6,Jun,Paper and Paperboard,Kgs,0.0,0.0,Import
+2026,6,Jun,Glass and Glassware,Units,0.0,0.0,Import
+2026,6,Jun,Other Imports,,0.0,0.0,Import
+2026,7,Jul,Petrol,Litres,0.0,0.0,Import
+2026,7,Jul,Paraffin,Litres,0.0,0.0,Import
+2026,7,Jul,Diesel and Others,Litres,0.0,0.0,Import
+2026,7,Jul,Fertilizer,Kgs,0.0,0.0,Import
+2026,7,Jul,Coal,Kgs,0.0,0.0,Import
+2026,7,Jul,"Nuclear Reactors, Boilers and Machinery",Units,0.0,0.0,Import
+2026,7,Jul,Pharmaceutical Products,Kgs,0.0,0.0,Import
+2026,7,Jul,"Printed Books, Newspapers and Pictures",Kgs,0.0,0.0,Import
+2026,7,Jul,Vehicles Other Than Railways,Units,0.0,0.0,Import
+2026,7,Jul,Electrical Machinery and Equipment,Kgs,0.0,0.0,Import
+2026,7,Jul,Plastics,Kgs,0.0,0.0,Import
+2026,7,Jul,Other Made-Up Textile Articles,Kgs,0.0,0.0,Import
+2026,7,Jul,Miscellaneous Chemical Products,Kgs,0.0,0.0,Import
+2026,7,Jul,Iron and Steel,Kgs,0.0,0.0,Import
+2026,7,Jul,Animal or Vegetable Fats and Oils,Kgs,0.0,0.0,Import
+2026,7,Jul,Soaps and Organic Surface-Active Agents,Kgs,0.0,0.0,Import
+2026,7,Jul,Lime,Kgs,0.0,0.0,Import
+2026,7,Jul,Cement,Kgs,0.0,0.0,Import
+2026,7,Jul,Cereals,Kgs,0.0,0.0,Import
+2026,7,Jul,Ceramic Products,Kgs,0.0,0.0,Import
+2026,7,Jul,Tobacco and Manufactured Tobacco Substitutes,Kgs,0.0,0.0,Import
+2026,7,Jul,"Optical, Medical or Surgical Instruments",Kgs,0.0,0.0,Import
+2026,7,Jul,Paper and Paperboard,Kgs,0.0,0.0,Import
+2026,7,Jul,Glass and Glassware,Units,0.0,0.0,Import
+2026,7,Jul,Other Imports,,0.0,0.0,Import
+2026,8,Aug,Petrol,Litres,0.0,0.0,Import
+2026,8,Aug,Paraffin,Litres,0.0,0.0,Import
+2026,8,Aug,Diesel and Others,Litres,0.0,0.0,Import
+2026,8,Aug,Fertilizer,Kgs,0.0,0.0,Import
+2026,8,Aug,Coal,Kgs,0.0,0.0,Import
+2026,8,Aug,"Nuclear Reactors, Boilers and Machinery",Units,0.0,0.0,Import
+2026,8,Aug,Pharmaceutical Products,Kgs,0.0,0.0,Import
+2026,8,Aug,"Printed Books, Newspapers and Pictures",Kgs,0.0,0.0,Import
+2026,8,Aug,Vehicles Other Than Railways,Units,0.0,0.0,Import
+2026,8,Aug,Electrical Machinery and Equipment,Kgs,0.0,0.0,Import
+2026,8,Aug,Plastics,Kgs,0.0,0.0,Import
+2026,8,Aug,Other Made-Up Textile Articles,Kgs,0.0,0.0,Import
+2026,8,Aug,Miscellaneous Chemical Products,Kgs,0.0,0.0,Import
+2026,8,Aug,Iron and Steel,Kgs,0.0,0.0,Import
+2026,8,Aug,Animal or Vegetable Fats and Oils,Kgs,0.0,0.0,Import
+2026,8,Aug,Soaps and Organic Surface-Active Agents,Kgs,0.0,0.0,Import
+2026,8,Aug,Lime,Kgs,0.0,0.0,Import
+2026,8,Aug,Cement,Kgs,0.0,0.0,Import
+2026,8,Aug,Cereals,Kgs,0.0,0.0,Import
+2026,8,Aug,Ceramic Products,Kgs,0.0,0.0,Import
+2026,8,Aug,Tobacco and Manufactured Tobacco Substitutes,Kgs,0.0,0.0,Import
+2026,8,Aug,"Optical, Medical or Surgical Instruments",Kgs,0.0,0.0,Import
+2026,8,Aug,Paper and Paperboard,Kgs,0.0,0.0,Import
+2026,8,Aug,Glass and Glassware,Units,0.0,0.0,Import
+2026,8,Aug,Other Imports,,0.0,0.0,Import
+2026,9,Sep,Petrol,Litres,0.0,0.0,Import
+2026,9,Sep,Paraffin,Litres,0.0,0.0,Import
+2026,9,Sep,Diesel and Others,Litres,0.0,0.0,Import
+2026,9,Sep,Fertilizer,Kgs,0.0,0.0,Import
+2026,9,Sep,Coal,Kgs,0.0,0.0,Import
+2026,9,Sep,"Nuclear Reactors, Boilers and Machinery",Units,0.0,0.0,Import
+2026,9,Sep,Pharmaceutical Products,Kgs,0.0,0.0,Import
+2026,9,Sep,"Printed Books, Newspapers and Pictures",Kgs,0.0,0.0,Import
+2026,9,Sep,Vehicles Other Than Railways,Units,0.0,0.0,Import
+2026,9,Sep,Electrical Machinery and Equipment,Kgs,0.0,0.0,Import
+2026,9,Sep,Plastics,Kgs,0.0,0.0,Import
+2026,9,Sep,Other Made-Up Textile Articles,Kgs,0.0,0.0,Import
+2026,9,Sep,Miscellaneous Chemical Products,Kgs,0.0,0.0,Import
+2026,9,Sep,Iron and Steel,Kgs,0.0,0.0,Import
+2026,9,Sep,Animal or Vegetable Fats and Oils,Kgs,0.0,0.0,Import
+2026,9,Sep,Soaps and Organic Surface-Active Agents,Kgs,0.0,0.0,Import
+2026,9,Sep,Lime,Kgs,0.0,0.0,Import
+2026,9,Sep,Cement,Kgs,0.0,0.0,Import
+2026,9,Sep,Cereals,Kgs,0.0,0.0,Import
+2026,9,Sep,Ceramic Products,Kgs,0.0,0.0,Import
+2026,9,Sep,Tobacco and Manufactured Tobacco Substitutes,Kgs,0.0,0.0,Import
+2026,9,Sep,"Optical, Medical or Surgical Instruments",Kgs,0.0,0.0,Import
+2026,9,Sep,Paper and Paperboard,Kgs,0.0,0.0,Import
+2026,9,Sep,Glass and Glassware,Units,0.0,0.0,Import
+2026,9,Sep,Other Imports,,0.0,0.0,Import
+2026,10,Oct,Petrol,Litres,0.0,0.0,Import
+2026,10,Oct,Paraffin,Litres,0.0,0.0,Import
+2026,10,Oct,Diesel and Others,Litres,0.0,0.0,Import
+2026,10,Oct,Fertilizer,Kgs,0.0,0.0,Import
+2026,10,Oct,Coal,Kgs,0.0,0.0,Import
+2026,10,Oct,"Nuclear Reactors, Boilers and Machinery",Units,0.0,0.0,Import
+2026,10,Oct,Pharmaceutical Products,Kgs,0.0,0.0,Import
+2026,10,Oct,"Printed Books, Newspapers and Pictures",Kgs,0.0,0.0,Import
+2026,10,Oct,Vehicles Other Than Railways,Units,0.0,0.0,Import
+2026,10,Oct,Electrical Machinery and Equipment,Kgs,0.0,0.0,Import
+2026,10,Oct,Plastics,Kgs,0.0,0.0,Import
+2026,10,Oct,Other Made-Up Textile Articles,Kgs,0.0,0.0,Import
+2026,10,Oct,Miscellaneous Chemical Products,Kgs,0.0,0.0,Import
+2026,10,Oct,Iron and Steel,Kgs,0.0,0.0,Import
+2026,10,Oct,Animal or Vegetable Fats and Oils,Kgs,0.0,0.0,Import
+2026,10,Oct,Soaps and Organic Surface-Active Agents,Kgs,0.0,0.0,Import
+2026,10,Oct,Lime,Kgs,0.0,0.0,Import
+2026,10,Oct,Cement,Kgs,0.0,0.0,Import
+2026,10,Oct,Cereals,Kgs,0.0,0.0,Import
+2026,10,Oct,Ceramic Products,Kgs,0.0,0.0,Import
+2026,10,Oct,Tobacco and Manufactured Tobacco Substitutes,Kgs,0.0,0.0,Import
+2026,10,Oct,"Optical, Medical or Surgical Instruments",Kgs,0.0,0.0,Import
+2026,10,Oct,Paper and Paperboard,Kgs,0.0,0.0,Import
+2026,10,Oct,Glass and Glassware,Units,0.0,0.0,Import
+2026,10,Oct,Other Imports,,0.0,0.0,Import
+2026,11,Nov,Petrol,Litres,0.0,0.0,Import
+2026,11,Nov,Paraffin,Litres,0.0,0.0,Import
+2026,11,Nov,Diesel and Others,Litres,0.0,0.0,Import
+2026,11,Nov,Fertilizer,Kgs,0.0,0.0,Import
+2026,11,Nov,Coal,Kgs,0.0,0.0,Import
+2026,11,Nov,"Nuclear Reactors, Boilers and Machinery",Units,0.0,0.0,Import
+2026,11,Nov,Pharmaceutical Products,Kgs,0.0,0.0,Import
+2026,11,Nov,"Printed Books, Newspapers and Pictures",Kgs,0.0,0.0,Import
+2026,11,Nov,Vehicles Other Than Railways,Units,0.0,0.0,Import
+2026,11,Nov,Electrical Machinery and Equipment,Kgs,0.0,0.0,Import
+2026,11,Nov,Plastics,Kgs,0.0,0.0,Import
+2026,11,Nov,Other Made-Up Textile Articles,Kgs,0.0,0.0,Import
+2026,11,Nov,Miscellaneous Chemical Products,Kgs,0.0,0.0,Import
+2026,11,Nov,Iron and Steel,Kgs,0.0,0.0,Import
+2026,11,Nov,Animal or Vegetable Fats and Oils,Kgs,0.0,0.0,Import
+2026,11,Nov,Soaps and Organic Surface-Active Agents,Kgs,0.0,0.0,Import
+2026,11,Nov,Lime,Kgs,0.0,0.0,Import
+2026,11,Nov,Cement,Kgs,0.0,0.0,Import
+2026,11,Nov,Cereals,Kgs,0.0,0.0,Import
+2026,11,Nov,Ceramic Products,Kgs,0.0,0.0,Import
+2026,11,Nov,Tobacco and Manufactured Tobacco Substitutes,Kgs,0.0,0.0,Import
+2026,11,Nov,"Optical, Medical or Surgical Instruments",Kgs,0.0,0.0,Import
+2026,11,Nov,Paper and Paperboard,Kgs,0.0,0.0,Import
+2026,11,Nov,Glass and Glassware,Units,0.0,0.0,Import
+2026,11,Nov,Other Imports,,0.0,0.0,Import
+2026,12,Dec,Petrol,Litres,0.0,0.0,Import
+2026,12,Dec,Paraffin,Litres,0.0,0.0,Import
+2026,12,Dec,Diesel and Others,Litres,0.0,0.0,Import
+2026,12,Dec,Fertilizer,Kgs,0.0,0.0,Import
+2026,12,Dec,Coal,Kgs,0.0,0.0,Import
+2026,12,Dec,"Nuclear Reactors, Boilers and Machinery",Units,0.0,0.0,Import
+2026,12,Dec,Pharmaceutical Products,Kgs,0.0,0.0,Import
+2026,12,Dec,"Printed Books, Newspapers and Pictures",Kgs,0.0,0.0,Import
+2026,12,Dec,Vehicles Other Than Railways,Units,0.0,0.0,Import
+2026,12,Dec,Electrical Machinery and Equipment,Kgs,0.0,0.0,Import
+2026,12,Dec,Plastics,Kgs,0.0,0.0,Import
+2026,12,Dec,Other Made-Up Textile Articles,Kgs,0.0,0.0,Import
+2026,12,Dec,Miscellaneous Chemical Products,Kgs,0.0,0.0,Import
+2026,12,Dec,Iron and Steel,Kgs,0.0,0.0,Import
+2026,12,Dec,Animal or Vegetable Fats and Oils,Kgs,0.0,0.0,Import
+2026,12,Dec,Soaps and Organic Surface-Active Agents,Kgs,0.0,0.0,Import
+2026,12,Dec,Lime,Kgs,0.0,0.0,Import
+2026,12,Dec,Cement,Kgs,0.0,0.0,Import
+2026,12,Dec,Cereals,Kgs,0.0,0.0,Import
+2026,12,Dec,Ceramic Products,Kgs,0.0,0.0,Import
+2026,12,Dec,Tobacco and Manufactured Tobacco Substitutes,Kgs,0.0,0.0,Import
+2026,12,Dec,"Optical, Medical or Surgical Instruments",Kgs,0.0,0.0,Import
+2026,12,Dec,Paper and Paperboard,Kgs,0.0,0.0,Import
+2026,12,Dec,Glass and Glassware,Units,0.0,0.0,Import
+2026,12,Dec,Other Imports,,0.0,0.0,Import
+2022,1,Jan,Tobacco,Kgs,5970615.0,18606351.0,Export
+2022,1,Jan,Other Exports,,0.0,8329031.27,Export
+2022,1,Jan,Tea,Kgs,3738422.0,5955969.0,Export
+2022,1,Jan,Sugar,Kgs,9377407.0,5904768.93,Export
+2022,1,Jan,Groundnuts,Kgs,2735690.0,3357895.46,Export
+2022,1,Jan,Pulses,Kgs,3330183.5,2226693.07,Export
+2022,1,Jan,Macadamia Nuts,Kgs,213164.74,1257545.94,Export
+2022,1,Jan,Plastics and Other Articles Thereof,Kgs,503806.35,949672.06,Export
+2022,1,Jan,Scrap Metal,Kgs,2610732.0,596761.0,Export
+2022,1,Jan,Coffee,Kgs,131916.5,500045.43,Export
+2022,1,Jan,Soya Beans,Kgs,131000.0,177492.22,Export
+2022,1,Jan,"Beverages, Spirits, Vinegar",Litres,88937.4,89367.46,Export
+2022,1,Jan,Natural Rubber,Kgs,27720.0,53576.13,Export
+2022,1,Jan,Wooden Furniture,Kgs,57721.0,52555.8,Export
+2022,1,Jan,Fish,Kgs,25134.0,10312.81,Export
+2022,1,Jan,Spices,Kgs,11906.2,10052.66,Export
+2022,1,Jan,Rice,Kgs,7130.0,3352.34,Export
+2022,1,Jan,Wood Sawn and Plied,Kgs,26800.0,1815.85,Export
+2022,1,Jan,Apparel Clothing: Not Knitted or Crocheted,No,37.0,212.56,Export
+2022,1,Jan,Coconut,Kgs,1000.0,121.46,Export
+2022,1,Jan,Cotton,Kgs,0.0,0.0,Export
+2022,1,Jan,Skins and Hides,Kgs,0.0,0.0,Export
+2022,1,Jan,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2022,1,Jan,Woven Fabric,Kgs,0.0,0.0,Export
+2022,1,Jan,Apparel Clothing: Knitted or Crocheted,No,0.0,0.0,Export
+2022,2,Feb,Tobacco,Kgs,6964336.0,23553087.0,Export
+2022,2,Feb,Other Exports,,0.0,16364616.11,Export
+2022,2,Feb,Tea,Kgs,4861034.0,7857009.0,Export
+2022,2,Feb,Groundnuts,Kgs,3428950.5,4192492.4,Export
+2022,2,Feb,Macadamia Nuts,Kgs,397532.88,2701196.45,Export
+2022,2,Feb,Pulses,Kgs,3368330.3,1948393.79,Export
+2022,2,Feb,Scrap Metal,Kgs,2552524.0,767973.0,Export
+2022,2,Feb,Sugar,Kgs,1303442.5,739196.49,Export
+2022,2,Feb,Plastics and Other Articles Thereof,Kgs,289028.1,662461.28,Export
+2022,2,Feb,Natural Rubber,Kgs,255325.0,487322.08,Export
+2022,2,Feb,Soya Beans,Kgs,405011.8,295120.39,Export
+2022,2,Feb,Skins and Hides,Kgs,29140.0,135730.36,Export
+2022,2,Feb,Coffee,Kgs,19096.6,96607.75,Export
+2022,2,Feb,"Beverages, Spirits, Vinegar",Litres,63262.9,66826.31,Export
+2022,2,Feb,Wooden Furniture,Kgs,35701.51,44074.99,Export
+2022,2,Feb,Spices,Kgs,48051.5,41521.95,Export
+2022,2,Feb,Fish,Kgs,13903.0,35799.77,Export
+2022,2,Feb,Rice,Kgs,30803.0,30543.17,Export
+2022,2,Feb,Apparel Clothing: Not Knitted or Crocheted,No,104.0,778.97,Export
+2022,2,Feb,Apparel Clothing: Knitted or Crocheted,No,103.0,680.08,Export
+2022,2,Feb,Cotton,Kgs,455.0,194.31,Export
+2022,2,Feb,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2022,2,Feb,Wood Sawn and Plied,Kgs,0.0,0.0,Export
+2022,2,Feb,Woven Fabric,Kgs,0.0,0.0,Export
+2022,2,Feb,Coconut,Kgs,0.0,0.0,Export
+2022,3,Mar,Tea,Kgs,5200373.0,8558807.0,Export
+2022,3,Mar,Tobacco,Kgs,2578866.0,8365072.0,Export
+2022,3,Mar,Other Exports,,0.0,7928537.84,Export
+2022,3,Mar,Macadamia Nuts,Kgs,613200.24,4591738.28,Export
+2022,3,Mar,Groundnuts,Kgs,3218340.0,3916155.92,Export
+2022,3,Mar,Pulses,Kgs,3219069.5,2240049.23,Export
+2022,3,Mar,Sugar,Kgs,3725766.5,2084044.29,Export
+2022,3,Mar,Scrap Metal,Kgs,4723576.0,1133200.0,Export
+2022,3,Mar,Plastics and Other Articles Thereof,Kgs,362424.17,919288.85,Export
+2022,3,Mar,Natural Rubber,Kgs,252035.0,469211.27,Export
+2022,3,Mar,Cotton,Kgs,20000.0,255946.74,Export
+2022,3,Mar,Coffee,Kgs,35462.5,153142.54,Export
+2022,3,Mar,Apparel Clothing: Not Knitted or Crocheted,No,6716.15,60499.05,Export
+2022,3,Mar,Skins and Hides,Kgs,92270.0,58575.94,Export
+2022,3,Mar,Rice,Kgs,53622.5,54563.58,Export
+2022,3,Mar,Woven Fabric,Kgs,7052.3,52763.94,Export
+2022,3,Mar,Wooden Furniture,Kgs,56547.0,48568.36,Export
+2022,3,Mar,"Beverages, Spirits, Vinegar",Litres,43327.5,45338.51,Export
+2022,3,Mar,Soya Beans,Kgs,62000.0,44098.59,Export
+2022,3,Mar,Spices,Kgs,47606.0,33916.1,Export
+2022,3,Mar,Fish,Kgs,16782.0,10065.04,Export
+2022,3,Mar,Apparel Clothing: Knitted or Crocheted,No,750.0,2731.88,Export
+2022,3,Mar,Wood Sawn and Plied,Kgs,15000.0,1117.04,Export
+2022,3,Mar,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2022,3,Mar,Coconut,Kgs,0.0,0.0,Export
+2022,4,Apr,Other Exports,,0.0,11502972.38,Export
+2022,4,Apr,Tobacco,Kgs,2265665.0,7431138.0,Export
+2022,4,Apr,Tea,Kgs,4210745.0,7028041.0,Export
+2022,4,Apr,Pulses,Kgs,7922681.25,4907527.32,Export
+2022,4,Apr,Macadamia Nuts,Kgs,587447.1,3698264.21,Export
+2022,4,Apr,Sugar,Kgs,3906000.0,2236067.65,Export
+2022,4,Apr,Soya Beans,Kgs,3030051.25,2206630.69,Export
+2022,4,Apr,Groundnuts,Kgs,1519517.25,1846857.83,Export
+2022,4,Apr,Scrap Metal,Kgs,4724783.0,1042660.0,Export
+2022,4,Apr,Plastics and Other Articles Thereof,Kgs,258174.45,735542.48,Export
+2022,4,Apr,Natural Rubber,Kgs,203315.0,400669.44,Export
+2022,4,Apr,Cotton,Kgs,40000.0,302775.26,Export
+2022,4,Apr,Skins and Hides,Kgs,98000.0,61492.31,Export
+2022,4,Apr,Woven Fabric,Kgs,2475.0,42399.03,Export
+2022,4,Apr,Wooden Furniture,Kgs,42636.9,40938.75,Export
+2022,4,Apr,Fish,Kgs,11262.0,25708.74,Export
+2022,4,Apr,Rice,Kgs,16850.0,17572.26,Export
+2022,4,Apr,"Beverages, Spirits, Vinegar",Litres,9165.4,7675.24,Export
+2022,4,Apr,Spices,Kgs,24002.0,7560.51,Export
+2022,4,Apr,Apparel Clothing: Not Knitted or Crocheted,No,5483.0,3324.41,Export
+2022,4,Apr,Wood Sawn and Plied,Kgs,29600.0,1407.96,Export
+2022,4,Apr,Apparel Clothing: Knitted or Crocheted,No,515.0,1207.94,Export
+2022,4,Apr,Coffee,Kgs,1.0,2.43,Export
+2022,4,Apr,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2022,4,Apr,Coconut,Kgs,0.0,0.0,Export
+2022,5,May,Other Exports,,0.0,9101754.22,Export
+2022,5,May,Tea,Kgs,5630079.0,9058070.0,Export
+2022,5,May,Soya Beans,Kgs,9477206.5,7956553.75,Export
+2022,5,May,Groundnuts,Kgs,5839400.0,7015314.58,Export
+2022,5,May,Tobacco,Kgs,1646150.0,5263028.0,Export
+2022,5,May,Macadamia Nuts,Kgs,351908.2,3582008.46,Export
+2022,5,May,Scrap Metal,Kgs,4315337.0,1171049.0,Export
+2022,5,May,Pulses,Kgs,1683001.5,1017109.44,Export
+2022,5,May,Sugar,Kgs,1546013.5,991027.88,Export
+2022,5,May,Natural Rubber,Kgs,277480.0,604550.3,Export
+2022,5,May,Plastics and Other Articles Thereof,Kgs,232836.6,531229.52,Export
+2022,5,May,Cotton,Kgs,150000.0,272969.88,Export
+2022,5,May,Spices,Kgs,49590.5,65623.09,Export
+2022,5,May,"Beverages, Spirits, Vinegar",Litres,34008.5,39379.1,Export
+2022,5,May,Wooden Furniture,Kgs,42755.0,32928.59,Export
+2022,5,May,Skins and Hides,Kgs,92000.0,28268.44,Export
+2022,5,May,Woven Fabric,Kgs,1356.0,10565.55,Export
+2022,5,May,Wood Sawn and Plied,Kgs,31000.0,2968.18,Export
+2022,5,May,Rice,Kgs,9500.0,1849.23,Export
+2022,5,May,Apparel Clothing: Knitted or Crocheted,No,1405.0,1138.98,Export
+2022,5,May,Fish,Kgs,9052.0,810.67,Export
+2022,5,May,Apparel Clothing: Not Knitted or Crocheted,No,334.0,714.96,Export
+2022,5,May,Coffee,Kgs,2.0,3.53,Export
+2022,5,May,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2022,5,May,Coconut,Kgs,0.0,0.0,Export
+2022,6,Jun,Other Exports,,0.0,18402945.19,Export
+2022,6,Jun,Tobacco,Kgs,4531196.0,13880750.0,Export
+2022,6,Jun,Groundnuts,Kgs,11293743.5,10605568.29,Export
+2022,6,Jun,Tea,Kgs,4622560.0,6905133.0,Export
+2022,6,Jun,Sugar,Kgs,8315052.5,5596263.18,Export
+2022,6,Jun,Soya Beans,Kgs,6048752.0,4140086.56,Export
+2022,6,Jun,Macadamia Nuts,Kgs,365592.68,3559774.27,Export
+2022,6,Jun,Cotton,Kgs,1248480.8,2241616.3,Export
+2022,6,Jun,Pulses,Kgs,2628409.5,1572654.14,Export
+2022,6,Jun,Scrap Metal,Kgs,2663601.0,698059.0,Export
+2022,6,Jun,Plastics and Other Articles Thereof,Kgs,288936.99,637156.86,Export
+2022,6,Jun,Natural Rubber,Kgs,252035.0,492304.81,Export
+2022,6,Jun,Spices,Kgs,60005.5,161401.05,Export
+2022,6,Jun,Skins and Hides,Kgs,48660.0,130901.53,Export
+2022,6,Jun,"Beverages, Spirits, Vinegar",Litres,126448.0,130482.78,Export
+2022,6,Jun,Wooden Furniture,Kgs,42738.0,41770.32,Export
+2022,6,Jun,Rice,Kgs,32400.0,29654.18,Export
+2022,6,Jun,Fish,Kgs,13822.0,19554.46,Export
+2022,6,Jun,Woven Fabric,Kgs,1380.0,9418.38,Export
+2022,6,Jun,Apparel Clothing: Knitted or Crocheted,No,1570.5,4232.17,Export
+2022,6,Jun,Wood Sawn and Plied,Kgs,35000.0,2043.55,Export
+2022,6,Jun,Apparel Clothing: Not Knitted or Crocheted,No,301.5,399.13,Export
+2022,6,Jun,Coffee,Kgs,3.0,18.24,Export
+2022,6,Jun,Live Trees and Flowers,Kgs,0.5,0.91,Export
+2022,6,Jun,Coconut,Kgs,0.0,0.0,Export
+2022,7,Jul,Tobacco,Kgs,7505249.0,32023273.0,Export
+2022,7,Jul,Groundnuts,Kgs,14076500.0,14324184.91,Export
+2022,7,Jul,Other Exports,,0.0,12066224.11,Export
+2022,7,Jul,Tea,Kgs,4656406.0,7529260.0,Export
+2022,7,Jul,Pulses,Kgs,12034251.5,5710407.71,Export
+2022,7,Jul,Soya Beans,Kgs,5102002.5,3739409.81,Export
+2022,7,Jul,Macadamia Nuts,Kgs,336023.16,3234897.92,Export
+2022,7,Jul,Cotton,Kgs,1508080.0,2535770.98,Export
+2022,7,Jul,Plastics and Other Articles Thereof,Kgs,610182.35,1302110.49,Export
+2022,7,Jul,Sugar,Kgs,1627055.0,1060978.04,Export
+2022,7,Jul,Scrap Metal,Kgs,2621019.0,872003.0,Export
+2022,7,Jul,Natural Rubber,Kgs,307685.0,620926.26,Export
+2022,7,Jul,Spices,Kgs,83711.0,170074.43,Export
+2022,7,Jul,Rice,Kgs,122032.0,68365.16,Export
+2022,7,Jul,Wooden Furniture,Kgs,53632.0,53441.01,Export
+2022,7,Jul,"Beverages, Spirits, Vinegar",Litres,45103.5,47025.26,Export
+2022,7,Jul,Fish,Kgs,11256.0,6516.21,Export
+2022,7,Jul,Skins and Hides,Kgs,23000.0,5845.48,Export
+2022,7,Jul,Wood Sawn and Plied,Kgs,18500.0,1412.66,Export
+2022,7,Jul,Apparel Clothing: Knitted or Crocheted,No,21.5,133.96,Export
+2022,7,Jul,Apparel Clothing: Not Knitted or Crocheted,No,15.0,80.37,Export
+2022,7,Jul,Coffee,Kgs,3.0,3.9,Export
+2022,7,Jul,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2022,7,Jul,Woven Fabric,Kgs,0.0,0.0,Export
+2022,7,Jul,Coconut,Kgs,0.0,0.0,Export
+2022,8,Aug,Tobacco,Kgs,11251634.0,43819272.0,Export
+2022,8,Aug,Other Exports,,0.0,14181103.98,Export
+2022,8,Aug,Groundnuts,Kgs,12853033.5,13032802.96,Export
+2022,8,Aug,Pulses,Kgs,22246511.0,10023469.75,Export
+2022,8,Aug,Tea,Kgs,4345046.0,7081470.0,Export
+2022,8,Aug,Soya Beans,Kgs,6310000.0,4619110.07,Export
+2022,8,Aug,Sugar,Kgs,5205325.5,3771317.87,Export
+2022,8,Aug,Cotton,Kgs,1030160.0,1890963.49,Export
+2022,8,Aug,Macadamia Nuts,Kgs,208272.24,1115033.68,Export
+2022,8,Aug,Scrap Metal,Kgs,3414809.0,1016611.0,Export
+2022,8,Aug,Plastics and Other Articles Thereof,Kgs,507201.05,914337.42,Export
+2022,8,Aug,Spices,Kgs,173731.5,369295.57,Export
+2022,8,Aug,Natural Rubber,Kgs,168595.0,338054.4,Export
+2022,8,Aug,Skins and Hides,Kgs,99895.5,89247.08,Export
+2022,8,Aug,Wooden Furniture,Kgs,63296.0,51959.76,Export
+2022,8,Aug,Rice,Kgs,31905.0,31449.62,Export
+2022,8,Aug,Apparel Clothing: Knitted or Crocheted,No,13798.0,20891.4,Export
+2022,8,Aug,Woven Fabric,Kgs,2755.9,20093.58,Export
+2022,8,Aug,Fish,Kgs,47133.5,12917.34,Export
+2022,8,Aug,"Beverages, Spirits, Vinegar",Litres,12593.0,5751.71,Export
+2022,8,Aug,Apparel Clothing: Not Knitted or Crocheted,No,602.8,2285.46,Export
+2022,8,Aug,Coffee,Kgs,3.0,6.82,Export
+2022,8,Aug,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2022,8,Aug,Wood Sawn and Plied,Kgs,0.0,0.0,Export
+2022,8,Aug,Coconut,Kgs,0.0,0.0,Export
+2022,9,Sep,Tobacco,Kgs,15838514.0,74940633.0,Export
+2022,9,Sep,Other Exports,,0.0,16425728.76,Export
+2022,9,Sep,Groundnuts,Kgs,10358300.0,10450830.6,Export
+2022,9,Sep,Pulses,Kgs,15977512.0,7429080.5,Export
+2022,9,Sep,Tea,Kgs,2624063.0,4036203.0,Export
+2022,9,Sep,Macadamia Nuts,Kgs,216419.6,1780713.38,Export
+2022,9,Sep,Cotton,Kgs,952200.0,1561699.41,Export
+2022,9,Sep,Scrap Metal,Kgs,3657212.0,1110464.0,Export
+2022,9,Sep,Plastics and Other Articles Thereof,Kgs,384405.11,1039989.54,Export
+2022,9,Sep,Soya Beans,Kgs,1365004.0,1000930.89,Export
+2022,9,Sep,Sugar,Kgs,1212060.0,919243.8,Export
+2022,9,Sep,Natural Rubber,Kgs,169365.0,342338.85,Export
+2022,9,Sep,Spices,Kgs,125778.5,268030.49,Export
+2022,9,Sep,"Beverages, Spirits, Vinegar",Litres,99215.9,118965.3,Export
+2022,9,Sep,Wooden Furniture,Kgs,62292.43,99542.81,Export
+2022,9,Sep,Skins and Hides,Kgs,1005.0,96155.61,Export
+2022,9,Sep,Woven Fabric,Kgs,14857.0,95105.53,Export
+2022,9,Sep,Fish,Kgs,189580.0,60342.22,Export
+2022,9,Sep,Apparel Clothing: Not Knitted or Crocheted,No,1253.5,4967.5,Export
+2022,9,Sep,Apparel Clothing: Knitted or Crocheted,No,1054.0,1878.34,Export
+2022,9,Sep,Wood Sawn and Plied,Kgs,15500.0,1130.13,Export
+2022,9,Sep,Coffee,Kgs,112.5,646.27,Export
+2022,9,Sep,Rice,Kgs,660.0,545.58,Export
+2022,9,Sep,Coconut,Kgs,1400.0,170.49,Export
+2022,9,Sep,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2022,10,Oct,Tobacco,Kgs,14183907.0,60148185.0,Export
+2022,10,Oct,Other Exports,,0.0,24545004.6,Export
+2022,10,Oct,Pulses,Kgs,16354702.0,8517237.83,Export
+2022,10,Oct,Groundnuts,Kgs,4964350.0,5034656.79,Export
+2022,10,Oct,Tea,Kgs,3164980.0,4843536.0,Export
+2022,10,Oct,Scrap Metal,Kgs,2712541.0,810127.0,Export
+2022,10,Oct,Macadamia Nuts,Kgs,87137.36,771485.77,Export
+2022,10,Oct,Plastics and Other Articles Thereof,Kgs,397322.65,701538.49,Export
+2022,10,Oct,Cotton,Kgs,278800.0,344154.04,Export
+2022,10,Oct,Spices,Kgs,106964.0,226329.87,Export
+2022,10,Oct,"Beverages, Spirits, Vinegar",Litres,187463.0,215646.33,Export
+2022,10,Oct,Natural Rubber,Kgs,85435.0,155230.46,Export
+2022,10,Oct,Fish,Kgs,230594.0,75970.94,Export
+2022,10,Oct,Wooden Furniture,Kgs,51068.0,32480.01,Export
+2022,10,Oct,Rice,Kgs,23638.0,24131.83,Export
+2022,10,Oct,Soya Beans,Kgs,30000.0,21632.41,Export
+2022,10,Oct,Apparel Clothing: Not Knitted or Crocheted,No,5312.5,1263.66,Export
+2022,10,Oct,Apparel Clothing: Knitted or Crocheted,No,1204.5,1007.54,Export
+2022,10,Oct,Wood Sawn and Plied,Kgs,10500.0,889.15,Export
+2022,10,Oct,Sugar,Kgs,311.5,560.56,Export
+2022,10,Oct,Coffee,Kgs,11.0,110.17,Export
+2022,10,Oct,Coconut,Kgs,500.0,48.32,Export
+2022,10,Oct,Skins and Hides,Kgs,0.0,0.0,Export
+2022,10,Oct,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2022,10,Oct,Woven Fabric,Kgs,0.0,0.0,Export
+2022,11,Nov,Tobacco,Kgs,11864240.0,50519628.0,Export
+2022,11,Nov,Other Exports,,0.0,45038140.39,Export
+2022,11,Nov,Tea,Kgs,4689251.0,7388338.0,Export
+2022,11,Nov,Pulses,Kgs,7241869.2,3916036.11,Export
+2022,11,Nov,Groundnuts,Kgs,2985800.0,3095160.71,Export
+2022,11,Nov,Coffee,Kgs,199244.5,1030105.77,Export
+2022,11,Nov,Scrap Metal,Kgs,2921226.0,936351.0,Export
+2022,11,Nov,Cotton,Kgs,435000.0,851556.77,Export
+2022,11,Nov,Plastics and Other Articles Thereof,Kgs,442382.11,799082.8,Export
+2022,11,Nov,Natural Rubber,Kgs,140875.0,257292.79,Export
+2022,11,Nov,Spices,Kgs,116682.0,254387.68,Export
+2022,11,Nov,Skins and Hides,Kgs,39306.0,206818.05,Export
+2022,11,Nov,Sugar,Kgs,68077.0,75435.0,Export
+2022,11,Nov,Fish,Kgs,181817.0,66219.91,Export
+2022,11,Nov,Wooden Furniture,Kgs,69576.0,39573.9,Export
+2022,11,Nov,Macadamia Nuts,Kgs,8142.0,32879.88,Export
+2022,11,Nov,Soya Beans,Kgs,34059.0,24984.54,Export
+2022,11,Nov,Rice,Kgs,16272.0,15692.38,Export
+2022,11,Nov,"Beverages, Spirits, Vinegar",Litres,29481.5,10977.15,Export
+2022,11,Nov,Apparel Clothing: Not Knitted or Crocheted,No,5472.1,9130.38,Export
+2022,11,Nov,Wood Sawn and Plied,Kgs,14000.0,896.31,Export
+2022,11,Nov,Apparel Clothing: Knitted or Crocheted,No,500.0,214.33,Export
+2022,11,Nov,Coconut,Kgs,3750.0,194.85,Export
+2022,11,Nov,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2022,11,Nov,Woven Fabric,Kgs,0.0,0.0,Export
+2022,12,Dec,Tobacco,Kgs,10950429.0,30305466.0,Export
+2022,12,Dec,Other Exports,,0.0,9827995.17,Export
+2022,12,Dec,Groundnuts,Kgs,3649010.0,3743998.39,Export
+2022,12,Dec,Pulses,Kgs,6966990.0,3679558.1,Export
+2022,12,Dec,Tea,Kgs,1651590.0,2603949.0,Export
+2022,12,Dec,Plastics and Other Articles Thereof,Kgs,367951.18,799589.2,Export
+2022,12,Dec,Scrap Metal,Kgs,2213763.0,683454.0,Export
+2022,12,Dec,Soya Beans,Kgs,325006.5,654082.74,Export
+2022,12,Dec,Coffee,Kgs,114146.0,580739.46,Export
+2022,12,Dec,Sugar,Kgs,161195.0,145421.35,Export
+2022,12,Dec,"Beverages, Spirits, Vinegar",Litres,164609.5,143716.58,Export
+2022,12,Dec,Spices,Kgs,58255.0,75448.06,Export
+2022,12,Dec,Rice,Kgs,90865.5,69578.17,Export
+2022,12,Dec,Fish,Kgs,121730.0,54513.56,Export
+2022,12,Dec,Apparel Clothing: Not Knitted or Crocheted,No,16807.0,28137.45,Export
+2022,12,Dec,Wooden Furniture,Kgs,41827.35,21307.05,Export
+2022,12,Dec,Wood Sawn and Plied,Kgs,15500.0,896.31,Export
+2022,12,Dec,Coconut,Kgs,765.0,457.89,Export
+2022,12,Dec,Apparel Clothing: Knitted or Crocheted,No,3.0,48.71,Export
+2022,12,Dec,Macadamia Nuts,Kgs,1.0,1.95,Export
+2022,12,Dec,Cotton,Kgs,0.0,0.0,Export
+2022,12,Dec,Skins and Hides,Kgs,0.0,0.0,Export
+2022,12,Dec,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2022,12,Dec,Natural Rubber,Kgs,0.0,0.0,Export
+2022,12,Dec,Woven Fabric,Kgs,0.0,0.0,Export
+2023,1,Jan,Tobacco,Kgs,4566036.0,14972207.0,Export
+2023,1,Jan,Other Exports,,0.0,14753240.53,Export
+2023,1,Jan,Tea,Kgs,3219039.0,5220025.0,Export
+2023,1,Jan,Groundnuts,Kgs,4277555.0,4295440.15,Export
+2023,1,Jan,Pulses,Kgs,3815110.0,2312170.43,Export
+2023,1,Jan,Macadamia Nuts,Kgs,381037.0,1128221.86,Export
+2023,1,Jan,Soya Beans,Kgs,1496605.5,1009860.73,Export
+2023,1,Jan,Scrap Metal,Kgs,3116474.0,975032.0,Export
+2023,1,Jan,Plastics and Other Articles Thereof,Kgs,245908.78,441988.29,Export
+2023,1,Jan,Rice,Kgs,260110.5,304056.35,Export
+2023,1,Jan,Coffee,Kgs,67855.0,215323.97,Export
+2023,1,Jan,Natural Rubber,Kgs,113155.0,198268.87,Export
+2023,1,Jan,Sugar,Kgs,56226.0,54876.61,Export
+2023,1,Jan,Skins and Hides,Kgs,4850.0,47500.02,Export
+2023,1,Jan,Fish,Kgs,86399.0,39056.42,Export
+2023,1,Jan,"Beverages, Spirits, Vinegar",Litres,90533.5,35576.61,Export
+2023,1,Jan,Spices,Kgs,15451.0,18361.45,Export
+2023,1,Jan,Wooden Furniture,Kgs,22456.0,7100.9,Export
+2023,1,Jan,Apparel Clothing: Knitted or Crocheted,No,1000.0,3060.0,Export
+2023,1,Jan,Wood Sawn and Plied,Kgs,34300.0,2600.73,Export
+2023,1,Jan,Apparel Clothing: Not Knitted or Crocheted,No,1014.0,2564.29,Export
+2023,1,Jan,Live Trees and Flowers,Kgs,963.0,964.15,Export
+2023,1,Jan,Coconut,Kgs,1300.0,96.5,Export
+2023,1,Jan,Cotton,Kgs,0.0,0.0,Export
+2023,1,Jan,Woven Fabric,Kgs,0.0,0.0,Export
+2023,2,Feb,Other Exports,,0.0,23571065.62,Export
+2023,2,Feb,Tobacco,Kgs,1488906.0,5684411.0,Export
+2023,2,Feb,Tea,Kgs,3324012.0,5644871.0,Export
+2023,2,Feb,Soya Beans,Kgs,5235520.0,3841800.07,Export
+2023,2,Feb,Groundnuts,Kgs,2114680.0,2193520.13,Export
+2023,2,Feb,Pulses,Kgs,3098935.0,1720258.84,Export
+2023,2,Feb,Macadamia Nuts,Kgs,450846.14,1699312.07,Export
+2023,2,Feb,Scrap Metal,Kgs,3204030.0,987590.0,Export
+2023,2,Feb,Plastics and Other Articles Thereof,Kgs,312195.2,629568.4,Export
+2023,2,Feb,Natural Rubber,Kgs,279475.0,458598.1,Export
+2023,2,Feb,Rice,Kgs,266765.0,369464.11,Export
+2023,2,Feb,Coffee,Kgs,20895.5,86180.86,Export
+2023,2,Feb,Sugar,Kgs,83284.5,84837.59,Export
+2023,2,Feb,Wooden Furniture,Kgs,57950.0,49931.95,Export
+2023,2,Feb,"Beverages, Spirits, Vinegar",Litres,119754.0,39513.18,Export
+2023,2,Feb,Fish,Kgs,39159.5,25785.79,Export
+2023,2,Feb,Spices,Kgs,56112.5,25430.48,Export
+2023,2,Feb,Apparel Clothing: Knitted or Crocheted,No,12843.2,16206.37,Export
+2023,2,Feb,Apparel Clothing: Not Knitted or Crocheted,No,2337.97,3084.67,Export
+2023,2,Feb,Wood Sawn and Plied,Kgs,29600.0,2509.12,Export
+2023,2,Feb,Cotton,Kgs,0.0,0.0,Export
+2023,2,Feb,Skins and Hides,Kgs,0.0,0.0,Export
+2023,2,Feb,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2023,2,Feb,Woven Fabric,Kgs,0.0,0.0,Export
+2023,2,Feb,Coconut,Kgs,0.0,0.0,Export
+2023,3,Mar,Other Exports,,0.0,20767434.84,Export
+2023,3,Mar,Tea,Kgs,5541274.0,9396236.0,Export
+2023,3,Mar,Soya Beans,Kgs,11967500.0,8672656.86,Export
+2023,3,Mar,Tobacco,Kgs,1498043.0,5325258.0,Export
+2023,3,Mar,Pulses,Kgs,5010180.0,4007101.56,Export
+2023,3,Mar,Macadamia Nuts,Kgs,670672.96,2761146.73,Export
+2023,3,Mar,Scrap Metal,Kgs,5242694.0,1535757.0,Export
+2023,3,Mar,Groundnuts,Kgs,1241350.0,1270335.92,Export
+2023,3,Mar,Sugar,Kgs,621450.0,546293.67,Export
+2023,3,Mar,Natural Rubber,Kgs,270760.0,451885.21,Export
+2023,3,Mar,Plastics and Other Articles Thereof,Kgs,204959.73,435272.79,Export
+2023,3,Mar,Coffee,Kgs,78603.0,351080.76,Export
+2023,3,Mar,Rice,Kgs,129910.0,123971.32,Export
+2023,3,Mar,"Beverages, Spirits, Vinegar",Litres,264632.0,63141.05,Export
+2023,3,Mar,Skins and Hides,Kgs,117000.0,52405.83,Export
+2023,3,Mar,Wooden Furniture,Kgs,37362.0,21578.37,Export
+2023,3,Mar,Spices,Kgs,42691.0,15295.79,Export
+2023,3,Mar,Apparel Clothing: Not Knitted or Crocheted,No,2183.0,9584.55,Export
+2023,3,Mar,Apparel Clothing: Knitted or Crocheted,No,650.0,8946.42,Export
+2023,3,Mar,Fish,Kgs,21296.0,5815.43,Export
+2023,3,Mar,Live Trees and Flowers,Kgs,1.0,3.86,Export
+2023,3,Mar,Cotton,Kgs,0.0,0.0,Export
+2023,3,Mar,Wood Sawn and Plied,Kgs,0.0,0.0,Export
+2023,3,Mar,Woven Fabric,Kgs,0.0,0.0,Export
+2023,3,Mar,Coconut,Kgs,0.0,0.0,Export
+2023,4,Apr,Other Exports,,0.0,12416805.44,Export
+2023,4,Apr,Pulses,Kgs,7738000.0,6723644.37,Export
+2023,4,Apr,Tea,Kgs,3928715.0,6406973.0,Export
+2023,4,Apr,Soya Beans,Kgs,6428000.0,4529858.9,Export
+2023,4,Apr,Groundnuts,Kgs,1787600.0,1795410.94,Export
+2023,4,Apr,Tobacco,Kgs,531394.0,1165996.0,Export
+2023,4,Apr,Macadamia Nuts,Kgs,275011.8,933232.09,Export
+2023,4,Apr,Scrap Metal,Kgs,2590218.0,873893.0,Export
+2023,4,Apr,Plastics and Other Articles Thereof,Kgs,240493.85,594534.74,Export
+2023,4,Apr,Natural Rubber,Kgs,307195.0,480704.92,Export
+2023,4,Apr,Skins and Hides,Kgs,5265.0,246654.27,Export
+2023,4,Apr,"Beverages, Spirits, Vinegar",Litres,174275.7,76611.05,Export
+2023,4,Apr,Sugar,Kgs,56689.0,59603.92,Export
+2023,4,Apr,Spices,Kgs,20264.5,37706.46,Export
+2023,4,Apr,Wooden Furniture,Kgs,48730.0,35219.74,Export
+2023,4,Apr,Rice,Kgs,30000.0,29994.34,Export
+2023,4,Apr,Fish,Kgs,22111.0,13073.33,Export
+2023,4,Apr,Coffee,Kgs,8298.0,9021.67,Export
+2023,4,Apr,Wood Sawn and Plied,Kgs,14000.0,1254.59,Export
+2023,4,Apr,Apparel Clothing: Not Knitted or Crocheted,No,12.3,660.48,Export
+2023,4,Apr,Apparel Clothing: Knitted or Crocheted,No,17.0,634.69,Export
+2023,4,Apr,Live Trees and Flowers,Kgs,38.0,38.6,Export
+2023,4,Apr,Cotton,Kgs,0.0,0.0,Export
+2023,4,Apr,Woven Fabric,Kgs,0.0,0.0,Export
+2023,4,Apr,Coconut,Kgs,0.0,0.0,Export
+2023,5,May,Other Exports,,0.0,13416267.96,Export
+2023,5,May,Soya Beans,Kgs,18826035.7,12949843.02,Export
+2023,5,May,Tea,Kgs,6358883.0,10372260.0,Export
+2023,5,May,Tobacco,Kgs,2141020.0,7629938.0,Export
+2023,5,May,Groundnuts,Kgs,6983810.0,6947990.89,Export
+2023,5,May,Pulses,Kgs,4170164.0,3925848.72,Export
+2023,5,May,Sugar,Kgs,4056690.1,2544385.74,Export
+2023,5,May,Macadamia Nuts,Kgs,322479.3,1714665.47,Export
+2023,5,May,Plastics and Other Articles Thereof,Kgs,390390.53,906964.13,Export
+2023,5,May,Scrap Metal,Kgs,2440647.0,820080.0,Export
+2023,5,May,Natural Rubber,Kgs,471240.0,775073.2,Export
+2023,5,May,Cotton,Kgs,227002.9,327625.65,Export
+2023,5,May,Coffee,Kgs,32287.5,149744.5,Export
+2023,5,May,Wooden Furniture,Kgs,48526.0,85732.89,Export
+2023,5,May,Spices,Kgs,21053.0,62592.19,Export
+2023,5,May,"Beverages, Spirits, Vinegar",Litres,157276.3,53375.45,Export
+2023,5,May,Woven Fabric,Kgs,23019.0,52443.77,Export
+2023,5,May,Skins and Hides,Kgs,3000.0,35151.0,Export
+2023,5,May,Apparel Clothing: Knitted or Crocheted,No,259.0,11141.46,Export
+2023,5,May,Fish,Kgs,17553.0,10192.76,Export
+2023,5,May,Apparel Clothing: Not Knitted or Crocheted,No,1681.5,3191.41,Export
+2023,5,May,Rice,Kgs,320.0,49.22,Export
+2023,5,May,Live Trees and Flowers,Kgs,14.0,6.28,Export
+2023,5,May,Wood Sawn and Plied,Kgs,0.0,0.0,Export
+2023,5,May,Coconut,Kgs,0.0,0.0,Export
+2023,6,Jun,Tobacco,Kgs,8655488.0,33217947.0,Export
+2023,6,Jun,Other Exports,,0.0,11755391.9,Export
+2023,6,Jun,Sugar,Kgs,12366221.5,8962401.15,Export
+2023,6,Jun,Tea,Kgs,4734614.0,7607038.0,Export
+2023,6,Jun,Macadamia Nuts,Kgs,700403.3,3336000.63,Export
+2023,6,Jun,Groundnuts,Kgs,2765670.5,2646714.24,Export
+2023,6,Jun,Pulses,Kgs,3562013.0,2578954.84,Export
+2023,6,Jun,Cotton,Kgs,988000.5,1416590.3,Export
+2023,6,Jun,Soya Beans,Kgs,1480000.0,851619.77,Export
+2023,6,Jun,Plastics and Other Articles Thereof,Kgs,301581.84,621038.86,Export
+2023,6,Jun,Natural Rubber,Kgs,277200.0,424069.54,Export
+2023,6,Jun,Skins and Hides,Kgs,1630.0,243579.47,Export
+2023,6,Jun,"Beverages, Spirits, Vinegar",Litres,276037.0,206329.72,Export
+2023,6,Jun,Woven Fabric,Kgs,72467.5,153348.01,Export
+2023,6,Jun,Scrap Metal,Kgs,271282.0,147007.0,Export
+2023,6,Jun,Spices,Kgs,22103.5,61714.2,Export
+2023,6,Jun,Wooden Furniture,Kgs,47671.0,45919.0,Export
+2023,6,Jun,Fish,Kgs,19796.5,7485.27,Export
+2023,6,Jun,Apparel Clothing: Not Knitted or Crocheted,No,735.0,787.16,Export
+2023,6,Jun,Live Trees and Flowers,Kgs,7311.0,341.6,Export
+2023,6,Jun,Apparel Clothing: Knitted or Crocheted,No,3.5,22.47,Export
+2023,6,Jun,Coffee,Kgs,105.5,20.08,Export
+2023,6,Jun,Rice,Kgs,10.0,19.12,Export
+2023,6,Jun,Wood Sawn and Plied,Kgs,0.0,0.0,Export
+2023,6,Jun,Coconut,Kgs,0.0,0.0,Export
+2023,7,Jul,Tobacco,Kgs,8649896.0,42148944.0,Export
+2023,7,Jul,Pulses,Kgs,25418462.0,18404989.78,Export
+2023,7,Jul,Other Exports,,0.0,15943802.41,Export
+2023,7,Jul,Groundnuts,Kgs,8678670.5,8956099.11,Export
+2023,7,Jul,Tea,Kgs,3284951.0,4875615.0,Export
+2023,7,Jul,Soya Beans,Kgs,4606515.0,3795645.56,Export
+2023,7,Jul,Sugar,Kgs,5260584.0,3741453.2,Export
+2023,7,Jul,Macadamia Nuts,Kgs,453987.6,1811398.58,Export
+2023,7,Jul,Plastics and Other Articles Thereof,Kgs,304898.4,771494.9,Export
+2023,7,Jul,"Beverages, Spirits, Vinegar",Litres,499968.8,412601.77,Export
+2023,7,Jul,Cotton,Kgs,280944.0,369576.66,Export
+2023,7,Jul,Scrap Metal,Kgs,495418.0,181420.0,Export
+2023,7,Jul,Natural Rubber,Kgs,83720.0,162318.8,Export
+2023,7,Jul,Woven Fabric,Kgs,51975.9,118127.58,Export
+2023,7,Jul,Spices,Kgs,31391.0,66631.93,Export
+2023,7,Jul,Wooden Furniture,Kgs,37428.85,39123.97,Export
+2023,7,Jul,Fish,Kgs,11581.0,1835.05,Export
+2023,7,Jul,Coffee,Kgs,270.5,1352.35,Export
+2023,7,Jul,Apparel Clothing: Not Knitted or Crocheted,No,1303.0,615.69,Export
+2023,7,Jul,Apparel Clothing: Knitted or Crocheted,No,583.21,265.1,Export
+2023,7,Jul,Rice,Kgs,20.0,50.0,Export
+2023,7,Jul,Live Trees and Flowers,Kgs,5.6,3.76,Export
+2023,7,Jul,Skins and Hides,Kgs,0.0,0.0,Export
+2023,7,Jul,Wood Sawn and Plied,Kgs,0.0,0.0,Export
+2023,7,Jul,Coconut,Kgs,0.0,0.0,Export
+2023,8,Aug,Tobacco,Kgs,16384363.0,71901854.0,Export
+2023,8,Aug,Other Exports,,0.0,14784127.77,Export
+2023,8,Aug,Pulses,Kgs,21381640.0,13596318.18,Export
+2023,8,Aug,Sugar,Kgs,10228965.8,7026727.66,Export
+2023,8,Aug,Tea,Kgs,4510022.0,6377506.0,Export
+2023,8,Aug,Groundnuts,Kgs,5695004.0,5842069.59,Export
+2023,8,Aug,Soya Beans,Kgs,3826288.0,2558132.88,Export
+2023,8,Aug,Cotton,Kgs,830832.0,1071445.57,Export
+2023,8,Aug,Macadamia Nuts,Kgs,245953.22,1008017.2,Export
+2023,8,Aug,Plastics and Other Articles Thereof,Kgs,306036.0,646755.73,Export
+2023,8,Aug,"Beverages, Spirits, Vinegar",Litres,950386.0,330829.72,Export
+2023,8,Aug,Scrap Metal,Kgs,674443.0,285687.0,Export
+2023,8,Aug,Natural Rubber,Kgs,166320.0,226940.2,Export
+2023,8,Aug,Spices,Kgs,42459.0,142090.46,Export
+2023,8,Aug,Wooden Furniture,Kgs,83288.0,67757.82,Export
+2023,8,Aug,Rice,Kgs,62005.0,59513.43,Export
+2023,8,Aug,Skins and Hides,Kgs,5500.0,39193.74,Export
+2023,8,Aug,Fish,Kgs,12397.0,11871.29,Export
+2023,8,Aug,Apparel Clothing: Not Knitted or Crocheted,No,2516.0,673.31,Export
+2023,8,Aug,Coconut,Kgs,300.0,136.95,Export
+2023,8,Aug,Live Trees and Flowers,Kgs,3002.0,74.87,Export
+2023,8,Aug,Coffee,Kgs,0.4,9.13,Export
+2023,8,Aug,Apparel Clothing: Knitted or Crocheted,No,3.0,3.65,Export
+2023,8,Aug,Wood Sawn and Plied,Kgs,0.0,0.0,Export
+2023,8,Aug,Woven Fabric,Kgs,0.0,0.0,Export
+2023,9,Sep,Tobacco,Kgs,15575512.0,74540893.0,Export
+2023,9,Sep,Other Exports,,0.0,12480997.8,Export
+2023,9,Sep,Pulses,Kgs,10549905.0,6951067.41,Export
+2023,9,Sep,Groundnuts,Kgs,6477560.0,6073097.6,Export
+2023,9,Sep,Tea,Kgs,3189359.0,4566817.0,Export
+2023,9,Sep,Sugar,Kgs,5858384.5,4545963.34,Export
+2023,9,Sep,Plastics and Other Articles Thereof,Kgs,287739.55,650715.9,Export
+2023,9,Sep,Cotton,Kgs,296832.0,328581.12,Export
+2023,9,Sep,Macadamia Nuts,Kgs,62473.6,315323.64,Export
+2023,9,Sep,Soya Beans,Kgs,387800.0,291498.75,Export
+2023,9,Sep,Natural Rubber,Kgs,140875.0,240625.6,Export
+2023,9,Sep,Spices,Kgs,46771.5,188600.82,Export
+2023,9,Sep,Woven Fabric,Kgs,90509.5,162079.73,Export
+2023,9,Sep,Skins and Hides,Kgs,1070.0,122941.91,Export
+2023,9,Sep,Scrap Metal,Kgs,171228.0,103011.0,Export
+2023,9,Sep,"Beverages, Spirits, Vinegar",Litres,231861.0,92272.31,Export
+2023,9,Sep,Wooden Furniture,Kgs,45738.0,14142.19,Export
+2023,9,Sep,Fish,Kgs,13973.95,8468.42,Export
+2023,9,Sep,Apparel Clothing: Not Knitted or Crocheted,No,2413.0,377.49,Export
+2023,9,Sep,Wood Sawn and Plied,Kgs,6000.0,355.0,Export
+2023,9,Sep,Rice,Kgs,1532.0,188.14,Export
+2023,9,Sep,Apparel Clothing: Knitted or Crocheted,No,12.5,51.05,Export
+2023,9,Sep,Coffee,Kgs,14.0,21.29,Export
+2023,9,Sep,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2023,9,Sep,Coconut,Kgs,0.0,0.0,Export
+2023,10,Oct,Tobacco,Kgs,17171893.0,65181002.0,Export
+2023,10,Oct,Other Exports,,0.0,42922088.53,Export
+2023,10,Oct,Sugar,Kgs,9377781.9,7413015.17,Export
+2023,10,Oct,Groundnuts,Kgs,5930900.0,5265195.11,Export
+2023,10,Oct,Pulses,Kgs,7730816.5,5128183.11,Export
+2023,10,Oct,Tea,Kgs,2229685.0,3142881.0,Export
+2023,10,Oct,Macadamia Nuts,Kgs,285129.44,1185930.62,Export
+2023,10,Oct,Cotton,Kgs,563248.0,676926.36,Export
+2023,10,Oct,Plastics and Other Articles Thereof,Kgs,430904.47,672176.36,Export
+2023,10,Oct,Coffee,Kgs,108611.3,446578.66,Export
+2023,10,Oct,Natural Rubber,Kgs,249480.0,382172.31,Export
+2023,10,Oct,Woven Fabric,Kgs,149516.4,280140.13,Export
+2023,10,Oct,Spices,Kgs,37200.0,93782.27,Export
+2023,10,Oct,Soya Beans,Kgs,72000.0,47087.51,Export
+2023,10,Oct,Rice,Kgs,30600.0,26993.2,Export
+2023,10,Oct,"Beverages, Spirits, Vinegar",Litres,154086.8,26237.44,Export
+2023,10,Oct,Skins and Hides,Kgs,2200.0,23750.0,Export
+2023,10,Oct,Scrap Metal,Kgs,7566.0,17516.0,Export
+2023,10,Oct,Wooden Furniture,Kgs,43857.8,14534.32,Export
+2023,10,Oct,Fish,Kgs,17007.0,12085.49,Export
+2023,10,Oct,Wood Sawn and Plied,Kgs,4000.0,4055.52,Export
+2023,10,Oct,Apparel Clothing: Knitted or Crocheted,No,507.5,378.29,Export
+2023,10,Oct,Apparel Clothing: Not Knitted or Crocheted,No,3.5,29.66,Export
+2023,10,Oct,Live Trees and Flowers,Kgs,3.0,12.71,Export
+2023,10,Oct,Coconut,Kgs,0.0,0.0,Export
+2023,11,Nov,Tobacco,Kgs,18604294.0,62028752.0,Export
+2023,11,Nov,Other Exports,,0.0,46535421.251,Export
+2023,11,Nov,Groundnuts,Kgs,6355830.0,5311539.03,Export
+2023,11,Nov,Tea,Kgs,2622981.0,3403914.0,Export
+2023,11,Nov,Sugar,Kgs,2734482.3,1984297.21,Export
+2023,11,Nov,Pulses,Kgs,1944106.5,1559146.76,Export
+2023,11,Nov,Soya Beans,Kgs,1747600.0,807734.54,Export
+2023,11,Nov,Macadamia Nuts,Kgs,196778.92,729220.61,Export
+2023,11,Nov,Plastics and Other Articles Thereof,Kgs,292432.78,617451.19,Export
+2023,11,Nov,Coffee,Kgs,80437.0,282818.49,Export
+2023,11,Nov,Natural Rubber,Kgs,113155.0,182441.84,Export
+2023,11,Nov,Woven Fabric,Kgs,74490.3,122547.22,Export
+2023,11,Nov,Scrap Metal,Kgs,187725.0,68652.0,Export
+2023,11,Nov,"Beverages, Spirits, Vinegar",Litres,215393.3,37114.2,Export
+2023,11,Nov,Wooden Furniture,Kgs,38095.0,29609.74,Export
+2023,11,Nov,Spices,Kgs,31742.5,23295.74,Export
+2023,11,Nov,Fish,Kgs,23567.0,11917.3,Export
+2023,11,Nov,Live Trees and Flowers,Kgs,7921.3,6892.63,Export
+2023,11,Nov,Rice,Kgs,2420.0,541.63,Export
+2023,11,Nov,Apparel Clothing: Not Knitted or Crocheted,No,68.0,77.02,Export
+2023,11,Nov,Apparel Clothing: Knitted or Crocheted,No,6.0,13.79,Export
+2023,11,Nov,Cotton,Kgs,0.0,0.0,Export
+2023,11,Nov,Skins and Hides,Kgs,0.0,0.0,Export
+2023,11,Nov,Wood Sawn and Plied,Kgs,0.0,0.0,Export
+2023,11,Nov,Coconut,Kgs,0.0,0.0,Export
+2023,12,Dec,Tobacco,Kgs,4802727.0,19107991.0,Export
+2023,12,Dec,Other Exports,,0.0,10451874.3,Export
+2023,12,Dec,Sugar,Kgs,7379554.9,6053167.4,Export
+2023,12,Dec,Groundnuts,Kgs,4220386.2,3616241.06,Export
+2023,12,Dec,Tea,Kgs,2349016.0,3558576.0,Export
+2023,12,Dec,Pulses,Kgs,1498421.1,1284305.46,Export
+2023,12,Dec,Soya Beans,Kgs,1853206.0,957631.25,Export
+2023,12,Dec,Plastics and Other Articles Thereof,Kgs,277566.34,728496.84,Export
+2023,12,Dec,Macadamia Nuts,Kgs,107366.02,361435.23,Export
+2023,12,Dec,"Beverages, Spirits, Vinegar",Litres,377002.2,156567.14,Export
+2023,12,Dec,Natural Rubber,Kgs,83160.0,131947.54,Export
+2023,12,Dec,Skins and Hides,Kgs,700.0,128341.15,Export
+2023,12,Dec,Scrap Metal,Kgs,119060.0,98758.0,Export
+2023,12,Dec,Wooden Furniture,Kgs,84252.4,91276.57,Export
+2023,12,Dec,Rice,Kgs,65845.0,65980.82,Export
+2023,12,Dec,Coffee,Kgs,19213.0,54796.27,Export
+2023,12,Dec,Woven Fabric,Kgs,23793.2,49950.53,Export
+2023,12,Dec,Fish,Kgs,13262.0,9497.41,Export
+2023,12,Dec,Spices,Kgs,28601.0,7194.53,Export
+2023,12,Dec,Apparel Clothing: Knitted or Crocheted,No,1424.5,966.22,Export
+2023,12,Dec,Wood Sawn and Plied,Kgs,14800.0,911.77,Export
+2023,12,Dec,Apparel Clothing: Not Knitted or Crocheted,No,119.9,406.94,Export
+2023,12,Dec,Live Trees and Flowers,Kgs,136.0,197.65,Export
+2023,12,Dec,Cotton,Kgs,0.0,0.0,Export
+2023,12,Dec,Coconut,Kgs,0.0,0.0,Export
+2024,1,Jan,Tobacco,Kgs,4889848.0,19391229.0,Export
+2024,1,Jan,Other Exports,,0.0,7247785.47,Export
+2024,1,Jan,Tea,Kgs,3235618.0,5285307.0,Export
+2024,1,Jan,Groundnuts,Kgs,3606600.0,2904818.71,Export
+2024,1,Jan,Macadamia Nuts,Kgs,292649.84,753404.25,Export
+2024,1,Jan,Wood Sawn and Plied,Kgs,1335765.75,689250.32,Export
+2024,1,Jan,Soya Beans,Kgs,1292601.93,678712.65,Export
+2024,1,Jan,Scrap Metal,Kgs,1578908.0,508017.0,Export
+2024,1,Jan,Pulses,Kgs,502020.0,484455.65,Export
+2024,1,Jan,Coffee,Kgs,110450.0,405891.37,Export
+2024,1,Jan,Sugar,Kgs,414235.5,350155.02,Export
+2024,1,Jan,Plastics and Other Articles Thereof,Kgs,164147.0,323560.0,Export
+2024,1,Jan,Natural Rubber,Kgs,110881.0,184072.24,Export
+2024,1,Jan,Woven Fabric,Kgs,55095.6,116265.83,Export
+2024,1,Jan,"Beverages, Spirits, Vinegar",Litres,40810.0,50300.97,Export
+2024,1,Jan,Skins and Hides,Kgs,71750.0,41978.36,Export
+2024,1,Jan,Wooden Furniture,Kgs,23738.0,25695.76,Export
+2024,1,Jan,Fish,Kgs,6053.7,1612.58,Export
+2024,1,Jan,Apparel Clothing: Knitted or Crocheted,No,367.3,804.98,Export
+2024,1,Jan,Spices,Kgs,6801.0,715.05,Export
+2024,1,Jan,Rice,Kgs,840.0,338.26,Export
+2024,1,Jan,Apparel Clothing: Not Knitted or Crocheted,No,2.5,9.65,Export
+2024,1,Jan,Live Trees and Flowers,Kgs,2.7,5.88,Export
+2024,1,Jan,Cotton,Kgs,0.0,0.0,Export
+2024,1,Jan,Coconut,Kgs,0.0,0.0,Export
+2024,2,Feb,Tobacco,Kgs,4615074.0,20479200.0,Export
+2024,2,Feb,Other Exports,,0.0,17144315.96,Export
+2024,2,Feb,Tea,Kgs,3645467.0,5903107.0,Export
+2024,2,Feb,Soya Beans,Kgs,8050859.5,3884547.45,Export
+2024,2,Feb,Groundnuts,Kgs,2873352.5,2345408.77,Export
+2024,2,Feb,Pulses,Kgs,1604561.0,1177951.88,Export
+2024,2,Feb,Macadamia Nuts,Kgs,419626.2,1136704.57,Export
+2024,2,Feb,Scrap Metal,Kgs,3092210.0,798089.0,Export
+2024,2,Feb,Wood Sawn and Plied,Kgs,1327357.55,750121.05,Export
+2024,2,Feb,Natural Rubber,Kgs,252000.0,395645.78,Export
+2024,2,Feb,Coffee,Kgs,100809.9,345133.45,Export
+2024,2,Feb,Sugar,Kgs,361722.5,306898.4,Export
+2024,2,Feb,Plastics and Other Articles Thereof,Kgs,139773.0,231504.0,Export
+2024,2,Feb,Woven Fabric,Kgs,57684.6,127611.05,Export
+2024,2,Feb,"Beverages, Spirits, Vinegar",Litres,20191.0,47868.29,Export
+2024,2,Feb,Skins and Hides,Kgs,138000.0,21181.02,Export
+2024,2,Feb,Wooden Furniture,Kgs,36111.0,7165.43,Export
+2024,2,Feb,Fish,Kgs,11166.0,6514.98,Export
+2024,2,Feb,Spices,Kgs,4903.0,417.58,Export
+2024,2,Feb,Apparel Clothing: Knitted or Crocheted,No,2.5,61.33,Export
+2024,2,Feb,Apparel Clothing: Not Knitted or Crocheted,No,10.0,22.36,Export
+2024,2,Feb,Live Trees and Flowers,Kgs,4.5,17.65,Export
+2024,2,Feb,Rice,Kgs,4.5,15.0,Export
+2024,2,Feb,Cotton,Kgs,0.0,0.0,Export
+2024,2,Feb,Coconut,Kgs,0.0,0.0,Export
+2024,3,Mar,Other Exports,,0.0,10923105.94,Export
+2024,3,Mar,Tobacco,Kgs,2502998.0,10389832.0,Export
+2024,3,Mar,Tea,Kgs,5165706.0,8268102.0,Export
+2024,3,Mar,Groundnuts,Kgs,3305079.0,3017265.06,Export
+2024,3,Mar,Macadamia Nuts,Kgs,635961.0,2726922.41,Export
+2024,3,Mar,Soya Beans,Kgs,5112750.0,2494524.66,Export
+2024,3,Mar,Scrap Metal,Kgs,3204036.0,716924.0,Export
+2024,3,Mar,Pulses,Kgs,569576.0,480361.7,Export
+2024,3,Mar,Wood Sawn and Plied,Kgs,990816.2,474922.15,Export
+2024,3,Mar,Coffee,Kgs,198512.0,419883.85,Export
+2024,3,Mar,Plastics and Other Articles Thereof,Kgs,188489.0,399397.0,Export
+2024,3,Mar,Natural Rubber,Kgs,196315.0,318827.44,Export
+2024,3,Mar,Woven Fabric,Kgs,101237.2,157215.85,Export
+2024,3,Mar,Sugar,Kgs,85416.0,86842.39,Export
+2024,3,Mar,Wooden Furniture,Kgs,50620.1,60153.42,Export
+2024,3,Mar,Skins and Hides,Kgs,2450.0,31526.65,Export
+2024,3,Mar,Spices,Kgs,13303.5,29890.67,Export
+2024,3,Mar,"Beverages, Spirits, Vinegar",Litres,363.0,28558.59,Export
+2024,3,Mar,Fish,Kgs,5743.0,12354.93,Export
+2024,3,Mar,Apparel Clothing: Not Knitted or Crocheted,No,734.3,2057.45,Export
+2024,3,Mar,Rice,Kgs,12600.0,571.06,Export
+2024,3,Mar,Apparel Clothing: Knitted or Crocheted,No,48.0,494.92,Export
+2024,3,Mar,Live Trees and Flowers,Kgs,31.8,89.86,Export
+2024,3,Mar,Cotton,Kgs,0.0,0.0,Export
+2024,3,Mar,Coconut,Kgs,0.0,0.0,Export
+2024,4,Apr,Other Exports,,0.0,7529979.77,Export
+2024,4,Apr,Tea,Kgs,4505925.0,7111897.0,Export
+2024,4,Apr,Tobacco,Kgs,1555823.0,6942564.0,Export
+2024,4,Apr,Groundnuts,Kgs,3229791.0,2981986.42,Export
+2024,4,Apr,Macadamia Nuts,Kgs,484281.0,2095216.66,Export
+2024,4,Apr,Pulses,Kgs,2308600.0,1604070.66,Export
+2024,4,Apr,Wood Sawn and Plied,Kgs,1611297.9,840618.45,Export
+2024,4,Apr,Natural Rubber,Kgs,388080.0,631748.26,Export
+2024,4,Apr,Plastics and Other Articles Thereof,Kgs,259990.0,467663.0,Export
+2024,4,Apr,Scrap Metal,Kgs,1459672.0,345756.0,Export
+2024,4,Apr,Coffee,Kgs,55905.0,120462.83,Export
+2024,4,Apr,Soya Beans,Kgs,152052.7,105957.86,Export
+2024,4,Apr,Woven Fabric,Kgs,56654.6,94928.64,Export
+2024,4,Apr,Sugar,Kgs,28976.5,30012.46,Export
+2024,4,Apr,Spices,Kgs,2735.5,24047.25,Export
+2024,4,Apr,Rice,Kgs,10150.0,18268.23,Export
+2024,4,Apr,Wooden Furniture,Kgs,56224.0,10908.26,Export
+2024,4,Apr,Fish,Kgs,16370.0,6030.06,Export
+2024,4,Apr,"Beverages, Spirits, Vinegar",Litres,3256.0,4701.9,Export
+2024,4,Apr,Apparel Clothing: Not Knitted or Crocheted,No,16642.0,4628.89,Export
+2024,4,Apr,Apparel Clothing: Knitted or Crocheted,No,177.5,3551.28,Export
+2024,4,Apr,Skins and Hides,Kgs,23000.0,3530.12,Export
+2024,4,Apr,Cotton,Kgs,0.0,0.0,Export
+2024,4,Apr,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2024,4,Apr,Coconut,Kgs,0.0,0.0,Export
+2024,5,May,Other Exports,,0.0,17744035.7,Export
+2024,5,May,Tea,Kgs,4837508.0,7908488.0,Export
+2024,5,May,Macadamia Nuts,Kgs,628165.4,3168408.417,Export
+2024,5,May,Tobacco,Kgs,481657.0,1950647.78,Export
+2024,5,May,Groundnuts,Kgs,2129085.0,1761079.68,Export
+2024,5,May,Pulses,Kgs,2131063.6,1415984.72,Export
+2024,5,May,Wood Sawn and Plied,Kgs,1725140.15,838982.37,Export
+2024,5,May,Natural Rubber,Kgs,334915.0,602592.76,Export
+2024,5,May,Scrap Metal,Kgs,2122323.8,537441.03,Export
+2024,5,May,Plastics and Other Articles Thereof,Kgs,285196.0,515435.0,Export
+2024,5,May,Cotton,Kgs,208001.0,302833.39,Export
+2024,5,May,Skins and Hides,Kgs,22335.0,267023.44,Export
+2024,5,May,Coffee,Kgs,55674.0,205961.2,Export
+2024,5,May,Woven Fabric,Kgs,76172.4,135904.43,Export
+2024,5,May,Sugar,Kgs,112514.0,108400.66,Export
+2024,5,May,Wooden Furniture,Kgs,74754.0,103298.68,Export
+2024,5,May,"Beverages, Spirits, Vinegar",Litres,82153.0,52782.26,Export
+2024,5,May,Soya Beans,Kgs,30001.0,21731.46,Export
+2024,5,May,Apparel Clothing: Not Knitted or Crocheted,No,14110.5,12039.78,Export
+2024,5,May,Fish,Kgs,11225.0,6667.18,Export
+2024,5,May,Live Trees and Flowers,Kgs,10070.9,6090.72,Export
+2024,5,May,Spices,Kgs,14100.0,2486.38,Export
+2024,5,May,Apparel Clothing: Knitted or Crocheted,No,1001.0,563.0,Export
+2024,5,May,Rice,Kgs,1526.0,371.02,Export
+2024,5,May,Coconut,Kgs,0.0,0.0,Export
+2024,6,Jun,Tobacco,Kgs,5508842.59,23705678.82,Export
+2024,6,Jun,Tea,Kgs,4582578.0,7059116.46,Export
+2024,6,Jun,Other Exports,,0.0,7025667.78,Export
+2024,6,Jun,Groundnuts,Kgs,4114817.0,5044145.91,Export
+2024,6,Jun,Pulses,Kgs,3981092.0,2679211.76,Export
+2024,6,Jun,Sugar,Kgs,3326660.0,2411028.41,Export
+2024,6,Jun,Macadamia Nuts,Kgs,438397.24,2001230.39,Export
+2024,6,Jun,Cotton,Kgs,613319.6,868103.27,Export
+2024,6,Jun,Wood Sawn and Plied,Kgs,1461748.95,716861.43,Export
+2024,6,Jun,Scrap Metal,Kgs,2479115.75,655119.74,Export
+2024,6,Jun,Plastics and Other Articles Thereof,Kgs,227063.97,529064.35,Export
+2024,6,Jun,Natural Rubber,Kgs,249480.0,420290.64,Export
+2024,6,Jun,Coffee,Kgs,40743.0,154826.85,Export
+2024,6,Jun,"Beverages, Spirits, Vinegar",Litres,86940.0,117900.65,Export
+2024,6,Jun,Wooden Furniture,Kgs,43447.0,42831.03,Export
+2024,6,Jun,Spices,Kgs,13130.4,41244.77,Export
+2024,6,Jun,Woven Fabric,Kgs,27578.5,38244.57,Export
+2024,6,Jun,Live Trees and Flowers,Kgs,12176.0,16768.71,Export
+2024,6,Jun,Soya Beans,Kgs,10301.0,8488.73,Export
+2024,6,Jun,Apparel Clothing: Not Knitted or Crocheted,No,8401.0,8218.33,Export
+2024,6,Jun,Fish,Kgs,8076.0,8089.78,Export
+2024,6,Jun,Rice,Kgs,12005.0,2872.65,Export
+2024,6,Jun,Apparel Clothing: Knitted or Crocheted,No,57.1,141.83,Export
+2024,6,Jun,Skins and Hides,Kgs,0.0,0.0,Export
+2024,6,Jun,Coconut,Kgs,0.0,0.0,Export
+2024,7,Jul,Tobacco,Kgs,7861038.11,38832939.56,Export
+2024,7,Jul,Pulses,Kgs,29307461.0,18603916.74,Export
+2024,7,Jul,Other Exports,,0.0,13328431.91,Export
+2024,7,Jul,Tea,Kgs,3701475.3,5502288.68,Export
+2024,7,Jul,Macadamia Nuts,Kgs,432416.74,1957324.12,Export
+2024,7,Jul,Wood Sawn and Plied,Kgs,2461733.85,1213270.36,Export
+2024,7,Jul,Groundnuts,Kgs,923524.01,769940.57,Export
+2024,7,Jul,Natural Rubber,Kgs,415800.0,724880.73,Export
+2024,7,Jul,Scrap Metal,Kgs,2583496.51,689376.76,Export
+2024,7,Jul,Sugar,Kgs,663729.5,559559.71,Export
+2024,7,Jul,Plastics and Other Articles Thereof,Kgs,264098.41,550244.24,Export
+2024,7,Jul,Spices,Kgs,52202.0,309469.88,Export
+2024,7,Jul,Cotton,Kgs,197888.0,225345.2,Export
+2024,7,Jul,"Beverages, Spirits, Vinegar",Litres,207531.0,214129.6,Export
+2024,7,Jul,Woven Fabric,Kgs,111533.3,154625.81,Export
+2024,7,Jul,Wooden Furniture,Kgs,49349.46,29400.24,Export
+2024,7,Jul,Soya Beans,Kgs,22500.0,17171.11,Export
+2024,7,Jul,Skins and Hides,Kgs,46000.0,4753.44,Export
+2024,7,Jul,Fish,Kgs,10764.6,3030.22,Export
+2024,7,Jul,Coffee,Kgs,1041.0,2600.0,Export
+2024,7,Jul,Apparel Clothing: Not Knitted or Crocheted,No,3527.5,2375.65,Export
+2024,7,Jul,Rice,Kgs,2883.0,853.4,Export
+2024,7,Jul,Apparel Clothing: Knitted or Crocheted,No,145.5,296.5,Export
+2024,7,Jul,Live Trees and Flowers,Kgs,154.0,166.43,Export
+2024,7,Jul,Coconut,Kgs,0.0,0.0,Export
+2024,8,Aug,Tobacco,Kgs,22607605.5,126541796.74,Export
+2024,8,Aug,Pulses,Kgs,36759505.1,28260181.82,Export
+2024,8,Aug,Other Exports,,0.0,10930636.414,Export
+2024,8,Aug,Groundnuts,Kgs,5908177.0,6766080.75,Export
+2024,8,Aug,Tea,Kgs,3710077.7,5013942.76,Export
+2024,8,Aug,Sugar,Kgs,1910162.0,1576806.67,Export
+2024,8,Aug,Macadamia Nuts,Kgs,303433.67,1364715.09,Export
+2024,8,Aug,Wood Sawn and Plied,Kgs,1694300.85,864978.09,Export
+2024,8,Aug,Plastics and Other Articles Thereof,Kgs,416113.76,831962.12,Export
+2024,8,Aug,Scrap Metal,Kgs,2059791.5,598165.12,Export
+2024,8,Aug,Natural Rubber,Kgs,249480.0,429665.47,Export
+2024,8,Aug,Cotton,Kgs,172168.0,264274.67,Export
+2024,8,Aug,"Beverages, Spirits, Vinegar",Litres,177596.0,215037.39,Export
+2024,8,Aug,Woven Fabric,Kgs,112835.1,161896.64,Export
+2024,8,Aug,Soya Beans,Kgs,44000.0,31708.8,Export
+2024,8,Aug,Wooden Furniture,Kgs,58163.0,20605.14,Export
+2024,8,Aug,Skins and Hides,Kgs,48000.0,13500.18,Export
+2024,8,Aug,Fish,Kgs,11762.5,2876.31,Export
+2024,8,Aug,Apparel Clothing: Not Knitted or Crocheted,No,1741.0,2814.87,Export
+2024,8,Aug,Spices,Kgs,5686.0,1422.2,Export
+2024,8,Aug,Rice,Kgs,6660.4,901.65,Export
+2024,8,Aug,Apparel Clothing: Knitted or Crocheted,No,620.0,286.84,Export
+2024,8,Aug,Coffee,Kgs,7.0,27.41,Export
+2024,8,Aug,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2024,8,Aug,Coconut,Kgs,0.0,0.0,Export
+2024,9,Sep,Tobacco,Kgs,17467897.68,93851311.88,Export
+2024,9,Sep,Pulses,Kgs,17119382.0,13700174.29,Export
+2024,9,Sep,Other Exports,,0.0,7261580.85000002,Export
+2024,9,Sep,Tea,Kgs,2930857.3,4302214.28,Export
+2024,9,Sep,Wood Sawn and Plied,Kgs,1414349.5,714595.39,Export
+2024,9,Sep,Plastics and Other Articles Thereof,Kgs,246399.79,451033.91,Export
+2024,9,Sep,Macadamia Nuts,Kgs,88065.56,433036.77,Export
+2024,9,Sep,Natural Rubber,Kgs,224035.0,429952.6,Export
+2024,9,Sep,Groundnuts,Kgs,323460.0,408653.05,Export
+2024,9,Sep,Scrap Metal,Kgs,1485444.5,388889.68,Export
+2024,9,Sep,Cotton,Kgs,222356.0,341308.0,Export
+2024,9,Sep,Coffee,Kgs,64325.0,240282.69,Export
+2024,9,Sep,Soya Beans,Kgs,119303.4,188798.38,Export
+2024,9,Sep,Skins and Hides,Kgs,1340.0,184947.67,Export
+2024,9,Sep,Woven Fabric,Kgs,84263.8,116824.78,Export
+2024,9,Sep,Spices,Kgs,21641.5,108546.26,Export
+2024,9,Sep,"Beverages, Spirits, Vinegar",Litres,80122.0,103161.91,Export
+2024,9,Sep,Sugar,Kgs,57527.0,58117.8,Export
+2024,9,Sep,Wooden Furniture,Kgs,60176.0,28518.59,Export
+2024,9,Sep,Fish,Kgs,11478.0,11525.25,Export
+2024,9,Sep,Rice,Kgs,3924.0,976.3,Export
+2024,9,Sep,Apparel Clothing: Not Knitted or Crocheted,No,10.0,25.7,Export
+2024,9,Sep,Apparel Clothing: Knitted or Crocheted,No,0.5,5.71,Export
+2024,9,Sep,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2024,9,Sep,Coconut,Kgs,0.0,0.0,Export
+2024,10,Oct,Tobacco,Kgs,12394285.5,58800642.53,Export
+2024,10,Oct,Other Exports,,0.0,8069713.22,Export
+2024,10,Oct,Pulses,Kgs,8345969.0,6694312.95,Export
+2024,10,Oct,Tea,Kgs,2719640.3,3778218.6,Export
+2024,10,Oct,Sugar,Kgs,2306815.0,2165510.01,Export
+2024,10,Oct,Groundnuts,Kgs,1837076.0,2138415.81,Export
+2024,10,Oct,Coffee,Kgs,171631.0,623178.2,Export
+2024,10,Oct,Plastics and Other Articles Thereof,Kgs,343728.39,547074.69,Export
+2024,10,Oct,Scrap Metal,Kgs,2125948.92,478516.93,Export
+2024,10,Oct,Natural Rubber,Kgs,247620.0,463179.51,Export
+2024,10,Oct,Wood Sawn and Plied,Kgs,1205600.0,458906.9,Export
+2024,10,Oct,Woven Fabric,Kgs,85680.6,118794.47,Export
+2024,10,Oct,Spices,Kgs,16191.5,98733.22,Export
+2024,10,Oct,Macadamia Nuts,Kgs,11898.16,71868.14,Export
+2024,10,Oct,Soya Beans,Kgs,56000.0,42931.35,Export
+2024,10,Oct,Wooden Furniture,Kgs,59825.31,17084.97,Export
+2024,10,Oct,Fish,Kgs,6308.5,11077.32,Export
+2024,10,Oct,"Beverages, Spirits, Vinegar",Litres,27.0,1395.97,Export
+2024,10,Oct,Apparel Clothing: Not Knitted or Crocheted,No,1308.0,1284.98,Export
+2024,10,Oct,Rice,Kgs,1405.0,319.83,Export
+2024,10,Oct,Apparel Clothing: Knitted or Crocheted,No,10.0,56.29,Export
+2024,10,Oct,Cotton,Kgs,0.0,0.0,Export
+2024,10,Oct,Skins and Hides,Kgs,0.0,0.0,Export
+2024,10,Oct,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2024,10,Oct,Coconut,Kgs,0.0,0.0,Export
+2024,11,Nov,Tobacco,Kgs,19377887.11,104300493.24,Export
+2024,11,Nov,Other Exports,,0.0,31212887.23,Export
+2024,11,Nov,Pulses,Kgs,4428369.0,4118465.65,Export
+2024,11,Nov,Tea,Kgs,2687392.5,3773741.34,Export
+2024,11,Nov,Sugar,Kgs,1590026.0,1226573.87,Export
+2024,11,Nov,Wood Sawn and Plied,Kgs,1465890.5,978242.85,Export
+2024,11,Nov,Groundnuts,Kgs,721085.0,849478.91,Export
+2024,11,Nov,Plastics and Other Articles Thereof,Kgs,379670.16,566164.75,Export
+2024,11,Nov,Coffee,Kgs,113540.3,548099.02,Export
+2024,11,Nov,Scrap Metal,Kgs,2204000.0,533489.8,Export
+2024,11,Nov,Natural Rubber,Kgs,278453.0,488675.0,Export
+2024,11,Nov,Skins and Hides,Kgs,1503.0,195202.96,Export
+2024,11,Nov,Woven Fabric,Kgs,55807.7,94832.64,Export
+2024,11,Nov,"Beverages, Spirits, Vinegar",Litres,45956.0,62812.88,Export
+2024,11,Nov,Spices,Kgs,23285.5,46127.92,Export
+2024,11,Nov,Macadamia Nuts,Kgs,50355.5,34090.36,Export
+2024,11,Nov,Rice,Kgs,33020.0,33088.79,Export
+2024,11,Nov,Soya Beans,Kgs,37603.0,25765.48,Export
+2024,11,Nov,Wooden Furniture,Kgs,52762.0,14172.5,Export
+2024,11,Nov,Fish,Kgs,5076.0,8413.6,Export
+2024,11,Nov,Apparel Clothing: Not Knitted or Crocheted,No,1200.0,970.95,Export
+2024,11,Nov,Apparel Clothing: Knitted or Crocheted,No,39.0,55.98,Export
+2024,11,Nov,Cotton,Kgs,0.0,0.0,Export
+2024,11,Nov,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2024,11,Nov,Coconut,Kgs,0.0,0.0,Export
+2024,12,Dec,Tobacco,Kgs,8640655.5,39740632.17,Export
+2024,12,Dec,Other Exports,,0.0,11976455.21,Export
+2024,12,Dec,Tea,Kgs,3156261.5,4814574.19,Export
+2024,12,Dec,Groundnuts,Kgs,2296470.0,2710730.67,Export
+2024,12,Dec,Pulses,Kgs,1840300.0,1807372.27,Export
+2024,12,Dec,Sugar,Kgs,1256012.0,966826.55,Export
+2024,12,Dec,Scrap Metal,Kgs,2798350.0,716057.53,Export
+2024,12,Dec,Plastics and Other Articles Thereof,Kgs,367360.76,704228.78,Export
+2024,12,Dec,Coffee,Kgs,97900.3,379103.84,Export
+2024,12,Dec,Woven Fabric,Kgs,169558.9,293850.63,Export
+2024,12,Dec,Wood Sawn and Plied,Kgs,323572.0,175260.77,Export
+2024,12,Dec,"Beverages, Spirits, Vinegar",Litres,46214.0,66645.12,Export
+2024,12,Dec,Natural Rubber,Kgs,27720.0,57657.6,Export
+2024,12,Dec,Wooden Furniture,Kgs,38150.0,47168.69,Export
+2024,12,Dec,Spices,Kgs,12809.5,45093.05,Export
+2024,12,Dec,Rice,Kgs,33972.0,34081.93,Export
+2024,12,Dec,Fish,Kgs,6663.0,21133.63,Export
+2024,12,Dec,Live Trees and Flowers,Kgs,16000.0,10685.27,Export
+2024,12,Dec,Cotton,Kgs,40.0,78.67,Export
+2024,12,Dec,Macadamia Nuts,Kgs,2.5,40.3,Export
+2024,12,Dec,Apparel Clothing: Knitted or Crocheted,No,6.5,12.57,Export
+2024,12,Dec,Apparel Clothing: Not Knitted or Crocheted,No,4.5,6.0,Export
+2024,12,Dec,Soya Beans,Kgs,4.0,2.0,Export
+2024,12,Dec,Skins and Hides,Kgs,0.0,0.0,Export
+2024,12,Dec,Coconut,Kgs,0.0,0.0,Export
+2025,1,Jan,Other Exports,,0.0,68697436.21,Export
+2025,1,Jan,Tobacco,Kgs,10003159.65,45234611.32,Export
+2025,1,Jan,Tea,Kgs,3556835.9,5545145.46,Export
+2025,1,Jan,Pulses,Kgs,2305174.0,1984806.0,Export
+2025,1,Jan,Groundnuts,Kgs,1310534.0,1630772.33,Export
+2025,1,Jan,Sugar,Kgs,1050000.5,708664.99,Export
+2025,1,Jan,Scrap Metal,Kgs,2253359.6,609479.41,Export
+2025,1,Jan,Macadamia Nuts,Kgs,83234.5,513469.78,Export
+2025,1,Jan,Natural Rubber,Kgs,222040.0,493278.6,Export
+2025,1,Jan,Coffee,Kgs,108643.5,449432.95,Export
+2025,1,Jan,Plastics and Other Articles Thereof,Kgs,202209.49,396212.25,Export
+2025,1,Jan,"Beverages, Spirits, Vinegar",Litres,260089.0,382459.31,Export
+2025,1,Jan,Rice,Kgs,37725.0,38331.09,Export
+2025,1,Jan,Live Trees and Flowers,Kgs,12000.0,12556.98,Export
+2025,1,Jan,Wooden Furniture,Kgs,20778.5,11435.38,Export
+2025,1,Jan,Fish,Kgs,3131.0,2944.76,Export
+2025,1,Jan,Apparel Clothing: Knitted or Crocheted,No,1541.0,2110.43,Export
+2025,1,Jan,Apparel Clothing: Not Knitted or Crocheted,No,2057.5,1812.08,Export
+2025,1,Jan,Spices,Kgs,11876.5,1788.18,Export
+2025,1,Jan,Woven Fabric,Kgs,40.0,900.0,Export
+2025,1,Jan,Wood Sawn and Plied,Kgs,6000.0,228.44,Export
+2025,1,Jan,Soya Beans,Kgs,1.0,11.42,Export
+2025,1,Jan,Coconut,Kgs,0.3,2.56,Export
+2025,1,Jan,Cotton,Kgs,0.0,0.0,Export
+2025,1,Jan,Skins and Hides,Kgs,0.0,0.0,Export
+2025,2,Feb,Tobacco,Kgs,3038333.9,11269559.75,Export
+2025,2,Feb,Tea,Kgs,3919204.5,6162216.19,Export
+2025,2,Feb,Other Exports,,0.0,5732472.32,Export
+2025,2,Feb,Pulses,Kgs,4453066.0,2601232.24,Export
+2025,2,Feb,Macadamia Nuts,Kgs,382232.5,1789193.27,Export
+2025,2,Feb,Sugar,Kgs,1980004.0,1518082.95,Export
+2025,2,Feb,Groundnuts,Kgs,1070520.0,1250775.58,Export
+2025,2,Feb,Plastics and Other Articles Thereof,Kgs,248745.5,546645.12,Export
+2025,2,Feb,Wood Sawn and Plied,Kgs,1159885.75,534658.43,Export
+2025,2,Feb,Natural Rubber,Kgs,224035.0,492877.0,Export
+2025,2,Feb,Scrap Metal,Kgs,1923500.0,480901.79,Export
+2025,2,Feb,"Beverages, Spirits, Vinegar",Litres,461054.5,137058.18,Export
+2025,2,Feb,Wooden Furniture,Kgs,44275.0,33082.88,Export
+2025,2,Feb,Soya Beans,Kgs,30140.0,9368.4,Export
+2025,2,Feb,Coffee,Kgs,7102.01,6476.17,Export
+2025,2,Feb,Fish,Kgs,3074.0,4578.34,Export
+2025,2,Feb,Spices,Kgs,8994.5,1878.46,Export
+2025,2,Feb,Apparel Clothing: Not Knitted or Crocheted,No,2819.0,1442.85,Export
+2025,2,Feb,Rice,Kgs,1556.0,651.06,Export
+2025,2,Feb,Live Trees and Flowers,Kgs,302.0,245.57,Export
+2025,2,Feb,Apparel Clothing: Knitted or Crocheted,No,46.0,203.67,Export
+2025,2,Feb,Cotton,Kgs,60.0,57.11,Export
+2025,2,Feb,Skins and Hides,Kgs,0.0,0.0,Export
+2025,2,Feb,Woven Fabric,Kgs,0.0,0.0,Export
+2025,2,Feb,Coconut,Kgs,0.0,0.0,Export
+2025,3,Mar,Tea,Kgs,4671110.5,7234499.52,Export
+2025,3,Mar,Other Exports,,0.0,5848900.97,Export
+2025,3,Mar,Macadamia Nuts,Kgs,722394.68,4453732.67,Export
+2025,3,Mar,Pulses,Kgs,4953134.5,3713491.87,Export
+2025,3,Mar,Sugar,Kgs,3877442.4,3414163.28,Export
+2025,3,Mar,Tobacco,Kgs,823503.6,3032588.97,Export
+2025,3,Mar,Groundnuts,Kgs,1299435.0,1465960.13,Export
+2025,3,Mar,Plastics and Other Articles Thereof,Kgs,387947.26,431554.12,Export
+2025,3,Mar,Scrap Metal,Kgs,677784.0,231825.29,Export
+2025,3,Mar,Natural Rubber,Kgs,55720.0,140883.47,Export
+2025,3,Mar,Wooden Furniture,Kgs,21804.0,28725.01,Export
+2025,3,Mar,Fish,Kgs,5415.5,17042.6,Export
+2025,3,Mar,Coffee,Kgs,26821.0,17034.57,Export
+2025,3,Mar,"Beverages, Spirits, Vinegar",Litres,29003.9,5160.82,Export
+2025,3,Mar,Skins and Hides,Kgs,125000.0,5000.25,Export
+2025,3,Mar,Soya Beans,Kgs,16510.0,4456.56,Export
+2025,3,Mar,Apparel Clothing: Knitted or Crocheted,No,2154.0,1715.05,Export
+2025,3,Mar,Woven Fabric,Kgs,219.0,1490.07,Export
+2025,3,Mar,Apparel Clothing: Not Knitted or Crocheted,No,1285.25,1139.37,Export
+2025,3,Mar,Rice,Kgs,1331.5,376.09,Export
+2025,3,Mar,Spices,Kgs,879.0,239.73,Export
+2025,3,Mar,Cotton,Kgs,0.0,0.0,Export
+2025,3,Mar,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2025,3,Mar,Wood Sawn and Plied,Kgs,0.0,0.0,Export
+2025,3,Mar,Coconut,Kgs,0.0,0.0,Export
+2025,4,Apr,Tea,Kgs,4388931.0,6732016.43,Export
+2025,4,Apr,Other Exports,,0.0,6592424.51,Export
+2025,4,Apr,Tobacco,Kgs,865770.9,3415693.41,Export
+2025,4,Apr,Macadamia Nuts,Kgs,574396.54,3251570.84,Export
+2025,4,Apr,Pulses,Kgs,1965250.0,1591439.02,Export
+2025,4,Apr,Groundnuts,Kgs,1260750.0,1358092.69,Export
+2025,4,Apr,Sugar,Kgs,1235094.9,813448.22,Export
+2025,4,Apr,Natural Rubber,Kgs,380380.0,707583.59,Export
+2025,4,Apr,Wood Sawn and Plied,Kgs,290030.0,526412.66,Export
+2025,4,Apr,Plastics and Other Articles Thereof,Kgs,143737.88,473609.77,Export
+2025,4,Apr,Scrap Metal,Kgs,1356060.0,237318.38,Export
+2025,4,Apr,"Beverages, Spirits, Vinegar",Litres,78138.0,194395.67,Export
+2025,4,Apr,Fish,Kgs,6790.5,8673.43,Export
+2025,4,Apr,Rice,Kgs,24515.0,8031.45,Export
+2025,4,Apr,Soya Beans,Kgs,11000.0,7407.67,Export
+2025,4,Apr,Wooden Furniture,Kgs,17974.0,7314.59,Export
+2025,4,Apr,Apparel Clothing: Not Knitted or Crocheted,No,1330.9,872.16,Export
+2025,4,Apr,Spices,Kgs,496.0,179.45,Export
+2025,4,Apr,Coffee,Kgs,22.5,8.57,Export
+2025,4,Apr,Apparel Clothing: Knitted or Crocheted,No,2.5,6.28,Export
+2025,4,Apr,Cotton,Kgs,0.0,0.0,Export
+2025,4,Apr,Skins and Hides,Kgs,0.0,0.0,Export
+2025,4,Apr,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2025,4,Apr,Woven Fabric,Kgs,0.0,0.0,Export
+2025,4,Apr,Coconut,Kgs,0.0,0.0,Export
+2025,5,May,Tobacco,Kgs,2207522.0,10747446.19,Export
+2025,5,May,Tea,Kgs,5199572.5,7589991.79,Export
+2025,5,May,Other Exports,,0.0,7240891.59,Export
+2025,5,May,Macadamia Nuts,Kgs,561581.52,3293235.31,Export
+2025,5,May,Pulses,Kgs,1623130.0,1581178.04,Export
+2025,5,May,Sugar,Kgs,1440945.5,1092869.37,Export
+2025,5,May,Groundnuts,Kgs,878000.0,1001924.79,Export
+2025,5,May,Plastics and Other Articles Thereof,Kgs,374851.31,671625.38,Export
+2025,5,May,Natural Rubber,Kgs,277480.0,550241.38,Export
+2025,5,May,Cotton,Kgs,179945.134,324292.36,Export
+2025,5,May,Scrap Metal,Kgs,1490094.0,292902.7,Export
+2025,5,May,Spices,Kgs,16295.0,164190.69,Export
+2025,5,May,"Beverages, Spirits, Vinegar",Litres,18196.0,26691.43,Export
+2025,5,May,Fish,Kgs,6773.5,16679.05,Export
+2025,5,May,Wooden Furniture,Kgs,9537.0,7837.18,Export
+2025,5,May,Soya Beans,Kgs,8002.3,4399.14,Export
+2025,5,May,Coffee,Kgs,1062.7,2635.25,Export
+2025,5,May,Apparel Clothing: Not Knitted or Crocheted,No,548.4,798.64,Export
+2025,5,May,Apparel Clothing: Knitted or Crocheted,No,220.0,208.53,Export
+2025,5,May,Live Trees and Flowers,Kgs,300.0,34.28,Export
+2025,5,May,Rice,Kgs,8.0,5.71,Export
+2025,5,May,Skins and Hides,Kgs,0.0,0.0,Export
+2025,5,May,Wood Sawn and Plied,Kgs,0.0,0.0,Export
+2025,5,May,Woven Fabric,Kgs,0.0,0.0,Export
+2025,5,May,Coconut,Kgs,0.0,0.0,Export
+2025,6,Jun,Tobacco,Kgs,10737962.4,52227119.38,Export
+2025,6,Jun,Other Exports,,0.0,7009145.35,Export
+2025,6,Jun,Tea,Kgs,3591061.5,5191519.72,Export
+2025,6,Jun,Macadamia Nuts,Kgs,571216.22,4118900.43,Export
+2025,6,Jun,Pulses,Kgs,3978065.5,2117002.54,Export
+2025,6,Jun,Natural Rubber,Kgs,362915.0,700972.87,Export
+2025,6,Jun,Groundnuts,Kgs,596150.0,638919.83,Export
+2025,6,Jun,Plastics and Other Articles Thereof,Kgs,451964.24,621224.13,Export
+2025,6,Jun,Scrap Metal,Kgs,908902.655,337970.94,Export
+2025,6,Jun,Cotton,Kgs,200.0,235794.48,Export
+2025,6,Jun,Spices,Kgs,37104.0,223050.79,Export
+2025,6,Jun,"Beverages, Spirits, Vinegar",Litres,54219.0,100815.32,Export
+2025,6,Jun,Fish,Kgs,5610.0,16154.95,Export
+2025,6,Jun,Wooden Furniture,Kgs,22076.0,13070.42,Export
+2025,6,Jun,Coffee,Kgs,812.0,1587.62,Export
+2025,6,Jun,Apparel Clothing: Not Knitted or Crocheted,No,2471.0,1516.71,Export
+2025,6,Jun,Rice,Kgs,300.0,82.81,Export
+2025,6,Jun,Live Trees and Flowers,Kgs,1.5,17.13,Export
+2025,6,Jun,Sugar,Kgs,3.5,13.7,Export
+2025,6,Jun,Soya Beans,Kgs,0.0,0.0,Export
+2025,6,Jun,Skins and Hides,Kgs,0.0,0.0,Export
+2025,6,Jun,Wood Sawn and Plied,Kgs,0.0,0.0,Export
+2025,6,Jun,Woven Fabric,Kgs,0.0,0.0,Export
+2025,6,Jun,Apparel Clothing: Knitted or Crocheted,No,0.0,0.0,Export
+2025,6,Jun,Coconut,Kgs,0.0,0.0,Export
+2025,7,Jul,Tobacco,Kgs,16599070.1,86606357.89,Export
+2025,7,Jul,Other Exports,,0.0,8341882.79,Export
+2025,7,Jul,Tea,Kgs,4805664.0,6623158.29,Export
+2025,7,Jul,Pulses,Kgs,8469027.0,5793765.06,Export
+2025,7,Jul,Macadamia Nuts,Kgs,514866.34,3593913.79,Export
+2025,7,Jul,Groundnuts,Kgs,1863500.0,2156045.87,Export
+2025,7,Jul,Wood Sawn and Plied,Kgs,2353102.55,1338009.52,Export
+2025,7,Jul,Cotton,Kgs,247850.0,769955.38,Export
+2025,7,Jul,Plastics and Other Articles Thereof,Kgs,531771.24,760212.03,Export
+2025,7,Jul,Natural Rubber,Kgs,249760.0,466780.9,Export
+2025,7,Jul,Scrap Metal,Kgs,723436.55,282713.03,Export
+2025,7,Jul,"Beverages, Spirits, Vinegar",Litres,63353.0,94330.67,Export
+2025,7,Jul,Spices,Kgs,66470.0,65558.2,Export
+2025,7,Jul,Wooden Furniture,Kgs,53602.15,45020.39,Export
+2025,7,Jul,Apparel Clothing: Not Knitted or Crocheted,No,20885.92,41508.92,Export
+2025,7,Jul,Apparel Clothing: Knitted or Crocheted,No,16584.42,34526.18,Export
+2025,7,Jul,Fish,Kgs,7437.5,11248.5,Export
+2025,7,Jul,Soya Beans,Kgs,11015.5,5017.17,Export
+2025,7,Jul,Rice,Kgs,3905.0,247.0,Export
+2025,7,Jul,Sugar,Kgs,54.0,70.67,Export
+2025,7,Jul,Live Trees and Flowers,Kgs,7.0,17.13,Export
+2025,7,Jul,Woven Fabric,Kgs,10.0,10.0,Export
+2025,7,Jul,Coffee,Kgs,2.0,4.57,Export
+2025,7,Jul,Skins and Hides,Kgs,0.0,0.0,Export
+2025,7,Jul,Coconut,Kgs,0.0,0.0,Export
+2025,8,Aug,Tobacco,Kgs,16202741.0,75834073.49,Export
+2025,8,Aug,Pulses,Kgs,11899319.5,9256558.84,Export
+2025,8,Aug,Other Exports,,0.0,8624508.56000001,Export
+2025,8,Aug,Tea,Kgs,3690341.1,5403114.56,Export
+2025,8,Aug,Sugar,Kgs,6482365.0,4370084.08,Export
+2025,8,Aug,Macadamia Nuts,Kgs,443769.92,3424731.14,Export
+2025,8,Aug,Cotton,Kgs,297316.75,866250.3,Export
+2025,8,Aug,Wood Sawn and Plied,Kgs,1889598.75,828245.82,Export
+2025,8,Aug,Plastics and Other Articles Thereof,Kgs,492433.18,661714.97,Export
+2025,8,Aug,Soya Beans,Kgs,832000.0,574079.48,Export
+2025,8,Aug,Natural Rubber,Kgs,272335.0,518305.97,Export
+2025,8,Aug,Groundnuts,Kgs,390170.0,491416.74,Export
+2025,8,Aug,"Beverages, Spirits, Vinegar",Litres,217242.0,319022.98,Export
+2025,8,Aug,Spices,Kgs,51481.7,220117.13,Export
+2025,8,Aug,Scrap Metal,Kgs,78232.49,186960.58,Export
+2025,8,Aug,Apparel Clothing: Knitted or Crocheted,No,16592.0,54543.02,Export
+2025,8,Aug,Woven Fabric,Kgs,2269.0,21179.98,Export
+2025,8,Aug,Fish,Kgs,7088.5,16755.6,Export
+2025,8,Aug,Live Trees and Flowers,Kgs,12032.5,14707.98,Export
+2025,8,Aug,Wooden Furniture,Kgs,28264.0,12817.71,Export
+2025,8,Aug,Apparel Clothing: Not Knitted or Crocheted,No,1061.0,2875.93,Export
+2025,8,Aug,Rice,Kgs,470.0,40.36,Export
+2025,8,Aug,Coffee,Kgs,0.5,4.61,Export
+2025,8,Aug,Skins and Hides,Kgs,0.0,0.0,Export
+2025,8,Aug,Coconut,Kgs,0.0,0.0,Export
+2025,9,Sep,Tobacco,Kgs,18617261.8,94099742.0,Export
+2025,9,Sep,Other Exports,,0.0,28466967.24,Export
+2025,9,Sep,Sugar,Kgs,7626313.0,5265519.92,Export
+2025,9,Sep,Tea,Kgs,2782141.0,3903571.56,Export
+2025,9,Sep,Macadamia Nuts,Kgs,217697.84,2074153.86,Export
+2025,9,Sep,Pulses,Kgs,1394000.0,723869.38,Export
+2025,9,Sep,Plastics and Other Articles Thereof,Kgs,464944.392,682553.92,Export
+2025,9,Sep,Wood Sawn and Plied,Kgs,1385717.6,603345.24,Export
+2025,9,Sep,Groundnuts,Kgs,300000.0,347594.2,Export
+2025,9,Sep,Natural Rubber,Kgs,166600.0,329879.33,Export
+2025,9,Sep,Scrap Metal,Kgs,1761810.5,307303.02,Export
+2025,9,Sep,Spices,Kgs,16028.5,121914.28,Export
+2025,9,Sep,"Beverages, Spirits, Vinegar",Litres,563798.3,119086.34,Export
+2025,9,Sep,Soya Beans,Kgs,160000.0,109328.8,Export
+2025,9,Sep,Fish,Kgs,6986.5,16411.56,Export
+2025,9,Sep,Wooden Furniture,Kgs,22015.0,9668.53,Export
+2025,9,Sep,Apparel Clothing: Knitted or Crocheted,No,503.0,590.5,Export
+2025,9,Sep,Coffee,Kgs,12.0,68.53,Export
+2025,9,Sep,Cotton,Kgs,0.0,0.0,Export
+2025,9,Sep,Rice,Kgs,0.0,0.0,Export
+2025,9,Sep,Skins and Hides,Kgs,0.0,0.0,Export
+2025,9,Sep,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2025,9,Sep,Woven Fabric,Kgs,0.0,0.0,Export
+2025,9,Sep,Apparel Clothing: Not Knitted or Crocheted,No,0.0,0.0,Export
+2025,9,Sep,Coconut,Kgs,0.0,0.0,Export
+2025,10,Oct,Tobacco,Kgs,11686589.6,55484666.38,Export
+2025,10,Oct,Other Exports,,0.0,17095998.04,Export
+2025,10,Oct,Sugar,Kgs,6211489.0,4306116.64,Export
+2025,10,Oct,Tea,Kgs,3046333.2,3897191.04,Export
+2025,10,Oct,Macadamia Nuts,Kgs,120494.0,1327004.57,Export
+2025,10,Oct,Pulses,Kgs,2223003.0,1311833.76,Export
+2025,10,Oct,Plastics and Other Articles Thereof,Kgs,507686.34,1004904.48,Export
+2025,10,Oct,Groundnuts,Kgs,814000.0,863265.51,Export
+2025,10,Oct,Wood Sawn and Plied,Kgs,1830759.95,810854.8,Export
+2025,10,Oct,Coffee,Kgs,58415.0,402083.05,Export
+2025,10,Oct,Scrap Metal,Kgs,1245202.5,270537.37,Export
+2025,10,Oct,Natural Rubber,Kgs,75740.0,157878.1,Export
+2025,10,Oct,"Beverages, Spirits, Vinegar",Litres,306062.0,125477.53,Export
+2025,10,Oct,Wooden Furniture,Kgs,46511.0,35119.86,Export
+2025,10,Oct,Apparel Clothing: Knitted or Crocheted,No,2415.2,18590.64,Export
+2025,10,Oct,Fish,Kgs,5242.5,8219.62,Export
+2025,10,Oct,Apparel Clothing: Not Knitted or Crocheted,No,1367.65,5570.04,Export
+2025,10,Oct,Spices,Kgs,23255.0,3015.2,Export
+2025,10,Oct,Rice,Kgs,1083.0,2676.53,Export
+2025,10,Oct,Live Trees and Flowers,Kgs,3000.0,1000.0,Export
+2025,10,Oct,Cotton,Kgs,0.0,0.0,Export
+2025,10,Oct,Soya Beans,Kgs,0.0,0.0,Export
+2025,10,Oct,Skins and Hides,Kgs,0.0,0.0,Export
+2025,10,Oct,Woven Fabric,Kgs,0.0,0.0,Export
+2025,10,Oct,Coconut,Kgs,0.0,0.0,Export
+2025,11,Nov,Tobacco,Kgs,16790173.15,67178930.42,Export
+2025,11,Nov,Other Exports,,0.0,29778978.49,Export
+2025,11,Nov,Tea,Kgs,2868815.0,3860747.54,Export
+2025,11,Nov,Pulses,Kgs,4713655.0,2806977.26,Export
+2025,11,Nov,Sugar,Kgs,2726019.0,1629195.52,Export
+2025,11,Nov,Wood Sawn and Plied,Kgs,1962589.5,885892.94,Export
+2025,11,Nov,Plastics and Other Articles Thereof,Kgs,400533.053,647741.33,Export
+2025,11,Nov,Scrap Metal,Kgs,1290945.59,607947.45,Export
+2025,11,Nov,Coffee,Kgs,69960.0,481987.75,Export
+2025,11,Nov,"Beverages, Spirits, Vinegar",Litres,276955.0,422783.11,Export
+2025,11,Nov,Macadamia Nuts,Kgs,66109.5,388673.52,Export
+2025,11,Nov,Groundnuts,Kgs,247500.0,266429.07,Export
+2025,11,Nov,Soya Beans,Kgs,320000.0,218816.7,Export
+2025,11,Nov,Spices,Kgs,18826.0,83759.06,Export
+2025,11,Nov,Live Trees and Flowers,Kgs,81250.0,48560.11,Export
+2025,11,Nov,Natural Rubber,Kgs,18445.0,40214.5,Export
+2025,11,Nov,Fish,Kgs,8839.0,13133.14,Export
+2025,11,Nov,Wooden Furniture,Kgs,48581.0,10197.18,Export
+2025,11,Nov,Apparel Clothing: Knitted or Crocheted,No,29.0,157.38,Export
+2025,11,Nov,Apparel Clothing: Not Knitted or Crocheted,No,45.0,68.59,Export
+2025,11,Nov,Cotton,Kgs,0.0,0.0,Export
+2025,11,Nov,Rice,Kgs,0.0,0.0,Export
+2025,11,Nov,Skins and Hides,Kgs,0.0,0.0,Export
+2025,11,Nov,Woven Fabric,Kgs,0.0,0.0,Export
+2025,11,Nov,Coconut,Kgs,0.0,0.0,Export
+2025,12,Dec,Tobacco,Kgs,11644877.0,43882894.83,Export
+2025,12,Dec,Other Exports,,0.0,9172838.61,Export
+2025,12,Dec,Tea,Kgs,1965299.0,2552665.0,Export
+2025,12,Dec,Sugar,Kgs,3290367.0,1996272.0,Export
+2025,12,Dec,Pulses,Kgs,1890000.0,946734.9,Export
+2025,12,Dec,Wood Sawn and Plied,Kgs,1413335.0,631167.0,Export
+2025,12,Dec,Coffee,Kgs,83604.0,368100.6,Export
+2025,12,Dec,Scrap Metal,Kgs,1204592.0,268375.0,Export
+2025,12,Dec,"Beverages, Spirits, Vinegar",Litres,1286862.0,253725.0,Export
+2025,12,Dec,Cotton,Kgs,188991.0,241436.0,Export
+2025,12,Dec,Soya Beans,Kgs,252000.0,221702.2,Export
+2025,12,Dec,Groundnuts,Kgs,240000.0,221308.2,Export
+2025,12,Dec,Spices,Kgs,42677.0,64742.0,Export
+2025,12,Dec,Fish,Kgs,6592.0,11098.61,Export
+2025,12,Dec,Live Trees and Flowers,Kgs,12000.0,10151.0,Export
+2025,12,Dec,Wooden Furniture,Kgs,58323.0,10045.87,Export
+2025,12,Dec,Apparel Clothing: Knitted or Crocheted,No,11516.0,3306.0,Export
+2025,12,Dec,Macadamia Nuts,Kgs,2.0,11.0,Export
+2025,12,Dec,Rice,Kgs,0.0,0.0,Export
+2025,12,Dec,Skins and Hides,Kgs,0.0,0.0,Export
+2025,12,Dec,Plastics and Other Articles Thereof,Kgs,0.0,0.0,Export
+2025,12,Dec,Natural Rubber,Kgs,0.0,0.0,Export
+2025,12,Dec,Woven Fabric,Kgs,0.0,0.0,Export
+2025,12,Dec,Apparel Clothing: Not Knitted or Crocheted,No,0.0,0.0,Export
+2025,12,Dec,Coconut,Kgs,0.0,0.0,Export
+2026,1,Jan,Tobacco,Kgs,10800048.0,35790160.13,Export
+2026,1,Jan,Other Exports,,0.0,8859612.82,Export
+2026,1,Jan,Pulses,Kgs,4428354.6,3314660.37,Export
+2026,1,Jan,Tea,Kgs,2179594.0,2970992.7,Export
+2026,1,Jan,Groundnuts,Kgs,690015.0,791611.54,Export
+2026,1,Jan,Plastics and Other Articles Thereof,Kgs,315536.146,634735.27,Export
+2026,1,Jan,Macadamia Nuts,Kgs,162671.7,503601.62,Export
+2026,1,Jan,Natural Rubber,Kgs,141435.0,305163.44,Export
+2026,1,Jan,Scrap Metal,Kgs,865113.0,290147.15,Export
+2026,1,Jan,Coffee,Kgs,57670.0,270702.64,Export
+2026,1,Jan,Sugar,Kgs,261319.2,196195.12,Export
+2026,1,Jan,"Beverages, Spirits, Vinegar",Litres,53682.0,109944.17,Export
+2026,1,Jan,Apparel Clothing: Knitted or Crocheted,No,11719.1,34274.85,Export
+2026,1,Jan,Fish,Kgs,7796.0,8663.98,Export
+2026,1,Jan,Wooden Furniture,Kgs,17227.0,6865.35,Export
+2026,1,Jan,Apparel Clothing: Not Knitted or Crocheted,No,1257.05,5476.59,Export
+2026,1,Jan,Skins and Hides,Kgs,6580.0,3451.63,Export
+2026,1,Jan,Spices,Kgs,8365.0,2143.32,Export
+2026,1,Jan,Rice,Kgs,5.0,65.19,Export
+2026,1,Jan,Soya Beans,Kgs,0.5,5.71,Export
+2026,1,Jan,Cotton,Kgs,0.0,0.0,Export
+2026,1,Jan,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2026,1,Jan,Wood Sawn and Plied,Kgs,0.0,0.0,Export
+2026,1,Jan,Woven Fabric,Kgs,0.0,0.0,Export
+2026,1,Jan,Coconut,Kgs,0.0,0.0,Export
+2026,2,Feb,Tea,Kgs,0.0,0.0,Export
+2026,2,Feb,Tobacco,Kgs,0.0,0.0,Export
+2026,2,Feb,Cotton,Kgs,0.0,0.0,Export
+2026,2,Feb,Sugar,Kgs,0.0,0.0,Export
+2026,2,Feb,Soya Beans,Kgs,0.0,0.0,Export
+2026,2,Feb,Pulses,Kgs,0.0,0.0,Export
+2026,2,Feb,Rice,Kgs,0.0,0.0,Export
+2026,2,Feb,Coffee,Kgs,0.0,0.0,Export
+2026,2,Feb,Skins and Hides,Kgs,0.0,0.0,Export
+2026,2,Feb,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2026,2,Feb,Groundnuts,Kgs,0.0,0.0,Export
+2026,2,Feb,Plastics and Other Articles Thereof,Kgs,0.0,0.0,Export
+2026,2,Feb,Macadamia Nuts,Kgs,0.0,0.0,Export
+2026,2,Feb,Spices,Kgs,0.0,0.0,Export
+2026,2,Feb,"Beverages, Spirits, Vinegar",Litres,0.0,0.0,Export
+2026,2,Feb,Natural Rubber,Kgs,0.0,0.0,Export
+2026,2,Feb,Wood Sawn and Plied,Kgs,0.0,0.0,Export
+2026,2,Feb,Woven Fabric,Kgs,0.0,0.0,Export
+2026,2,Feb,Apparel Clothing: Knitted or Crocheted,No,0.0,0.0,Export
+2026,2,Feb,Apparel Clothing: Not Knitted or Crocheted,No,0.0,0.0,Export
+2026,2,Feb,Fish,Kgs,0.0,0.0,Export
+2026,2,Feb,Coconut,Kgs,0.0,0.0,Export
+2026,2,Feb,Scrap Metal,Kgs,0.0,0.0,Export
+2026,2,Feb,Wooden Furniture,Kgs,0.0,0.0,Export
+2026,2,Feb,Other Exports,,0.0,0.0,Export
+2026,3,Mar,Tea,Kgs,0.0,0.0,Export
+2026,3,Mar,Tobacco,Kgs,0.0,0.0,Export
+2026,3,Mar,Cotton,Kgs,0.0,0.0,Export
+2026,3,Mar,Sugar,Kgs,0.0,0.0,Export
+2026,3,Mar,Soya Beans,Kgs,0.0,0.0,Export
+2026,3,Mar,Pulses,Kgs,0.0,0.0,Export
+2026,3,Mar,Rice,Kgs,0.0,0.0,Export
+2026,3,Mar,Coffee,Kgs,0.0,0.0,Export
+2026,3,Mar,Skins and Hides,Kgs,0.0,0.0,Export
+2026,3,Mar,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2026,3,Mar,Groundnuts,Kgs,0.0,0.0,Export
+2026,3,Mar,Plastics and Other Articles Thereof,Kgs,0.0,0.0,Export
+2026,3,Mar,Macadamia Nuts,Kgs,0.0,0.0,Export
+2026,3,Mar,Spices,Kgs,0.0,0.0,Export
+2026,3,Mar,"Beverages, Spirits, Vinegar",Litres,0.0,0.0,Export
+2026,3,Mar,Natural Rubber,Kgs,0.0,0.0,Export
+2026,3,Mar,Wood Sawn and Plied,Kgs,0.0,0.0,Export
+2026,3,Mar,Woven Fabric,Kgs,0.0,0.0,Export
+2026,3,Mar,Apparel Clothing: Knitted or Crocheted,No,0.0,0.0,Export
+2026,3,Mar,Apparel Clothing: Not Knitted or Crocheted,No,0.0,0.0,Export
+2026,3,Mar,Fish,Kgs,0.0,0.0,Export
+2026,3,Mar,Coconut,Kgs,0.0,0.0,Export
+2026,3,Mar,Scrap Metal,Kgs,0.0,0.0,Export
+2026,3,Mar,Wooden Furniture,Kgs,0.0,0.0,Export
+2026,3,Mar,Other Exports,,0.0,0.0,Export
+2026,4,Apr,Tea,Kgs,0.0,0.0,Export
+2026,4,Apr,Tobacco,Kgs,0.0,0.0,Export
+2026,4,Apr,Cotton,Kgs,0.0,0.0,Export
+2026,4,Apr,Sugar,Kgs,0.0,0.0,Export
+2026,4,Apr,Soya Beans,Kgs,0.0,0.0,Export
+2026,4,Apr,Pulses,Kgs,0.0,0.0,Export
+2026,4,Apr,Rice,Kgs,0.0,0.0,Export
+2026,4,Apr,Coffee,Kgs,0.0,0.0,Export
+2026,4,Apr,Skins and Hides,Kgs,0.0,0.0,Export
+2026,4,Apr,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2026,4,Apr,Groundnuts,Kgs,0.0,0.0,Export
+2026,4,Apr,Plastics and Other Articles Thereof,Kgs,0.0,0.0,Export
+2026,4,Apr,Macadamia Nuts,Kgs,0.0,0.0,Export
+2026,4,Apr,Spices,Kgs,0.0,0.0,Export
+2026,4,Apr,"Beverages, Spirits, Vinegar",Litres,0.0,0.0,Export
+2026,4,Apr,Natural Rubber,Kgs,0.0,0.0,Export
+2026,4,Apr,Wood Sawn and Plied,Kgs,0.0,0.0,Export
+2026,4,Apr,Woven Fabric,Kgs,0.0,0.0,Export
+2026,4,Apr,Apparel Clothing: Knitted or Crocheted,No,0.0,0.0,Export
+2026,4,Apr,Apparel Clothing: Not Knitted or Crocheted,No,0.0,0.0,Export
+2026,4,Apr,Fish,Kgs,0.0,0.0,Export
+2026,4,Apr,Coconut,Kgs,0.0,0.0,Export
+2026,4,Apr,Scrap Metal,Kgs,0.0,0.0,Export
+2026,4,Apr,Wooden Furniture,Kgs,0.0,0.0,Export
+2026,4,Apr,Other Exports,,0.0,0.0,Export
+2026,5,May,Tea,Kgs,0.0,0.0,Export
+2026,5,May,Tobacco,Kgs,0.0,0.0,Export
+2026,5,May,Cotton,Kgs,0.0,0.0,Export
+2026,5,May,Sugar,Kgs,0.0,0.0,Export
+2026,5,May,Soya Beans,Kgs,0.0,0.0,Export
+2026,5,May,Pulses,Kgs,0.0,0.0,Export
+2026,5,May,Rice,Kgs,0.0,0.0,Export
+2026,5,May,Coffee,Kgs,0.0,0.0,Export
+2026,5,May,Skins and Hides,Kgs,0.0,0.0,Export
+2026,5,May,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2026,5,May,Groundnuts,Kgs,0.0,0.0,Export
+2026,5,May,Plastics and Other Articles Thereof,Kgs,0.0,0.0,Export
+2026,5,May,Macadamia Nuts,Kgs,0.0,0.0,Export
+2026,5,May,Spices,Kgs,0.0,0.0,Export
+2026,5,May,"Beverages, Spirits, Vinegar",Litres,0.0,0.0,Export
+2026,5,May,Natural Rubber,Kgs,0.0,0.0,Export
+2026,5,May,Wood Sawn and Plied,Kgs,0.0,0.0,Export
+2026,5,May,Woven Fabric,Kgs,0.0,0.0,Export
+2026,5,May,Apparel Clothing: Knitted or Crocheted,No,0.0,0.0,Export
+2026,5,May,Apparel Clothing: Not Knitted or Crocheted,No,0.0,0.0,Export
+2026,5,May,Fish,Kgs,0.0,0.0,Export
+2026,5,May,Coconut,Kgs,0.0,0.0,Export
+2026,5,May,Scrap Metal,Kgs,0.0,0.0,Export
+2026,5,May,Wooden Furniture,Kgs,0.0,0.0,Export
+2026,5,May,Other Exports,,0.0,0.0,Export
+2026,6,Jun,Tea,Kgs,0.0,0.0,Export
+2026,6,Jun,Tobacco,Kgs,0.0,0.0,Export
+2026,6,Jun,Cotton,Kgs,0.0,0.0,Export
+2026,6,Jun,Sugar,Kgs,0.0,0.0,Export
+2026,6,Jun,Soya Beans,Kgs,0.0,0.0,Export
+2026,6,Jun,Pulses,Kgs,0.0,0.0,Export
+2026,6,Jun,Rice,Kgs,0.0,0.0,Export
+2026,6,Jun,Coffee,Kgs,0.0,0.0,Export
+2026,6,Jun,Skins and Hides,Kgs,0.0,0.0,Export
+2026,6,Jun,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2026,6,Jun,Groundnuts,Kgs,0.0,0.0,Export
+2026,6,Jun,Plastics and Other Articles Thereof,Kgs,0.0,0.0,Export
+2026,6,Jun,Macadamia Nuts,Kgs,0.0,0.0,Export
+2026,6,Jun,Spices,Kgs,0.0,0.0,Export
+2026,6,Jun,"Beverages, Spirits, Vinegar",Litres,0.0,0.0,Export
+2026,6,Jun,Natural Rubber,Kgs,0.0,0.0,Export
+2026,6,Jun,Wood Sawn and Plied,Kgs,0.0,0.0,Export
+2026,6,Jun,Woven Fabric,Kgs,0.0,0.0,Export
+2026,6,Jun,Apparel Clothing: Knitted or Crocheted,No,0.0,0.0,Export
+2026,6,Jun,Apparel Clothing: Not Knitted or Crocheted,No,0.0,0.0,Export
+2026,6,Jun,Fish,Kgs,0.0,0.0,Export
+2026,6,Jun,Coconut,Kgs,0.0,0.0,Export
+2026,6,Jun,Scrap Metal,Kgs,0.0,0.0,Export
+2026,6,Jun,Wooden Furniture,Kgs,0.0,0.0,Export
+2026,6,Jun,Other Exports,,0.0,0.0,Export
+2026,7,Jul,Tea,Kgs,0.0,0.0,Export
+2026,7,Jul,Tobacco,Kgs,0.0,0.0,Export
+2026,7,Jul,Cotton,Kgs,0.0,0.0,Export
+2026,7,Jul,Sugar,Kgs,0.0,0.0,Export
+2026,7,Jul,Soya Beans,Kgs,0.0,0.0,Export
+2026,7,Jul,Pulses,Kgs,0.0,0.0,Export
+2026,7,Jul,Rice,Kgs,0.0,0.0,Export
+2026,7,Jul,Coffee,Kgs,0.0,0.0,Export
+2026,7,Jul,Skins and Hides,Kgs,0.0,0.0,Export
+2026,7,Jul,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2026,7,Jul,Groundnuts,Kgs,0.0,0.0,Export
+2026,7,Jul,Plastics and Other Articles Thereof,Kgs,0.0,0.0,Export
+2026,7,Jul,Macadamia Nuts,Kgs,0.0,0.0,Export
+2026,7,Jul,Spices,Kgs,0.0,0.0,Export
+2026,7,Jul,"Beverages, Spirits, Vinegar",Litres,0.0,0.0,Export
+2026,7,Jul,Natural Rubber,Kgs,0.0,0.0,Export
+2026,7,Jul,Wood Sawn and Plied,Kgs,0.0,0.0,Export
+2026,7,Jul,Woven Fabric,Kgs,0.0,0.0,Export
+2026,7,Jul,Apparel Clothing: Knitted or Crocheted,No,0.0,0.0,Export
+2026,7,Jul,Apparel Clothing: Not Knitted or Crocheted,No,0.0,0.0,Export
+2026,7,Jul,Fish,Kgs,0.0,0.0,Export
+2026,7,Jul,Coconut,Kgs,0.0,0.0,Export
+2026,7,Jul,Scrap Metal,Kgs,0.0,0.0,Export
+2026,7,Jul,Wooden Furniture,Kgs,0.0,0.0,Export
+2026,7,Jul,Other Exports,,0.0,0.0,Export
+2026,8,Aug,Tea,Kgs,0.0,0.0,Export
+2026,8,Aug,Tobacco,Kgs,0.0,0.0,Export
+2026,8,Aug,Cotton,Kgs,0.0,0.0,Export
+2026,8,Aug,Sugar,Kgs,0.0,0.0,Export
+2026,8,Aug,Soya Beans,Kgs,0.0,0.0,Export
+2026,8,Aug,Pulses,Kgs,0.0,0.0,Export
+2026,8,Aug,Rice,Kgs,0.0,0.0,Export
+2026,8,Aug,Coffee,Kgs,0.0,0.0,Export
+2026,8,Aug,Skins and Hides,Kgs,0.0,0.0,Export
+2026,8,Aug,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2026,8,Aug,Groundnuts,Kgs,0.0,0.0,Export
+2026,8,Aug,Plastics and Other Articles Thereof,Kgs,0.0,0.0,Export
+2026,8,Aug,Macadamia Nuts,Kgs,0.0,0.0,Export
+2026,8,Aug,Spices,Kgs,0.0,0.0,Export
+2026,8,Aug,"Beverages, Spirits, Vinegar",Litres,0.0,0.0,Export
+2026,8,Aug,Natural Rubber,Kgs,0.0,0.0,Export
+2026,8,Aug,Wood Sawn and Plied,Kgs,0.0,0.0,Export
+2026,8,Aug,Woven Fabric,Kgs,0.0,0.0,Export
+2026,8,Aug,Apparel Clothing: Knitted or Crocheted,No,0.0,0.0,Export
+2026,8,Aug,Apparel Clothing: Not Knitted or Crocheted,No,0.0,0.0,Export
+2026,8,Aug,Fish,Kgs,0.0,0.0,Export
+2026,8,Aug,Coconut,Kgs,0.0,0.0,Export
+2026,8,Aug,Scrap Metal,Kgs,0.0,0.0,Export
+2026,8,Aug,Wooden Furniture,Kgs,0.0,0.0,Export
+2026,8,Aug,Other Exports,,0.0,0.0,Export
+2026,9,Sep,Tea,Kgs,0.0,0.0,Export
+2026,9,Sep,Tobacco,Kgs,0.0,0.0,Export
+2026,9,Sep,Cotton,Kgs,0.0,0.0,Export
+2026,9,Sep,Sugar,Kgs,0.0,0.0,Export
+2026,9,Sep,Soya Beans,Kgs,0.0,0.0,Export
+2026,9,Sep,Pulses,Kgs,0.0,0.0,Export
+2026,9,Sep,Rice,Kgs,0.0,0.0,Export
+2026,9,Sep,Coffee,Kgs,0.0,0.0,Export
+2026,9,Sep,Skins and Hides,Kgs,0.0,0.0,Export
+2026,9,Sep,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2026,9,Sep,Groundnuts,Kgs,0.0,0.0,Export
+2026,9,Sep,Plastics and Other Articles Thereof,Kgs,0.0,0.0,Export
+2026,9,Sep,Macadamia Nuts,Kgs,0.0,0.0,Export
+2026,9,Sep,Spices,Kgs,0.0,0.0,Export
+2026,9,Sep,"Beverages, Spirits, Vinegar",Litres,0.0,0.0,Export
+2026,9,Sep,Natural Rubber,Kgs,0.0,0.0,Export
+2026,9,Sep,Wood Sawn and Plied,Kgs,0.0,0.0,Export
+2026,9,Sep,Woven Fabric,Kgs,0.0,0.0,Export
+2026,9,Sep,Apparel Clothing: Knitted or Crocheted,No,0.0,0.0,Export
+2026,9,Sep,Apparel Clothing: Not Knitted or Crocheted,No,0.0,0.0,Export
+2026,9,Sep,Fish,Kgs,0.0,0.0,Export
+2026,9,Sep,Coconut,Kgs,0.0,0.0,Export
+2026,9,Sep,Scrap Metal,Kgs,0.0,0.0,Export
+2026,9,Sep,Wooden Furniture,Kgs,0.0,0.0,Export
+2026,9,Sep,Other Exports,,0.0,0.0,Export
+2026,10,Oct,Tea,Kgs,0.0,0.0,Export
+2026,10,Oct,Tobacco,Kgs,0.0,0.0,Export
+2026,10,Oct,Cotton,Kgs,0.0,0.0,Export
+2026,10,Oct,Sugar,Kgs,0.0,0.0,Export
+2026,10,Oct,Soya Beans,Kgs,0.0,0.0,Export
+2026,10,Oct,Pulses,Kgs,0.0,0.0,Export
+2026,10,Oct,Rice,Kgs,0.0,0.0,Export
+2026,10,Oct,Coffee,Kgs,0.0,0.0,Export
+2026,10,Oct,Skins and Hides,Kgs,0.0,0.0,Export
+2026,10,Oct,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2026,10,Oct,Groundnuts,Kgs,0.0,0.0,Export
+2026,10,Oct,Plastics and Other Articles Thereof,Kgs,0.0,0.0,Export
+2026,10,Oct,Macadamia Nuts,Kgs,0.0,0.0,Export
+2026,10,Oct,Spices,Kgs,0.0,0.0,Export
+2026,10,Oct,"Beverages, Spirits, Vinegar",Litres,0.0,0.0,Export
+2026,10,Oct,Natural Rubber,Kgs,0.0,0.0,Export
+2026,10,Oct,Wood Sawn and Plied,Kgs,0.0,0.0,Export
+2026,10,Oct,Woven Fabric,Kgs,0.0,0.0,Export
+2026,10,Oct,Apparel Clothing: Knitted or Crocheted,No,0.0,0.0,Export
+2026,10,Oct,Apparel Clothing: Not Knitted or Crocheted,No,0.0,0.0,Export
+2026,10,Oct,Fish,Kgs,0.0,0.0,Export
+2026,10,Oct,Coconut,Kgs,0.0,0.0,Export
+2026,10,Oct,Scrap Metal,Kgs,0.0,0.0,Export
+2026,10,Oct,Wooden Furniture,Kgs,0.0,0.0,Export
+2026,10,Oct,Other Exports,,0.0,0.0,Export
+2026,11,Nov,Tea,Kgs,0.0,0.0,Export
+2026,11,Nov,Tobacco,Kgs,0.0,0.0,Export
+2026,11,Nov,Cotton,Kgs,0.0,0.0,Export
+2026,11,Nov,Sugar,Kgs,0.0,0.0,Export
+2026,11,Nov,Soya Beans,Kgs,0.0,0.0,Export
+2026,11,Nov,Pulses,Kgs,0.0,0.0,Export
+2026,11,Nov,Rice,Kgs,0.0,0.0,Export
+2026,11,Nov,Coffee,Kgs,0.0,0.0,Export
+2026,11,Nov,Skins and Hides,Kgs,0.0,0.0,Export
+2026,11,Nov,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2026,11,Nov,Groundnuts,Kgs,0.0,0.0,Export
+2026,11,Nov,Plastics and Other Articles Thereof,Kgs,0.0,0.0,Export
+2026,11,Nov,Macadamia Nuts,Kgs,0.0,0.0,Export
+2026,11,Nov,Spices,Kgs,0.0,0.0,Export
+2026,11,Nov,"Beverages, Spirits, Vinegar",Litres,0.0,0.0,Export
+2026,11,Nov,Natural Rubber,Kgs,0.0,0.0,Export
+2026,11,Nov,Wood Sawn and Plied,Kgs,0.0,0.0,Export
+2026,11,Nov,Woven Fabric,Kgs,0.0,0.0,Export
+2026,11,Nov,Apparel Clothing: Knitted or Crocheted,No,0.0,0.0,Export
+2026,11,Nov,Apparel Clothing: Not Knitted or Crocheted,No,0.0,0.0,Export
+2026,11,Nov,Fish,Kgs,0.0,0.0,Export
+2026,11,Nov,Coconut,Kgs,0.0,0.0,Export
+2026,11,Nov,Scrap Metal,Kgs,0.0,0.0,Export
+2026,11,Nov,Wooden Furniture,Kgs,0.0,0.0,Export
+2026,11,Nov,Other Exports,,0.0,0.0,Export
+2026,12,Dec,Tea,Kgs,0.0,0.0,Export
+2026,12,Dec,Tobacco,Kgs,0.0,0.0,Export
+2026,12,Dec,Cotton,Kgs,0.0,0.0,Export
+2026,12,Dec,Sugar,Kgs,0.0,0.0,Export
+2026,12,Dec,Soya Beans,Kgs,0.0,0.0,Export
+2026,12,Dec,Pulses,Kgs,0.0,0.0,Export
+2026,12,Dec,Rice,Kgs,0.0,0.0,Export
+2026,12,Dec,Coffee,Kgs,0.0,0.0,Export
+2026,12,Dec,Skins and Hides,Kgs,0.0,0.0,Export
+2026,12,Dec,Live Trees and Flowers,Kgs,0.0,0.0,Export
+2026,12,Dec,Groundnuts,Kgs,0.0,0.0,Export
+2026,12,Dec,Plastics and Other Articles Thereof,Kgs,0.0,0.0,Export
+2026,12,Dec,Macadamia Nuts,Kgs,0.0,0.0,Export
+2026,12,Dec,Spices,Kgs,0.0,0.0,Export
+2026,12,Dec,"Beverages, Spirits, Vinegar",Litres,0.0,0.0,Export
+2026,12,Dec,Natural Rubber,Kgs,0.0,0.0,Export
+2026,12,Dec,Wood Sawn and Plied,Kgs,0.0,0.0,Export
+2026,12,Dec,Woven Fabric,Kgs,0.0,0.0,Export
+2026,12,Dec,Apparel Clothing: Knitted or Crocheted,No,0.0,0.0,Export
+2026,12,Dec,Apparel Clothing: Not Knitted or Crocheted,No,0.0,0.0,Export
+2026,12,Dec,Fish,Kgs,0.0,0.0,Export
+2026,12,Dec,Coconut,Kgs,0.0,0.0,Export
+2026,12,Dec,Scrap Metal,Kgs,0.0,0.0,Export
+2026,12,Dec,Wooden Furniture,Kgs,0.0,0.0,Export
+2026,12,Dec,Other Exports,,0.0,0.0,Export
