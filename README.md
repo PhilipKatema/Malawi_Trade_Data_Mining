@@ -3,7 +3,7 @@
 > **A four-module KNIME data mining analysis of Malawi's trade economy (2022–2025)**  
 > *Time Series Forecasting · Commodity Clustering · Anomaly Detection · Association Rule Mining*
 
-[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-View%20Results-C9A84C?style=for-the-badge)](https://github.com/PhilipKatema/Malawi_Trade_Data_Mining/blob/main/docs/index.html)
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-View%20Results-C9A84C?style=for-the-badge)](https://philipkatema.github.io/Portfolio/post/malawi_trade_profile/Malawi_Trade_mining_dashboard)
 [![KNIME](https://img.shields.io/badge/Tool-KNIME%20Analytics%20Platform-orange?style=for-the-badge)](https://www.knime.com/)
 [![Dataset](https://img.shields.io/badge/Source-Malawi%20NSO-blue?style=for-the-badge)](https://www.nsomalawi.mw/)
 
