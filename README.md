@@ -151,7 +151,7 @@ malawi-trade-mining/
 MS Data Analytics in Business · Seattle Pacific University  
 6+ years experience in data analysis and management
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square)](https://linkedin.com/in/philip-katema)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square)](linkedin.com/in/phillip-katema-419632b3/)
 
 ---
 
