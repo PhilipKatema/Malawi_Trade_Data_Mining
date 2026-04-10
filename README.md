@@ -25,64 +25,64 @@ This project applies four complementary data mining techniques to **3,000 record
 
 ## 🔬 Four Mining Modules
 
-### Module 1 - Time Series Forecasting
-Predicts monthly import and export values using lag features (lag-1, lag-3, lag-12) and cyclical seasonal encoding (sin/cos transformations). Compares Linear Regression vs Random Forest Regression.
+### Module 1 — Time Series Forecasting
+Predicts monthly import and export values using lag features (lag-1, lag-3, lag-12) and cyclical seasonal encoding (sin/cos transformations). Compares Linear Regression vs Random Forest Regression on a temporally ordered 80/20 train-test split.
 
 | Model | Imports R² | Exports R² | Import MAPE | Export MAPE |
 |---|---|---|---|---|
 | Linear Regression | 0.546 | 0.513 | 8.7% | 32.0% |
 | **Random Forest** | **0.721** | **0.638** | **7.2%** | **24.6%** |
 
-**Key Finding:** Random Forest outperforms Linear Regression on all metrics. Exports are harder to forecast than imports due to Tobacco's auction season spike.
+**Key Finding:** Random Forest outperforms Linear Regression on all metrics. Export forecasting is harder than import forecasting — Tobacco's auction season creates spikes that are difficult to predict from lag features alone without commodity-level price data. Incorporating external shock indicators is identified as a logical next step for future modelling work.
 
 ---
 
-### Module 2 - Commodity Clustering
-Clusters 25 export commodities by 48-month trade behaviour using k-Means and Hierarchical Clustering with PCA dimensionality reduction.
+### Module 2 — Commodity Clustering
+Clusters 25 export commodities by 48-month trade behaviour using k-Means and Hierarchical Clustering (Average linkage) with Min-Max normalisation and PCA dimensionality reduction.
 
 | Cluster | Commodities | Interpretation |
 |---|---|---|
-| Dominant Outlier | Tobacco, Other Exports | Behaviourally isolated - algorithmically confirmed |
-| Mid-Tier Agricultural | Tea, Pulses, Groundnuts, Macadamia, Soya Beans | Best diversification candidates |
+| Dominant Outlier | Tobacco, Other Exports | Behaviourally isolated — confirmed by both algorithms independently |
+| Mid-Tier Agricultural | Tea, Pulses, Groundnuts, Macadamia, Soya Beans | Distinct seasonal patterns — most viable diversification candidates based on cluster separation |
 | Low-Value Mixed | Natural Rubber, Plastics, Scrap Metal, Sugar | Low volume, moderate variability |
-| Marginal Mass | 14 remaining commodities | Undifferentiated - minimal trade impact |
+| Marginal Mass | 14 remaining commodities | Near-identical PCA coordinates — undifferentiated trade behaviour |
 
-**Key Finding:** Both algorithms assign all 25 commodities to identical clusters (100% agreement), confirming Tobacco's behavioural uniqueness without being provided its value.
+**Key Finding:** Both algorithms assign all 25 commodities to identical clusters (100% agreement). Tobacco's behavioural uniqueness is confirmed algorithmically without the algorithms being provided its value — its seasonal auction cycle and scale create a trade signature no other commodity in the dataset replicates.
 
 ---
 
-### Module 4 - Anomaly Detection
-Applies a rolling Z-Score method (12-month window) to flag statistically abnormal trade periods across imports and exports.
+### Module 4 — Anomaly Detection
+Applies a rolling Z-Score method (12-month preceding window) to flag statistically abnormal trade periods. A four-tier classification is used: Anomaly (|Z| > 2.0), Elevated High, Normal, Elevated Low.
 
-| Flag Type | Count | Primary Driver |
+| Flag | Count | Primary Events |
 |---|---|---|
-| Anomaly High | 2 | Aug 2024 tobacco record; Jan 2026 structural import surge |
-| Anomaly Low | 1 | Apr 2023 Cyclone Freddy forex crisis |
-| Elevated High | 13 | Post-Freddy reconstruction; El Niño food imports; pre-devaluation exports |
-| Elevated Low | 13 | Post-devaluation compression; El Niño crop failure; Tanzania dispute |
+| Anomaly High | 2 | Aug 2024 tobacco season record; Jan 2026 structural import surge |
+| Anomaly Low | 1 | Apr 2023 post-Cyclone Freddy forex crisis |
+| Elevated High | 13 | Post-Freddy humanitarian response; El Niño food imports; kwacha devaluation period |
+| Elevated Low | 13 | Post-devaluation import compression; El Niño crop failure; Tanzania trade dispute |
 
 **Four Macro Shocks Identified:**
-1. 🌀 **Cyclone Freddy** - March 2023 · $680M economic damage
-2. 💱 **44% Kwacha Devaluation** - November 2023
-3. 🌵 **El Niño Drought** - January–September 2024 · 4.2M food insecure
-4. 🚧 **Tanzania Trade Dispute** - March 2025 · transit route closed
+1. 🌀 **Cyclone Freddy** — March 2023 · $680M economic damage (UNDRR, 2024)
+2. 💱 **44% Kwacha Devaluation** — November 2023 (Bloomberg, 2023)
+3. 🌵 **El Niño Drought** — 2024 · state of disaster declared in 23 of 28 districts (OCHA, 2024)
+4. 🚧 **Tanzania Trade Dispute** — March 2025 · transit route closed, fertilizer exports suspended (World Bank, 2025)
 
-**Key Finding:** The January 2026 import Anomaly High (Z=2.03, $390.7M) is not an isolated event - it is the structural capstone of a worsening pattern. World Bank: current account deficit near 20% of GDP, forex reserves below 1 month of imports.
+**Key Finding:** The January 2026 import Anomaly High (Z=2.03, $390.7M against a rolling mean of $314.8M) is not an isolated event — it exceeds an already-elevated 2025 baseline, consistent with a pattern of structural deterioration. World Bank (2025) confirms Malawi's current account deficit near 20% of GDP with forex reserves below one month of imports.
 
 ---
 
-### Module 5 - Association Rule Mining
-Discovers commodity co-movement patterns using pairwise Apriori logic (Min Support: 0.3, Min Confidence: 0.6, Min Lift: 1.2).
+### Module 5 — Association Rule Mining
+Discovers commodity co-movement patterns using pairwise Apriori logic (Min Support: 0.3, Min Confidence: 0.6, Min Lift: 1.2), applied separately to imports and exports.
 
-**Import Rules - Top Associations (Lift 1.5):**
-- Nuclear Reactors/Boilers ↔ Glass and Glassware *(construction cluster)*
-- Electrical Machinery ↔ Plastics *(manufacturing cluster)*
-- Animal/Vegetable Fats ↔ Vehicles *(discretionary/forex cluster)*
+**Import Rules — Top Associations (Lift 1.5):**
+- Nuclear Reactors/Boilers ↔ Glass and Glassware *(infrastructure/rebuilding periods)*
+- Electrical Machinery ↔ Plastics *(shared procurement cycles for industrial inputs)*
+- Animal/Vegetable Fats ↔ Vehicles *(co-movement consistent with forex availability)*
 
-**Export Rules - Top Association (Lift 1.583):**
-- **Spices ↔ Cotton** - strongest rule in the entire dataset (agro-ecological co-location)
+**Export Rules — Strongest Association (Lift 1.583):**
+- **Spices ↔ Cotton** — strongest rule in the entire dataset, consistent with agro-ecological co-movement
 
-**Key Finding:** Import co-movement is driven by **forex availability** (all categories respond to one binding constraint). Export co-movement is driven by **climate and agricultural geography** (harvest calendar + shared growing regions). This asymmetry - nature governing exports, finance governing imports - is the most succinct summary of Malawi's structural trade challenge.
+**Key Finding:** Import co-movement is consistent with a single binding constraint — foreign exchange availability — with all categories peaking and dropping together regardless of sector. Export co-movement is consistent with seasonal calendars and likely shared growing conditions. This asymmetry is the most succinct summary of Malawi's structural trade challenge as observed in this dataset.
 
 ---
 
@@ -92,20 +92,27 @@ Discovers commodity co-movement patterns using pairwise Apriori logic (Min Suppo
 malawi-trade-mining/
 │
 ├── data/
+│   ├── README.md                       ← Column reference + key statistics
 │   ├── Malawi_Imports.csv              ← 1,500 rows · 25 commodities
 │   ├── Malawi_Exports.csv              ← 1,500 rows · 25 commodities
 │   └── Malawi_Trade_Combined.csv       ← 3,000 rows · combined with Trade_Type
 │
 ├── knime/
-│   └── Malawi_Trade_Mining.knwf        ← KNIME workflow export (all 4 modules)
-│
-├── dashboard/
-│   └── Malawi_DataMining_Dashboard.html ← Interactive results dashboard (Plotly.js)
+│   └── KNIME_WORKFLOW_INSTRUCTIONS.md  ← Import guide + required extensions
 │
 ├── report/
-│   └── Malawi_Data_Mining_Report.docx  ← Full written report (Word)
+│   └── Malawi_Data_Mining_Report_v2.docx ← Full written report (corrected v2)
 │
-└── README.md
+├── docs/
+│   ├── index.html                      ← Interactive results dashboard (Plotly.js)
+│   └── _config.yml                     ← GitHub Pages config
+│
+├── .github/
+│   └── deploy.yml                      ← GitHub Actions auto-deploy workflow
+│
+├── README.md
+├── LICENSE
+└── .gitignore
 ```
 
 ---
@@ -114,18 +121,27 @@ malawi-trade-mining/
 
 | Tool | Purpose |
 |---|---|
-| KNIME Analytics Platform | Data mining workflow (all 4 modules) |
-| Python (scikit-learn) | Association Rule Mining via KNIME Python Script node |
+| KNIME Analytics Platform | Data mining workflow — all 4 modules |
+| Python (scikit-learn, pandas) | Association Rule Mining via KNIME Python Script node |
 | Plotly.js | Interactive results dashboard |
-| Pandas / NumPy | Data preprocessing |
 
 **KNIME Nodes Used:** CSV Reader · GroupBy · Sorter · Lag Column · Math Formula · Row Filter · Partitioning · Linear Regression Learner · Random Forest Learner (Regression) · Numeric Scorer · PCA · Normalizer · Pivoting · k-Means · Hierarchical Clustering · Moving Aggregation · Rule Engine · Python Script · Line Plot · Scatter Plot
 
 ---
 
-## 📈 Key Results Summary
+## 📚 Key Sources
 
-> *"Malawi's trade economy is caught between two binding constraints: export revenue captive to a single commodity (Tobacco) whose global demand is declining, and import capacity captive to a chronic foreign exchange shortage that the export concentration perpetuates. Breaking this cycle requires simultaneous action on export diversification and macroeconomic stabilisation."*
+| Source | Used For |
+|---|---|
+| Malawi NSO | Primary dataset |
+| World Bank Malawi Economic Monitor (2025) | Current account deficit, forex reserves |
+| UNDRR Southern Africa Cyclone Analysis (2024) | Cyclone Freddy damage figures |
+| OCHA Malawi Drought Flash Appeal (2024) | El Niño disaster declaration, food insecurity figures |
+| Bloomberg (2023) | 44% kwacha devaluation figures |
+| FEWS NET (2023) | Post-Freddy forex reserve levels |
+| IFPRI (2024) | El Niño food import recommendations |
+| African Development Bank (2024) | Devaluation economic impact |
+| Tobacco Journal International (2025) | Tobacco demand trajectory |
 
 ---
 
@@ -133,7 +149,7 @@ malawi-trade-mining/
 
 **Philip Katema**  
 MS Data Analytics in Business · Seattle Pacific University  
-6+ years experience in data analysis and management  
+6+ years experience in data analysis and management
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square)](https://linkedin.com/in/philip-katema)
 
@@ -141,4 +157,4 @@ MS Data Analytics in Business · Seattle Pacific University
 
 ## 📄 License
 
-This project is for educational and portfolio purposes. Dataset sourced from the Malawi National Statistics Office (NSO).
+MIT License. Dataset sourced from the Malawi National Statistics Office (NSO). See LICENSE for full terms.
